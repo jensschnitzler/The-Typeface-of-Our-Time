@@ -36,6 +36,7 @@ function filterContent() {
     elmnt = z[i];
     filterVal = elmnt.getAttribute("data-filter");
     if (filterVal) {
+      console.log( 'filterVal ' + filterVal );
       source = elmnt.getElementsByClassName( filterVal );
       Object.assign(clone, source);
       elmnt.innerHTML = clone;
