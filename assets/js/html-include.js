@@ -33,7 +33,7 @@ function includeHTML() {
 
 function filterContent() {
   console.log( 'filterContent' );
-  var z, i, elmnt, filterVal, source, clone;
+  var z, i, elmnt, filterVal, sources, clone;
   z = document.getElementsByTagName("*");
   for (i = 0; i < z.length; i++) {
     elmnt = z[i];
@@ -41,11 +41,13 @@ function filterContent() {
       filterVal = elmnt.getAttribute("data-filter");
       if (filterVal) {
         console.log( 'filterVal ' + filterVal );
-        source = elmnt.getElementsByClassName( String(filterVal) );
-        console.log( 'source.length ' + source.length );
-        Object.assign(clone, source[0].textContent);
-        console.log( 'source[0] ' + source[0].textContent );
-        elmnt.innerHTML = clone;
+        sources = elmnt.getElementsByClassName( String(filterVal) );
+        source = sources[0].textContent;
+        console.log( 'source.length ' + sources.length );
+        console.log( 'source ' + source );
+        elmnt.innerHTML = source;
+        //Object.assign(clone, source);
+        //elmnt.innerHTML = clone;
       }
     }
   }
