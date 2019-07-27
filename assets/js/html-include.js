@@ -37,16 +37,15 @@ function filterContent() {
   z = document.getElementsByTagName("*");
   for (i = 0; i < z.length; i++) {
     elmnt = z[i];
-
     if (elmnt.hasAttribute("data-filter")) {
-
       filterVal = elmnt.getAttribute("data-filter");
       if (filterVal) {
         console.log( 'filterVal ' + filterVal );
         source = elmnt.getElementsByClassName( String(filterVal) );
         console.log( 'source.length ' + source.length );
-        Object.assign(clone, source[0]);
-        elmnt.innerHTML = clone;
+        //Object.assign(clone, source[0]);
+        console.log( 'source[0] ' + source[0] );
+        //elmnt.innerHTML = clone;
       }
     }
   }
