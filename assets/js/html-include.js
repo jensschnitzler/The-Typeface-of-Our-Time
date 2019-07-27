@@ -1,8 +1,8 @@
 function includeHTML() {
   var z, i, elmnt, file, xhttp;
   /* Loop through a collection of all HTML elements: */
-  //z = document.getElementsByTagName("*");
-  z = document.getElementsByClassName("markdown-body");
+  z = document.getElementsByTagName("*");
+  //z = document.getElementsByClassName("markdown-body");
   for (i = 0; i < z.length; i++) {
     elmnt = z[i];
     /*search for elements with a certain atrribute:*/
@@ -12,7 +12,9 @@ function includeHTML() {
       xhttp = new XMLHttpRequest();
       xhttp.onreadystatechange = function() {
         if (this.readyState == 4) {
-          if (this.status == 200) {elmnt.innerHTML = this.responseText;}
+          if (this.status == 200) {
+            elmnt.innerHTML = this.responseText;
+          }
           if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
           /* Remove the attribute, and call this function once more: */
           elmnt.removeAttribute("w3-include-html");
@@ -27,4 +29,19 @@ function includeHTML() {
   }
 }
 
+function filterContent() {
+  var z, i, elmnt, filterVal, source, clone;
+  z = document.getElementsByTagName("*");
+  for (i = 0; i < z.length; i++) {
+    elmnt = z[i];
+    filterVal = elmnt.getAttribute("data-filter");
+    if (filterVal) {
+      source = elmnt.getElementsByClassName( filterVal );
+      Object.assign(clone, source);
+      elmnt.innerHTML = clone;
+    }
+  }
+}
+
 includeHTML();
+filterContent();
