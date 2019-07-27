@@ -1,4 +1,5 @@
 function includeHTML() {
+  console.log( 'includeHTML' );
   var z, i, elmnt, file, xhttp;
   /* Loop through a collection of all HTML elements: */
   z = document.getElementsByTagName("*");
@@ -19,6 +20,7 @@ function includeHTML() {
           /* Remove the attribute, and call this function once more: */
           elmnt.removeAttribute("w3-include-html");
           includeHTML();
+          filterContent(); // custom function
         }
       }
       xhttp.open("GET", file, true);
@@ -30,6 +32,7 @@ function includeHTML() {
 }
 
 function filterContent() {
+  console.log( 'filterContent' );
   var z, i, elmnt, filterVal, source, clone;
   z = document.getElementsByTagName("*");
   for (i = 0; i < z.length; i++) {
