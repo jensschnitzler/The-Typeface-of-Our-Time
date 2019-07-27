@@ -42,8 +42,8 @@ function filterContent() {
       if (filterVal) {
         console.log( 'filterVal ' + filterVal );
         sources = elmnt.getElementsByClassName( String(filterVal) );
-        source = sources[0].textContent;
         console.log( 'source.length ' + sources.length );
+        source = sources[0].innerHTML;
         console.log( 'source ' + source );
         elmnt.innerHTML = source;
         //Object.assign(clone, source);
