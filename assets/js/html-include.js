@@ -38,7 +38,8 @@ function filterContent() {
     if (filterVal) {
       console.log( 'filterVal ' + filterVal );
       source = elmnt.getElementsByClassName( filterVal );
-      Object.assign(clone, source);
+      console.log( 'source.length ' + source.length );
+      Object.assign(clone, source[0]);
       elmnt.innerHTML = clone;
     }
   }
