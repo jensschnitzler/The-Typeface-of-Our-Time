@@ -43,9 +43,9 @@ function filterContent() {
         console.log( 'filterVal ' + filterVal );
         source = elmnt.getElementsByClassName( String(filterVal) );
         console.log( 'source.length ' + source.length );
-        //Object.assign(clone, source[0]);
-        console.log( 'source[0] ' + source[0] );
-        //elmnt.innerHTML = clone;
+        Object.assign(clone, source[0].textContent);
+        console.log( 'source[0] ' + source[0].textContent );
+        elmnt.innerHTML = clone;
       }
     }
   }
