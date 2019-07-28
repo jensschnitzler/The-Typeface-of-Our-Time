@@ -83,6 +83,18 @@ table tr td {
   flex: 1 1 0;
 }
 
+figure {
+  display: block;
+  max-height: 90vh;
+  max-width: 100%;
+  margin: 0 auto;
+  background: red;
+}
+
+figcaption {
+  display: block;
+}
+
 img {
   display: block;
   max-height: 90vh;
