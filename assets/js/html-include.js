@@ -21,6 +21,7 @@ function includeHTML() {
           elmnt.removeAttribute("w3-include-html");
           includeHTML();
           filterContent(); // custom function
+          figureItOut();  // custom function from figure.js
         }
       }
       xhttp.open("GET", file, true);
