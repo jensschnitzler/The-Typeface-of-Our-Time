@@ -1,5 +1,4 @@
-# Index of Schools, Movements, Styles, Personalities and Typefaces
-
+## Index of Schools, Movements, Styles, Personalities and Typefaces
 
 | :--- |:---- |:----|
 | 1st–4th century | Roman Empire |

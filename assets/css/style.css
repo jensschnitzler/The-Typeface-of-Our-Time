@@ -5,7 +5,7 @@ html, body {
   font-family: serif;
   /* min value */
   font-size: 15px;
-  line-height: 18px;
+  line-height: 1.5;
   letter-spacing: 0px;
   margin: 0;
   padding: 0;
@@ -15,7 +15,7 @@ html, body {
   html, body {
     /* scaling from min to max value */
     font-size: calc(15px + 15 * ((100vw - 400px) / 2600));
-    line-height: calc(18px + 24 * ((100vw - 400px) / 2600));
+    /*line-height: calc(18px + 24 * ((100vw - 400px) / 2600));*/
     letter-spacing: calc(0px + .4 * ((100vw - 400px) / 2600));
   }
 }
@@ -24,7 +24,7 @@ html, body {
   html, body {
     /* max value */
     font-size: 30px;
-    line-height: 42px;
+    /*line-height: 42px;*/
     letter-spacing: .4px;
   }
 }
@@ -51,6 +51,10 @@ p {
   text-indent: 1rem;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.1;
+}
+
 a, a:link, a:hover, a:focus, a:active {
   color: inherit;
   text-decoration: underline;
@@ -63,5 +67,5 @@ table tr {
 
 table tr td {
   display: block;
-  flex: 1 1 auto;
+  flex: 1 1 0;
 }
