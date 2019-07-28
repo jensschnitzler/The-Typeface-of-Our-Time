@@ -9,8 +9,18 @@
 
 function figureItOut(){
   $('img').each(function(){
-    myAlt = $(this).attr('alt');
-    console.log(myAlt);
+    myImage = $(this);
+    myParent = myImage.parent();
+
+    if( myParent.is('p') ){
+      myAlt = myImage.attr('alt');
+      console.log(myAlt);
+      $( "<figure></figure>" ).insertAfter( myParent ).append([
+          myImage.clone(),
+          $('<figcaption>' + myAlt + '<figcaption/>');
+        ]);
+      myParent.remove();
+    }
   });
 }
 
