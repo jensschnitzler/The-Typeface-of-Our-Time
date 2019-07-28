@@ -40,11 +40,11 @@ function filterContent() {
     if (elmnt.hasAttribute("data-filter")) {
       filterVal = elmnt.getAttribute("data-filter");
       if (filterVal) {
-        console.log( 'filterVal ' + filterVal );
+        //console.log( 'filterVal ' + filterVal );
         sources = elmnt.getElementsByClassName( String(filterVal) );
-        console.log( 'source.length ' + sources.length );
+        //console.log( 'source.length ' + sources.length );
         source = sources[0].innerHTML;
-        console.log( 'source ' + source );
+        //console.log( 'source ' + source );
         elmnt.innerHTML = source;
         //Object.assign(clone, source);
         //elmnt.innerHTML = clone;
