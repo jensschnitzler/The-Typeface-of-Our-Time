@@ -47,7 +47,10 @@ nav>a {
 
 p {
   margin: 0;
-  padding: 0;
+  padding: 0;  
+}
+
+p+p {
   text-indent: 1rem;
 }
 
