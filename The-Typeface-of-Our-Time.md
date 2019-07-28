@@ -2,15 +2,15 @@
 
 A historical view of typography and typeface design as a manifestation of cultural worldviews of various artistic movements and epochs by Jens Schnitzler.
 
-![Production of phototypesetting in the state-owned font foundry Typoart in the GDR.](1)
+![Production of phototypesetting in the state-owned font foundry Typoart in the GDR.](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
 
 {{TOC}}
 
-![Futura type specimen commissioned by the New York sales office of Bauersche Gießerei.](2)
+![Futura type specimen commissioned by the New York sales office of Bauersche Gießerei.](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
 
-![Advertisement of Futura by Paul Renner, 1927.](3)
+![Advertisement of Futura by Paul Renner, 1927.](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
 
-![„Die zeitgemäße Schrift – Studienhefte für Schrift und Formgestaltung“, july 1929, issue 9. This design magazine was published quarterly by Heintze & Blanckertz in Berlin and Leipzig. The publishers were Franz Leberecht and Paul Heinrich Richter. After the Schriftmuseum Rudolf Blanckertz was founded in 1926, Blanckertz decided to create a podium for contemporary design and founded the magazine in 1928 as one of the first design magazines ever. It was mainly devoted to a  traditional style with publication of works by Rudolf Koch or Friedrich Heinrichsen. But occasionally modernists such as Paul Renner, Edward Johnston and Hermann Zapf wrote for the magazine as well. The magazine was ceased with the number 64, 1943 due to the war and not continued after 1945.](4)
+![„Die zeitgemäße Schrift – Studienhefte für Schrift und Formgestaltung“, july 1929, issue 9. This design magazine was published quarterly by Heintze & Blanckertz in Berlin and Leipzig. The publishers were Franz Leberecht and Paul Heinrich Richter. After the Schriftmuseum Rudolf Blanckertz was founded in 1926, Blanckertz decided to create a podium for contemporary design and founded the magazine in 1928 as one of the first design magazines ever. It was mainly devoted to a  traditional style with publication of works by Rudolf Koch or Friedrich Heinrichsen. But occasionally modernists such as Paul Renner, Edward Johnston and Hermann Zapf wrote for the magazine as well. The magazine was ceased with the number 64, 1943 due to the war and not continued after 1945.](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
 
 ## Introduction
 
@@ -42,7 +42,7 @@ The main text is accompanied by marginal notes, which contain various informatio
 
 Many mentioned datings, such as in the heading "Gothic (12th - 15th century)," may be a matter of interpretation, since sources often not quite concur. They thus serve more to convey a relative chronology of events, persons and works, as a precise definition. Fortunately, it is not decisive for the understanding of the text whether the Roman imperial era took place a century earlier or later, or whether the Swiss Style began five years earlier, or whether a typeface is dated by the difficult-to-retrace date of first drawing or its more easily verifiable publication date. Of course I am very happy about being pointed to any possible misstatements and misunderstandings regarding all given information.
 
-![Poster for the lecture by Jeff Keedy at CalArts University, designed by Edward Fella, 1996](5)
+![Poster for the lecture by Jeff Keedy at CalArts University, designed by Edward Fella, 1996](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
 
 ## Preliminary Notes
 
