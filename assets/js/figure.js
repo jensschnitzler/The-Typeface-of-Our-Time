@@ -8,6 +8,7 @@
 */
 
 function figureItOut(){
+  console.log('figureItOut');
   $('img').each(function(){
     myImage = $(this);
     myParent = myImage.parent();
