@@ -53,11 +53,14 @@ p {
 
 h1, h2, h3, h4, h5, h6 {
   line-height: 1.1;
+  margin-left: 1rem;
+  text-transform: uppercase;
 }
 
 a, a:link, a:hover, a:focus, a:active {
   color: inherit;
-  text-decoration: underline;
+  text-decoration: none;
+  color: rgb(0,0,250);
 }
 
 table tr {

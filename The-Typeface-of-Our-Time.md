@@ -10,7 +10,7 @@ A historical view of typography and typeface design as a manifestation of cultur
 
 ![Advertisement of Futura by Paul Renner, 1927.](3)
 
-![„Die zeitgemäße Schrift – Studienhefte für Schrift und Formgestaltung“, july 1929, issue 9. This design magazine was published quarterly by Heintze & Blanckertz in Berlin and Leipzig. The publishers were Franz Leberecht and Paul Heinrich Richter. After the *Schriftmuseum Rudolf Blanckertz* was founded in 1926, Blanckertz decided to create a podium for contemporary design and founded the magazine in 1928 as one of the first design magazines ever. It was mainly devoted to a  traditional style with publication of works by Rudolf Koch or Friedrich Heinrichsen. But occasionally modernists such as Paul Renner, Edward Johnston and Hermann Zapf wrote for the magazine as well. The magazine was ceased with the number 64, 1943 due to the war and not continued after 1945.](4)
+![„Die zeitgemäße Schrift – Studienhefte für Schrift und Formgestaltung“, july 1929, issue 9. This design magazine was published quarterly by Heintze & Blanckertz in Berlin and Leipzig. The publishers were Franz Leberecht and Paul Heinrich Richter. After the Schriftmuseum Rudolf Blanckertz was founded in 1926, Blanckertz decided to create a podium for contemporary design and founded the magazine in 1928 as one of the first design magazines ever. It was mainly devoted to a  traditional style with publication of works by Rudolf Koch or Friedrich Heinrichsen. But occasionally modernists such as Paul Renner, Edward Johnston and Hermann Zapf wrote for the magazine as well. The magazine was ceased with the number 64, 1943 due to the war and not continued after 1945.](4)
 
 ## Introduction
 
@@ -47,6 +47,4 @@ Many mentioned datings, such as in the heading "Gothic (12th - 15th century)," m
 ## Preliminary Notes
 
 The following introductory remarks precede the historical overview in the main part and clarify basic assumptions, connections and meanings. Here, the link between typography and world view is shown first, then it will be explained why the technical and economic influences on type design and typography can not be left out, then it will be clarified, which weight the research applies to the two different areas of designing a typeface and applying a typeface, i.e. typography, and finally recurring, superordinate motifs are presented, which seem to be interwoven with the typographical history: architecture, religiosity and a way of thinking shaped by the philosophical enlightenment.
-
-###
 
