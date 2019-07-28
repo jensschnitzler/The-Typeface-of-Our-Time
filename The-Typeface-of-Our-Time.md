@@ -20,5 +20,6 @@ The starting point for the research that led to this text was a type design semi
 
 Through understanding design-historical contexts this research aims at laying the foundation for tackling the following questions: How does history affect typography and typeface design today? What can we learn from the design ideologies and dogmas of the past for today's design dialogue? Which ideals should design follow today? And in this sense: is there a design that is appropriate, consistent and correct for today?
 
+In his book *Counterpunch* font designer and theorist Fred Smeijers writes: "What history can do is help us to feel connected with the things that we do and are interested in. […] Because without such knowledge [of history] you float, without direction.“[1](#Smeijers-Counterpunch-162) Making the connection described and overcoming this aimless hovering are the intent of the book.
 
 
