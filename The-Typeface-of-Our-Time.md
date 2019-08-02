@@ -2,9 +2,9 @@
 
 A historical view of typography and typeface design as a manifestation of cultural worldviews of various artistic movements and epochs by Jens Schnitzler.
 
-![Production of phototypesetting in the state-owned font foundry Typoart in the GDR.](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
-
 {{TOC}}
+
+![Production of phototypesetting in the state-owned font foundry Typoart in the GDR.](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
 
 ![Futura type specimen commissioned by the New York sales office of Bauersche Gießerei.](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
 

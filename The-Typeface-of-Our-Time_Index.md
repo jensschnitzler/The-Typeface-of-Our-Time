@@ -8,7 +8,7 @@
 | 1480–1533 | Geoffroy Tory |
 | 1496 | Bembo | Francesco Griffo |
 | 1499–1561 | Claude Garamond |
-| 17th century | Barock, Rokoko |
+| 17th century | Baroque, Rococo |
 | 1666–1714 | Philippe Grandjean |
 | 18th century | Age of Enlightenment, Neoclassicism |
 | 1706–1775 | John Baskerville |
@@ -83,8 +83,8 @@
 | 1930 | Joanna | Eric Gill |
 | 1930 | Marathon | Rudolf Koch |
 | 1930 | Perpetua | Eric Gill |
-| 1930er | Futurismus |
-| 1930er–1940er | Nationalism |
+| 1930s | Futurismus |
+| 1930s–1940s | Nationalism |
 | 1931 | Times New Roman | Stanley Morison, Victor Lardent |
 | 1931 | Transit | Jan Tschichold |
 | 1931–2014 | Massimo Vignelli |
@@ -126,8 +126,8 @@
 | 1957 | Neville Brody |
 | 1959 | Carol Twombly |
 | 1960 | Irma Boom |
-| 1960er–1970er | Swiss Punk |
-| 1960er–1990er | International Style |
+| 1960s–1970s | Swiss Punk |
+| 1960s–1990s | International Style |
 | 1961 | Fred Smeijers |
 | 1961 | Linda van Deursen |
 | 1961 | Zuzana Ličko |
@@ -151,9 +151,9 @@
 | 1969 | Human Alphabet | Anthon Beeke, Bernase Roman, Ronné Bonder, Tom Carnase |
 | 1970 | Bolt | Ronné Bonder, Tom Carnase |
 | 1970 | Tobias Frere-Jones |
-| 1970er | Punk |
-| 1970er–1990er | Deconstructivism |
-| 1970er–1990er | Postmodernism |
+| 1970s | Punk |
+| 1970s–1990s | Deconstructivism |
+| 1970s–1990s | Postmodernism |
 | 1973 | Ludovic Balland |
 | 1973 | Peter Biľak |
 | 1974 | American Typewriter | Joel Kaden, Tony Stan |
@@ -165,7 +165,7 @@
 | 1978 | Galliard | Robert Granjon, Matthew Carter |
 | 1980 | Caslon Graphique | Leslie Usherwood |
 | 1980 | Icone | Adrian Frutiger |
-| 1980er–1990er | Grunge |
+| 1980s–1990s | Grunge |
 | 1981 | Kris Sowersby |
 | 1982 | Modern 216 | Edward Benguiat |
 | 1982 | Trinité | Bram de Does |
@@ -220,7 +220,7 @@
 | 1998 | Zapfino | Hermann Zapf |
 | 1999 | Clifford Eighteen | Akira Kobayashi |
 | 2000 | Gotham | Tobias Frere-Jones |
-| 2000er–heute | Meta-Modernism |
+| 2000s–today | Meta-Modernism |
 | 2001 | Lucida Grande | Kris Holmes, Charles Bigelow |
 | 2001 | Warnock Pro Regular | Robert Slimbach |
 | 2002 | Fedra | Peter Biľak |
