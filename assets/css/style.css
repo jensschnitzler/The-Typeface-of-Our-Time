@@ -52,12 +52,12 @@ p {
 }
 
 p+p {
-  text-indent: 1rem;
+  text-indent: 2rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
   line-height: 1.1;
-  margin-left: 1rem;
+  margin-left: 2rem;
   text-transform: uppercase;
 }
 
@@ -85,10 +85,6 @@ table tr td {
 
 figure {
   display: block;
-  max-height: 90vh;
-  max-width: 100%;
-  margin: 0 auto;
-  background: red;
 }
 
 figcaption {
@@ -97,7 +93,11 @@ figcaption {
 
 img {
   display: block;
-  max-height: 90vh;
-  max-width: 100%;
+  min-height: 200px;
+  height: 50vh;
+  min-height: 600px;
+  width: 100%;
   margin: 0 auto;
+  object-fit: contain;
+  object-position: center;
 }
