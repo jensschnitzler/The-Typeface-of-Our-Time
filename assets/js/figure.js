@@ -15,7 +15,7 @@ function figureItOut(){
 
     if( myParent.is('p') ){
       myAlt = myImage.attr('alt');
-      console.log(myAlt);
+      console.log('myAlt: ' + myAlt);
       $( "<figure></figure>" ).insertAfter( myParent ).append( myImage.clone() ).append( $('<figcaption>' + myAlt + '<figcaption/>') );
       myParent.remove();
     }
