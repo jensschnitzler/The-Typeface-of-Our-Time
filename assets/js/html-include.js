@@ -59,9 +59,9 @@ function filterContent() {
 
 function filterContent2() {
   console.log( 'filterContent2' );
-  var elements = $('main').find().attr('data-filter');
+  var elements = $('main').find('div').attr('data-filter');
   console.log( '1elements: ' + elements );
-  var elements = $('main').find().data('filter');
+  var elements = $('main').find('div').data('filter');
   console.log( '2elements: ' + elements );
   var elements = $('div[data-filter]');
   console.log( '3elements: ' + elements );
