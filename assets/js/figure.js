@@ -9,7 +9,8 @@
 
 function figureItOut(){
   console.log('figureItOut');
-  $('img').each(function(){
+  var myImages = $('main').find('img');
+  myImages.each(function(){
     myImage = $(this);
     console.log('myImage: ' + myImage);
     myParent = myImage.parent();
