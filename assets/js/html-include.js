@@ -19,7 +19,7 @@ function includeHTML() {
             //console.log('this.responseText: ' + this.responseText);
             filterContent2(); // custom function
             //filterContent(); // custom function
-            //figureItOut();  // custom function from figure.js
+            figureItOut();  // custom function from figure.js
           }
           if (this.status == 404) { elmnt.innerHTML = "Page not found."; }
           /* Remove the attribute, and call this function once more: */
@@ -75,6 +75,8 @@ function filterContent2() {
       var target = element.find( '.' + filter ).first();
       console.log( 'target: ' + target );
       element.html( target.html() );
+      element.find('h1').first().remove();
+      element.removeAttr('data-filter');
 
     } else {
       console.log( '… has no content' );
