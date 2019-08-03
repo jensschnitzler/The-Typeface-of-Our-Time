@@ -11,7 +11,9 @@ function figureItOut(){
   console.log('figureItOut');
   $('img').each(function(){
     myImage = $(this);
+    console.log('myImage: ' + myImage);
     myParent = myImage.parent();
+    console.log('myParent: ' + myParent);
 
     if( myParent.is('p') ){
       myAlt = myImage.attr('alt');
