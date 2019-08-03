@@ -74,7 +74,7 @@ function filterContent2() {
       console.log( 'filter: ' + filter );
       var target = element.find( '.' + filter ).first();
       console.log( 'target: ' + target );
-      element.html = target.html;
+      element.html( target.html() );
 
     } else {
       console.log( '… has no content' );
