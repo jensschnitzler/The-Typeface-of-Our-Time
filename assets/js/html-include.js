@@ -59,8 +59,12 @@ function filterContent() {
 
 function filterContent2() {
   console.log( 'filterContent2' );
-  var elements = $('main').children().attr('data-filter');
-  console.log( 'elements: ' + elements );
+  var elements = $('main').find().attr('data-filter');
+  console.log( '1elements: ' + elements );
+  var elements = $('main').find().data('filter');
+  console.log( '2elements: ' + elements );
+  var elements = $('[data-filter]');
+  console.log( '3elements: ' + elements );
 }
 
 $( document ).ready(function() {
