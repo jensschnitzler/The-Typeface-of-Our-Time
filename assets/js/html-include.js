@@ -16,7 +16,8 @@ function includeHTML() {
         if (this.readyState == 4) {
           if (this.status == 200) { //success
             elmnt.innerHTML = this.responseText;
-            console.log('this.responseText: ' + this.responseText);
+            //console.log('this.responseText: ' + this.responseText);
+            filterContent2(); // custom function
             //filterContent(); // custom function
             //figureItOut();  // custom function from figure.js
           }
@@ -54,6 +55,12 @@ function filterContent() {
       }
     }
   }
+}
+
+function filterContent2() {
+  console.log( 'filterContent2' );
+  var elements = $('main').children().attr('data-filter');
+  console.log( 'elements: ' + elements );
 }
 
 $( document ).ready(function() {
