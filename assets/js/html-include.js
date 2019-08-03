@@ -65,6 +65,18 @@ function filterContent2() {
   console.log( '2elements: ' + elements );
   var elements = $('div[data-filter]');
   console.log( '3elements: ' + elements );
+
+  elements.each(function(i){
+    var element = $(this);
+    console.log( i + ' element:' );
+
+    if ( element.html().length > 0 ) {
+      console.log( '… has content' );
+    } else {
+      console.log( '… has no content' );
+    }
+    
+  });
 }
 
 $( document ).ready(function() {
