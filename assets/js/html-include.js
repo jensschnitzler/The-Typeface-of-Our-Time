@@ -17,8 +17,8 @@ function includeHTML() {
           if (this.status == 200) { //success
             elmnt.innerHTML = this.responseText;
             console.log('this.responseText: ' + this.responseText);
-            filterContent(); // custom function
-            figureItOut();  // custom function from figure.js
+            //filterContent(); // custom function
+            //figureItOut();  // custom function from figure.js
           }
           if (this.status == 404) { elmnt.innerHTML = "Page not found."; }
           /* Remove the attribute, and call this function once more: */
@@ -57,4 +57,4 @@ function filterContent() {
 }
 
 includeHTML();
-filterContent();
+//filterContent();

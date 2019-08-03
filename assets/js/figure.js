@@ -27,5 +27,5 @@ function figureItOut(){
 }
 
 $( document ).ready(function() {
-  figureItOut();
+  //figureItOut();
 });
