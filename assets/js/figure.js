@@ -10,6 +10,7 @@
 function figureItOut(){
   console.log('figureItOut');
   var myImages = $('main').find('img');
+  console.log('myImages: ' + myImages);
   myImages.each(function(){
     myImage = $(this);
     console.log('myImage: ' + myImage);
