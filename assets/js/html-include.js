@@ -63,7 +63,7 @@ function filterContent2() {
   console.log( '1elements: ' + elements );
   var elements = $('main').find().data('filter');
   console.log( '2elements: ' + elements );
-  var elements = $('[data-filter]');
+  var elements = $('div[data-filter]');
   console.log( '3elements: ' + elements );
 }
 
