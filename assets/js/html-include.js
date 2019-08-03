@@ -56,5 +56,7 @@ function filterContent() {
   }
 }
 
-includeHTML();
-//filterContent();
+$( document ).ready(function() {
+  includeHTML();
+  //filterContent();
+});
