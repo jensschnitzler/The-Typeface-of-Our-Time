@@ -59,10 +59,7 @@ function filterContent() {
 
 function filterContent2() {
   console.log( 'filterContent2' );
-  var elements = $('main').find('div').attr('data-filter');
-  console.log( '1elements: ' + elements );
-  var elements = $('main').find('div').data('filter');
-  console.log( '2elements: ' + elements );
+
   var elements = $('div[data-filter]');
   console.log( '3elements: ' + elements );
 
@@ -71,11 +68,18 @@ function filterContent2() {
     console.log( i + ' element:' );
 
     if ( element.html().length > 0 ) {
+
       console.log( '… has content' );
+      var filter = element.data('filter');
+      console.log( 'filter: ' + filter );
+      var target = element.find( '.' + filter ).first();
+      console.log( 'target: ' + target );
+      element.html = target.html;
+
     } else {
       console.log( '… has no content' );
     }
-    
+
   });
 }
 
