@@ -67,6 +67,17 @@ p {
   margin: 0;
   padding: 0;
   margin-bottom: 1rem;
+  position: relative;
+  display: block;
+  margin: 1rem 1rem 1rem 2rem;
+}
+
+p>.count {
+  color: grey;
+  position: absolute;
+  top: 0;
+  left: -1em;
+  display: block;
 }
 
 p+p {
