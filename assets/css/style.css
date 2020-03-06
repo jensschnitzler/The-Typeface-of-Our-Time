@@ -1,7 +1,7 @@
 html, body {
   scroll-behavior: smooth;
   background-color: #E6E6E6;
-  color: #000;
+  color: #111;
   font-size: 100%;
   font-family: sans-serif;
   /* min value */
@@ -76,8 +76,12 @@ p>.count {
   color: grey;
   position: absolute;
   top: 0;
-  left: -1em;
+  left: 0;
+  margin: 0;
+  padding: 0;
+  text-indent: 0;
   display: block;
+  transform: translateX(-100%);
 }
 
 p+p {
