@@ -3,7 +3,7 @@ console.log('=== listsources.js ===');
 function figureItOut(){
   console.log('=== listsources ===');
 
-  var myRefs = $('body').find('a');
+  var myRefs = $('main').find('a');
   console.log('myRefs: ' + myRefs);
   var myArray = [];
 
@@ -22,10 +22,9 @@ function figureItOut(){
   var myFootnoteContainer = $("<div class='footnotes'>Footnotes</div>")
   $("body").append( myFootnoteContainer );
 
-  myArray.each(function(i){
-    myFootnote = $(this);
-    console.log('myFootnote: ' + myFootnote);
-    $( myFootnoteContainer ).append( myFootnote );
+  jQuery.each( myArray, function( i, val ) {
+    console.log(i + ': ' + val);
+    $( myFootnoteContainer ).append( val );
   });
 }
 
