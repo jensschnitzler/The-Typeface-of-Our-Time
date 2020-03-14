@@ -1,6 +1,6 @@
 console.log('=== listsources.js ===');
 
-function figureItOut(){
+function listsources(){
   console.log('=== listsources ===');
 
   var myRefs = $('main').find('a');
@@ -29,5 +29,5 @@ function figureItOut(){
 }
 
 $( document ).ready(function() {
-  //figureItOut();
+  //listsources();
 });
