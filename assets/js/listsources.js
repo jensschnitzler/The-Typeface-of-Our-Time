@@ -19,8 +19,9 @@ function listsources(){
   myArray.sort();
   console.log('myArray: ' + myArray);
 
+  $('main').find('.footnotes').last().remove();
   var myFootnoteContainer = $("<div class='footnotes'>Footnotes</div>")
-  $("body").append( myFootnoteContainer );
+  $('main').append( myFootnoteContainer );
 
   jQuery.each( myArray, function( i, val ) {
     console.log(i + ': ' + val);
