@@ -9,20 +9,22 @@ function figureItOut(){
 
   myRefs.each(function(){
     myRef = $(this);
-    console.log('myRef: ' + myRef);
+    //console.log('myRef: ' + myRef);
     myRefSrc = myRef.attr('href');
-    console.log('myRefSrc: ' + myRefSrc);
+    //console.log('myRefSrc: ' + myRefSrc);
     myArray.push(myRefSrc);
   });
 
   myArray = jQuery.unique( myArray );
   myArray.sort();
+  console.log('myArray: ' + myArray);
 
   var myFootnoteContainer = $("<div class='footnotes'>Footnotes</div>")
   $("body").append( myFootnoteContainer );
 
   myArray.each(function(i){
     myFootnote = $(this);
+    console.log('myFootnote: ' + myFootnote);
     $( myFootnoteContainer ).append( myFootnote );
   });
 }
