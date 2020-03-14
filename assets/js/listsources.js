@@ -3,7 +3,7 @@ console.log('=== listsources.js ===');
 function listsources(){
   console.log('=== listsources ===');
 
-  var myRefs = $('main').find('a');
+  var myRefs = $('main').children('div').find('a');
   console.log('myRefs: ' + myRefs);
   var myArray = [];
 
