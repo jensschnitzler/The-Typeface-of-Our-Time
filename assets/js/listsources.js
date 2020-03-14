@@ -24,8 +24,9 @@ function listsources(){
   $('main').append( myFootnoteContainer );
 
   jQuery.each( myArray, function( i, val ) {
-    console.log(i + ': ' + val);
-    $( myFootnoteContainer ).append( val );
+    //console.log(i + ': ' + val);
+    var myFootnote = '<div>' + val + '</div>';
+    $( myFootnoteContainer ).append( myFootnote );
   });
 }
 
