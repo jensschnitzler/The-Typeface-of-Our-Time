@@ -11,13 +11,14 @@ function listsources(){
     myRef = $(this);
     //console.log('myRef: ' + myRef);
     myRefSrc = myRef.attr('href');
-    //console.log('myRefSrc: ' + myRefSrc);
+    var myRefSrc = myRefSrc.replace(/(:(.?[0-9]+)+)$/gi, ''); // remove page numbers at the end of the entry
+    console.log('myRefSrc: ' + myRefSrc);
     myArray.push(myRefSrc);
   });
 
   myArray = jQuery.unique( myArray );
   myArray.sort();
-  console.log('myArray: ' + myArray);
+  //console.log('myArray: ' + myArray);
 
   $('main').find('.footnotes').last().remove();
   var myFootnoteContainer = $("<div class='footnotes'>Footnotes</div>")
