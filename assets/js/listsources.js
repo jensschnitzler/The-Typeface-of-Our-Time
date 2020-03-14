@@ -16,8 +16,9 @@ function listsources(){
     myArray.push(myRefSrc);
   });
 
-  myArray = jQuery.unique( myArray );
   myArray.sort();
+  myArray = jQuery.unique( myArray );
+
   //console.log('myArray: ' + myArray);
 
   $('main').find('.footnotes').last().remove();
