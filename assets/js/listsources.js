@@ -1,16 +1,16 @@
 console.log('=== listsources.js ===');
 
 function figureItOut(){
-  console.log('listsources');
+  console.log('=== listsources ===');
 
-  var myRefs = $('main').find('a');
+  var myRefs = $('body').find('a');
   console.log('myRefs: ' + myRefs);
   var myArray = [];
 
   myRefs.each(function(){
     myRef = $(this);
     console.log('myRef: ' + myRef);
-    myRefSrc = myRefSrc.attr('href');
+    myRefSrc = myRef.attr('href');
     console.log('myRefSrc: ' + myRefSrc);
     myArray.push(myRefSrc);
   });

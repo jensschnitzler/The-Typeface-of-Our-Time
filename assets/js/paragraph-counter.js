@@ -1,7 +1,7 @@
 // count all paragraphs
 
 function paragraphCounter(){
-  console.log('paragraphCounter');
+  console.log('=== paragraphCounter ===');
   var elements = $('body').find('p');
 
   elements.each(function(i){
