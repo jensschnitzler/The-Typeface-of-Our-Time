@@ -1,5 +1,13 @@
 console.log('=== listsources.js ===');
 
+function unique(list) {
+  var result = [];
+  $.each(list, function(i, e) {
+    if ($.inArray(e, result) == -1) result.push(e);
+  });
+  return result;
+}
+
 function listsources(){
   console.log('=== listsources ===');
 
@@ -17,7 +25,7 @@ function listsources(){
   });
 
   myArray.sort();
-  myArray = jQuery.unique( myArray );
+  myArray = unique( myArray );
 
   //console.log('myArray: ' + myArray);
 
