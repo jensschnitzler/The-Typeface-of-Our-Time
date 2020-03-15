@@ -86,7 +86,9 @@
 
 ![Poster "Nord Express" by A.M. Cassandre, 1927 (src: christies.com/lotfinder/Lot/am-cassandre-1901-1968-nord-express-5720299-details.aspx)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
 
-![During his teaching position as head of the advertising workshop at the Bauhaus Dessau between 1925 and 1930, Herbert Bayer developed a monocameral alphabet, a typeface that is not separated into upper and lower case sets, but instead uses a mixed letter set. (src: bloomsburydesignlibrary.com/encyclopedia-chapter?docid=b-9781474246217&pdfid=9781474246217.ch-002.pdf&tocid=b-9781474246217-chapter21Futura by Paul Renner, 1927. Futura is a design milestone of the 20th century and influenced many of the following typeface designs. Futura was promoted as "the typeface of our time" and can be seen as a design-historical bridge between the early sans serif typefaces of the 19th century and the modern typefaces of the second half of the 20th century. | leanderriedl.com/journal/2018/8/6/the-typeface-for-our-time-paul-renner)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
+![During his teaching position as head of the advertising workshop at the Bauhaus Dessau between 1925 and 1930, Herbert Bayer developed a monocameral alphabet, a typeface that is not separated into upper and lower case sets, but instead uses a mixed letter set. (src: bloomsburydesignlibrary.com/encyclopedia-chapter?docid=b-9781474246217&pdfid=9781474246217.ch-002.pdf&tocid=b-9781474246217-chapter21)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
+
+![Futura by Paul Renner, 1927. Futura is a design milestone of the 20th century and influenced many of the following typeface designs. Futura was promoted as "the typeface of our time" and can be seen as a design-historical bridge between the early sans serif typefaces of the 19th century and the modern typefaces of the second half of the 20th century. | leanderriedl.com/journal/2018/8/6/the-typeface-for-our-time-paul-renner)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
 
 ![Futura by Paul Renner, 1927 The Futura is a design milestone of the 20th century and influenced many of the following typeface designs. Futura was promoted as "the typeface of our time" and can be seen as a design-historical bridge between the early sans serif typefaces of the 19th century and the modern typefaces of the second half of the 20th century. (src: leanderriedl.com/journal/2018/8/6/the-typeface-for-our-time-paul-renner)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
 
@@ -110,7 +112,9 @@
 
 ![May 1, 1968: Students and lecturers of the HfG demonstrate in front of the Stuttgart parliament for the preservation of the HfG.](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
 
-![Protests gather on the Women's Right March in August 1970. The 60s and 70s saw political movements worldwide, such as the anti-racist Civil Rights Movement, the feminist movement, the lesbian and gay movement, and anti-war movements. (src: thenation.com/article/shes-beautiful-when-shes-angry-reveals-radical-ordinary-women-1960s-feminismAvant Garde by Herb Lubalin, Volume 13, Spring 1971. An example of particularly close letter spacing, made possible by the new type of photo-setting. | fontsinuse.com/uses/21625/avant-garde-magazine-13)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
+![Protests gather on the Women's Right March in August 1970. The 60s and 70s saw political movements worldwide, such as the anti-racist Civil Rights Movement, the feminist movement, the lesbian and gay movement, and anti-war movements. (src: thenation.com/article/shes-beautiful-when-shes-angry-reveals-radical-ordinary-women-1960s-feminism)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
+
+![Avant Garde by Herb Lubalin, Volume 13, Spring 1971. An example of particularly close letter spacing, made possible by the new type of photo-setting. (Src: fontsinuse.com/uses/21625/avant-garde-magazine-13)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
 
 ![The magazine and the Avant Garde font of the same name by Herb Lubalin, Volume 13, Spring 1971, an example of particularly close letter spacing, made possible by the new type of phototypesetting. (src: fontsinuse.com/uses/21625/avant-garde-magazine-13)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
 
