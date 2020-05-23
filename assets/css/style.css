@@ -105,16 +105,16 @@ p>.count {
   top: 0;
   left: 0;
   margin: 0;
-  font-size: .5rem;
-  padding: 0 .2rem .2rem 0;
+  font-size: .4rem;
+  /*padding: 0 .2rem .2rem 0;*/
   text-indent: 0;
   display: block;
-  transform: translate(0, -100%);
+  transform: translate(0, -80%);
 }
 
 p+p {
   /*text-indent: 4rem;*/
-  margin-top: .6rem;
+  margin-top: .7rem;
 }
 
 a, a:link, a:hover, a:focus, a:active {
