@@ -69,36 +69,8 @@ nav>a {
   margin-right: .5rem;
 }
 
-p {
-  margin: 0;
-  padding: 0;
-  margin-bottom: 1rem;
-  position: relative;
-  display: block;
-  margin: 1rem 1rem 1rem 2rem;
-  font-family: 'Times New Roman', serif;
-}
-
-p>.count {
-  /*color: grey;*/
-  font-family: 'Helvetica', sans-serif;
-  text-align: right;
-  position: absolute;
-  top: 0;
-  left: 0;
-  margin: 0;
-  padding: 0 .5rem 0 0;
-  text-indent: 0;
-  display: block;
-  transform: translateX(-100%);
-}
-
-p+p {
-  /*text-indent: 4rem;*/
-}
-
 a,p,h1,h2,h3,h4,h5,h6 {
-  color: #000;
+  color: #111;
   font-weight: normal;
   font-style: normal;
   font-family: 'Helvetica', sans-serif;
@@ -110,6 +82,38 @@ h1,h2,h3,h4,h5,h6 {
   margin-top: 6rem;
   margin-bottom: 1rem;
   /*text-transform: uppercase;*/
+}
+
+p {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  display: block;
+  /*
+  margin-bottom: 1rem;
+  margin: 1rem 1rem 1rem 2rem;
+  */
+  font-family: 'Times New Roman', serif;
+}
+
+p>.count {
+  /*color: grey;*/
+  font-family: 'Helvetica', sans-serif;
+  text-align: left;
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 0;
+  font-size: .5rem;
+  padding: 0 .2rem .2rem 0;
+  text-indent: 0;
+  display: block;
+  transform: translate(0 -100%);
+}
+
+p+p {
+  /*text-indent: 4rem;*/
+  margin-top: .6rem;
 }
 
 a, a:link, a:hover, a:focus, a:active {
