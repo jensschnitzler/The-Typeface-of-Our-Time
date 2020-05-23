@@ -89,6 +89,7 @@ p {
   padding: 0;
   position: relative;
   display: block;
+  max-width: 30rem;
   /*
   margin-bottom: 1rem;
   margin: 1rem 1rem 1rem 2rem;
@@ -108,7 +109,7 @@ p>.count {
   padding: 0 .2rem .2rem 0;
   text-indent: 0;
   display: block;
-  transform: translate(0 -100%);
+  transform: translate(0, -100%);
 }
 
 p+p {
