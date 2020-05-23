@@ -2,18 +2,23 @@
 
 function paragraphCounter(){
   console.log('=== paragraphCounter ===');
-  var elements = $('body').find('p');
+  var containers = $('body').find('.js-count-paragraphs');
+  containers.each(function(j){
+    var container = $(this);
 
-  elements.each(function(i){
-    //console.log('i: ' + i);
-    var count = i + 1;
+    var elements = container.find('p');
 
-    var myCountBox = $(this).children('div.count');
-    if( myCountBox.length !== 0 ){
-      myCountBox.remove();
-    }
+    elements.each(function(i){
+      //console.log('i: ' + i);
+      var count = i + 1;
 
-    $(this).append('<div class="count">' + count + '</div>');
+      var myCountBox = $(this).children('div.count');
+      if( myCountBox.length !== 0 ){
+        myCountBox.remove();
+      }
+
+      $(this).prepend('<div class="count">' + count + '</div>');
+    });
   });
 }
 
