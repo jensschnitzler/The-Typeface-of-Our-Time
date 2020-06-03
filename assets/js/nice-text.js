@@ -1,11 +1,12 @@
 // make the text nicer
 
 function stringContainsPattern(str, pattern) {
-  //var str = "Hello world!";
-
-  // look for "Hello"
-  //var patt = /Hello/g;
   var result = pattern.test(str);
+  return result;
+}
+
+function returnPattern(str, pattern) {
+  var result = str.match(pattern);
   return result;
 }
 
@@ -26,9 +27,10 @@ function niceText(){
       var str = paragraph.text();
       var pattern = /^\[info:.+\]$/i;
       if( stringContainsPattern(str,pattern) ){
+        var newText = returnPattern(str,pattern);
         var marginItem = $('<div></div>');
-        var marginEntry = $('<span>' + paragraph.text() + '</span>');
-        paragraph.css('background','red');
+        var marginEntry = $('<span>' + newText + '</span>');
+        
         marginItem.addClass('margin');
         marginItem.insertBefore(paragraph);
         marginEntry.appendTo(marginItem);
