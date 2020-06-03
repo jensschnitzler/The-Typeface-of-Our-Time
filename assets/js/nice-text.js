@@ -13,7 +13,7 @@ function niceText(){
       //console.log('i: ' + i);
       var count = i + 1;
       var paragraph = $(this);
-      var string = paragraph.text();
+      var strng = paragraph.text();
 
       var position = strng.search(/Alvin/i);
       if(position >= 0){
