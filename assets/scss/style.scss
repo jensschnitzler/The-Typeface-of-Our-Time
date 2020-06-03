@@ -187,7 +187,7 @@ nav.sub-nav {
         transform: translateX(0%);
       }
     }
-    
+
     a {
       margin: 0;
       //width: 11rem;
@@ -374,21 +374,20 @@ blockquote, blockquote * {
 .linked-text-anchor {
   display: block;
   position: relative;
-  height: 1px;
-  width: 1px;
-  background: red;
+  height: auto;
+  width: auto;
   .linked-text {
     display: block;
-    position: absolute;
-    top: 0;
+    position: relative;
+    top: auto;
     @include small-text;
     color: var(--color-off);
     border-bottom: 1px solid var(--color-off);
 
     &.margin {
-      left: 30rem;
-      margin-left: 2rem;
-      width: 13rem;
+      left: auto;
+      margin-left: 0;
+      width: auto;
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
@@ -404,5 +403,23 @@ blockquote, blockquote * {
       }
     }
 
+  }
+}
+
+
+@media screen and (min-width: 1000px) {
+
+  .linked-text-anchor {
+    height: 1px;
+    width: 1px;
+    .linked-text {
+      position: absolute;
+      top: 0;
+      &.margin {
+        left: 30rem;
+        margin-left: 2rem;
+        width: 13rem;
+      }
+    }
   }
 }
