@@ -217,6 +217,7 @@ h1,h2,h3,h4,h5,h6 {
   vertical-align: middle;
   padding: 0;
   //background: pink;
+  transform: translateX(-.5rem); // optical centering
 }
 
 h1 {
@@ -355,13 +356,14 @@ blockquote, blockquote * {
 
     &.margin {
       left: 30rem;
-      margin-left: 1rem;
-      width: 11rem;
+      margin-left: 2rem;
+      width: 7rem;
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
       //resize: vertical;
       &:hover {
+        width: 13rem;
         background: var(--color-bg);
         color: var(--color-text);
         border-bottom: 1px solid var(--color-text);
