@@ -57,7 +57,7 @@ main {
 
 @media screen and (min-width: 1000px) {
   main {
-    max-width: calc( 100vw - 20rem);
+    max-width: calc(100vw - 14rem);
     margin: 1rem auto;
   }
 }
@@ -87,7 +87,7 @@ nav.sub-nav {
 
 @media screen and (min-width: 1000px) {
   nav.sub-nav {
-    max-width: 10rem;
+    max-width: 7rem;
     background: red;
     flex-flow: column nowrap;
     position: fixed;
