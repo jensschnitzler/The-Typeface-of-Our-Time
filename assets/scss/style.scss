@@ -78,14 +78,14 @@ main {
 
 @media screen and (min-width: 1000px) {
   main {
-    max-width: calc(100% - 11rem);
+    max-width: calc(100% - 12.5rem);
     margin: 0 0 0 auto;
   }
 }
 
 @media screen and (min-width: 1300px) {
   main {
-    max-width: calc(100% - 22rem);
+    max-width: calc(100% - 25rem);
     margin: 0 auto;
   }
 }
@@ -121,7 +121,7 @@ nav.sub-nav {
 
 @media screen and (min-width: 1000px) {
   nav.sub-nav {
-    max-width: 11rem;
+    max-width: 12.5rem;
     flex-flow: column nowrap;
     position: fixed;
     top: 0;
