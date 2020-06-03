@@ -47,10 +47,19 @@ body {
   //margin: 1rem auto;
 }
 
+/* --- Main --- */
+
 main {
   //max-width: 38rem;
   //margin: 1rem auto;
   background: white;
+}
+
+@media screen and (min-width: 1000px) {
+  main {
+    max-width: calc( 100vw - 20rem);
+    margin: 1rem auto;
+  }
 }
 
 /* --- Navigation --- */
@@ -75,6 +84,7 @@ nav.sub-nav {
 
 @media screen and (min-width: 1000px) {
   nav.sub-nav {
+    max-width: 10rem;
     background: red;
     flex-flow: column nowrap;
     position: fixed;
