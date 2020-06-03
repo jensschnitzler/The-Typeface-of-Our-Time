@@ -10,16 +10,16 @@
 function figureItOut(){
   console.log('=== figureItOut ===');
   var myImages = $('main').find('img');
-  console.log('myImages: ' + myImages);
+  //console.log('myImages: ' + myImages);
   myImages.each(function(){
     myImage = $(this);
-    console.log('myImage: ' + myImage);
+    //console.log('myImage: ' + myImage);
     myParent = myImage.parent();
-    console.log('myParent: ' + myParent);
+    //console.log('myParent: ' + myParent);
 
     if( myParent.is('p') ){
       myAlt = myImage.attr('alt');
-      console.log('myAlt: ' + myAlt);
+      //console.log('myAlt: ' + myAlt);
       $( "<figure></figure>" ).insertAfter( myParent ).append( myImage.clone() ).append( $('<figcaption>' + myAlt + '<figcaption/>') );
       myParent.remove();
     }

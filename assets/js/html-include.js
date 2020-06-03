@@ -1,5 +1,5 @@
 function includeHTML() {
-  console.log( 'includeHTML' );
+  console.log('=== includeHTML ===');
   var z, i, elmnt, file, xhttp;
   /* Loop through a collection of all HTML elements: */
   z = document.getElementsByTagName("*");
@@ -9,7 +9,7 @@ function includeHTML() {
     /*search for elements with a certain atrribute:*/
     file = elmnt.getAttribute("w3-include-html");
     if (file) {
-      console.log('file: ' + file);
+      //console.log('file: ' + file);
       /* Make an HTTP request using the attribute value as the file name: */
       xhttp = new XMLHttpRequest();
       xhttp.onreadystatechange = function() {
@@ -40,7 +40,7 @@ function includeHTML() {
 }
 
 function filterContent() {
-  console.log( 'filterContent' );
+  //console.log( 'filterContent' );
   var z, i, elmnt, filterVal, sources, clone;
   z = document.getElementsByTagName("*");
   for (i = 0; i < z.length; i++) {
@@ -48,11 +48,11 @@ function filterContent() {
     if (elmnt.hasAttribute("data-filter")) {
       filterVal = elmnt.getAttribute("data-filter");
       if (filterVal) {
-        console.log( 'filterVal ' + filterVal );
+        //console.log( 'filterVal ' + filterVal );
         sources = elmnt.getElementsByClassName( String(filterVal) );
-        console.log( 'source.length ' + sources.length );
+        //console.log( 'source.length ' + sources.length );
         source = sources[0].innerHTML;
-        console.log( 'source ' + source );
+        //console.log( 'source ' + source );
         elmnt.innerHTML = source;
         //Object.assign(clone, source);
         //elmnt.innerHTML = clone;
@@ -62,28 +62,28 @@ function filterContent() {
 }
 
 function filterContent2() {
-  console.log( 'filterContent2' );
+  //console.log( 'filterContent2' );
 
   var elements = $('*[data-filter]');
-  console.log( '3elements: ' + elements );
+  //console.log( '3elements: ' + elements );
 
   elements.each(function(i){
     var element = $(this);
-    console.log( i + ' element:' );
+    //console.log( i + ' element:' );
 
     if ( element.html().length > 0 ) {
 
-      console.log( '… has content' );
+      //console.log( '… has content' );
       var filter = element.data('filter');
-      console.log( 'filter: ' + filter );
+      //console.log( 'filter: ' + filter );
       var target = element.find( '.' + filter ).first();
-      console.log( 'target: ' + target );
+      //console.log( 'target: ' + target );
       element.html( target.html() );
       element.find('h1').first().remove();
       element.removeAttr('data-filter');
 
     } else {
-      console.log( '… has no content' );
+      //console.log( '… has no content' );
     }
 
   });

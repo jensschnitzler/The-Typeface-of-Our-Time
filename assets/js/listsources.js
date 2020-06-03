@@ -12,7 +12,7 @@ function listSources(){
   console.log('=== listsources ===');
 
   var myRefs = $('main').children('div').find('a');
-  console.log('myRefs: ' + myRefs);
+  //console.log('myRefs: ' + myRefs);
   var myArray = [];
 
   myRefs.each(function(){
@@ -20,7 +20,7 @@ function listSources(){
     //console.log('myRef: ' + myRef);
     myRefSrc = myRef.attr('href');
     var myRefSrc = myRefSrc.replace(/(:(.?[0-9]+)+)$/gi, ''); // remove page numbers at the end of the entry
-    console.log('myRefSrc: ' + myRefSrc);
+    //console.log('myRefSrc: ' + myRefSrc);
     myArray.push(myRefSrc);
   });
 

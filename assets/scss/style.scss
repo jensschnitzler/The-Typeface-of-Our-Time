@@ -156,7 +156,7 @@ nav.sub-nav {
     top: 0;
     left: 0;
     height: 100vh;
-    overflow-y: auto;
+    overflow-y: hidden;
     padding: 0 .2rem;
     -ms-overflow-style: none;
 
@@ -173,6 +173,7 @@ nav.sub-nav {
     &:hover {
       height: auto;
       overflow:visible;
+      overflow-y: auto;
       .nav-content {
         transform: translateY(0%);
       }
