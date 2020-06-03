@@ -94,9 +94,17 @@ main {
 
 nav.sub-nav {
   display: flex;
-  flex-flow: row wrap;
+  flex-flow: column nowrap;
   justify-content: flex-start;
   position: relative;
+  height: auto;
+  width: 100%;
+
+  &:before {
+    content: 'Menu';
+    //border-bottom: 1px solid var(--color-off);
+    color: var(--color-off);
+  }
 
   a {
     //@include small-text;
@@ -124,7 +132,7 @@ nav.sub-nav {
     top: 0;
     z-index: 100;
     max-width: 12.5rem;
-    flex-flow: column nowrap;
+
     position: fixed;
     top: 0;
     left: 0;
@@ -135,11 +143,7 @@ nav.sub-nav {
     &::-webkit-scrollbar {
       display: none;
     }
-    &:before {
-      content: 'Menu';
-      //border-bottom: 1px solid var(--color-off);
-      color: var(--color-off);
-    }
+
     .nav-section {
       transition: transform .4s ease;
       will-change: transform;
