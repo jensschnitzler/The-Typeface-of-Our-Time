@@ -29,11 +29,13 @@ function niceText(){
       var pattern = /(?<=\[info:)(.+?)(?=\])/i;
       if( stringContainsPattern(str,pattern) ){
         var newText = returnPattern(str,pattern);
-        var marginItem = $('<div class="linked-text-anchor"><div class="linked-text margin"></div></div>');
+        var textAnchor = $('<div class="linked-text-anchor"></div>');
+        var linkedText = $('<div class="linked-text margin"></div>');
         var marginEntry = $('<span>' + newText + '</span>');
 
-        marginItem.insertBefore(paragraph);
-        marginEntry.appendTo(marginItem);
+        textAnchor.insertBefore(paragraph);
+        linkedText.appendTo(textAnchor);
+        marginEntry.appendTo(linkedText);
         paragraph.remove();
       }
     });
