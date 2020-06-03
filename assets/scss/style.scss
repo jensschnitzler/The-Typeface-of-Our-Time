@@ -53,11 +53,15 @@ main {
   //max-width: 38rem;
   //margin: 1rem auto;
   background: white;
+  margin: 0;
+  padding: 0;
+  padding-top: 1px;
+  margin-top: -1px;
 }
 
 @media screen and (min-width: 1000px) {
   main {
-    max-width: calc(100% - 12rem);
+    max-width: calc(100% - 11rem);
     margin: 0 0 0 auto;
   }
 }
