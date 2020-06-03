@@ -112,12 +112,14 @@ nav.sub-nav {
     position: fixed;
     top: 0;
     left: 0;
-    max-height: 100vh;
+    height: 100vh;
     overflow-y: auto;
     padding: 0 0 0 .2rem;
     a {
       margin: 0;
       //width: 11rem;
+      line-height: 1.1;
+      padding: .25em 0;
     }
   }
 }
