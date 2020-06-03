@@ -1,4 +1,4 @@
-# Images
+## Images
 
 ![Production of phototypesetting typefaces in the state type foundry Typoart in the GDR.](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
 
