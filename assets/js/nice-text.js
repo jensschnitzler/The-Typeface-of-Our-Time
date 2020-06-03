@@ -25,12 +25,13 @@ function niceText(){
       var count = i + 1;
       var paragraph = $(this);
       var str = paragraph.text();
-      var pattern = /^\[info:.+\]$/i;
+      //var pattern = /^\[info:.+\]$/i;
+      var pattern = /(?<=\[info:).+?(?=\])/i;
       if( stringContainsPattern(str,pattern) ){
         var newText = returnPattern(str,pattern);
         var marginItem = $('<div></div>');
         var marginEntry = $('<span>' + newText + '</span>');
-        
+
         marginItem.addClass('margin');
         marginItem.insertBefore(paragraph);
         marginEntry.appendTo(marginItem);
