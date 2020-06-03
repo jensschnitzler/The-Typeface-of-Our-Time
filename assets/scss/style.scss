@@ -194,6 +194,10 @@ h1 {
 
 .main-title {
   min-height: 100vh;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
 }
 
 p {
