@@ -90,7 +90,7 @@ Rock clarifies: Form is information, form is a sign of communication, form carri
 
 The versatility of symbolic meanings can be further traced to Jan Tschichold's radical change of heart, who in the 1940s attacked the "Neue Typografie" as inherently fascist and misguided - a style he co-founded himself in the 1920s. This in turn led to a backlash by his former followers, who from now on considered him a traitor, as the American graphic designer *Alvin Lustig* characterized him.[\*](Heller+Cassandre:The-Meanings-of-Type)
 
-Alvin Lustig (1915-1955), book designer, graphic designer, type designer.
+(info: Alvin Lustig (1915-1955), book designer, graphic designer, type designer.)
 
 Aesthetic concepts and meanings, even the actual capability of recognizing signs in the first place, are strongly related to their time and context. While today it is difficult for a majority to fluidly read blackletter typefaces with its complex shapes and unfamiliar construction, it was the dominant form in Germany before World War II. Baskerville, a transitional Baroque antiquary was rejected as ugly and illegible in 1757 and is now considered one of the most useful typefaces for long texts.[\*](Poynor:Type-and-Deconstruction-in-the-Digital-Era;Typography-Now:The-Next-Wave:8)
 
