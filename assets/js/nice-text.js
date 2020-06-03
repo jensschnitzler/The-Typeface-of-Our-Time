@@ -27,10 +27,12 @@ function niceText(){
       var pattern = /^\[info:.+\]$/i;
       if( stringContainsPattern(str,pattern) ){
         var marginItem = $('<div></div>');
+        var marginEntry = $('<span>' + paragraph.text() + '</span>');
         paragraph.css('background','red');
         marginItem.addClass('margin');
         marginItem.insertBefore(paragraph);
-        paragraph.appendTo(marginItem);
+        marginEntry.appendTo(marginItem);
+        paragraph.remove();
       }
     });
   });
