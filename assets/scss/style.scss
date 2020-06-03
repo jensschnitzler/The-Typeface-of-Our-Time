@@ -12,7 +12,7 @@
   font-family: 'Helvetica', sans-serif;
   font-size: .6rem;
   text-align: left;
-  letter-spacing: .01;
+  letter-spacing: .02;
 }
 
 /* --- */
@@ -93,7 +93,6 @@ main {
 /* --- Navigation --- */
 
 nav.sub-nav {
-  @include small-text;
   display: flex;
   flex-flow: row nowrap;
   justify-content: flex-start;
@@ -101,6 +100,7 @@ nav.sub-nav {
   top: 0;
   z-index: 100;
   a {
+    @include small-text;
     cursor: pointer;
     display: block;
     flex: 0 0 auto;
@@ -138,6 +138,8 @@ nav.sub-nav {
       //width: 11rem;
       line-height: 1.1;
       padding: .25em 0;
+      max-width: 100%;
+      width: 20em;
     }
   }
 }
@@ -293,6 +295,7 @@ figure {
   figcaption {
     @include small-text;
     display: block;
+    text-align: center;
   }
 }
 
