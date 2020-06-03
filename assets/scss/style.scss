@@ -269,7 +269,7 @@ p>.count {
   transform: translate(0, -80%);
 }
 
-p+p {
+p+p, .linked-text-anchor+p  {
   /*text-indent: 4rem;*/
   margin-top: 1.1rem;
 }
@@ -357,15 +357,19 @@ blockquote, blockquote * {
       left: 30rem;
       margin-left: 1rem;
       width: 11rem;
-
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
-      resize: vertical;
+      //resize: vertical;
+      &:hover {
+        background: var(--color-bg);
+        color: var(--color-text);
+        border-bottom: 1px solid var(--color-text);
+        white-space: normal;
+        overflow: auto;
+        text-overflow: inherit;
+      }
     }
-    &:hover {
-      color: var(--color-text);
-      border-bottom: 1px solid var(--color-text);
-    }
+
   }
 }
