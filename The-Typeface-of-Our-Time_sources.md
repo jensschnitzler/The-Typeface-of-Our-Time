@@ -125,8 +125,7 @@
 | unknown | Public ­Domain | Wikimedia Commons | https:/­/­en.wikipedia.org/­wiki/­United_States_­campaigns_in_World_War_I#/­media/­File:At_close_grips2.jpg |
 | unknown | CC-BY-SA 3.0 | © Bundesarchiv, Bild 146-1972-062-01 | https:/­/­de.wikipedia.org/­wiki/­Datei:Bundesarchiv_Bild_146-1972-062-01,_Berlin,_bettelnder_Kriegsinvalide.jpg |
 | unknown | © Ferdinand Ulrich | An early ad for ­Erbar-­Grotesk in Archiv für Buchgewerbe und Gebrauchsgraphik, vol. 64, no. 2, Leipzig 1927 | Archiv für Buchgewerbe und Gebrauchsgraphik, Ausg. 64, Nr. 2, Leipzig 1927, S. 105, aus der Sammlung von p98a, Berlin |
-| unknown | Public ­Domain | Wikimedia Commons | ­https:/­/­de.wikipedia­.org/­ |
-| wiki/­Datei:StaatlichesBauhausTitelseite.jpg |
+| unknown | Public ­Domain | Wikimedia Commons | ­https:/­/­de.wikipedia­.org/­wiki/­Datei:StaatlichesBauhausTitelseite.jpg |
 | unknown | CC-BY-SA-4.0 | Wikimedia Commons | https://­de.wikipedia.org/­wiki/­Plan_Voisin#/­media/­File:Plan_­Voisin_model.jpg |
 | © Jan Tschichold | https:/­/­www.typolexikon.de/­tschichold-jan/­typografische-mitteilungen-elementare-typografie/­ |
 | © A.M. Cassandre | https:/­/­www.christies.com/­lotfinder/­Lot/­am-cassandre-1901-1968-nord-express-5720299-details.aspx |
