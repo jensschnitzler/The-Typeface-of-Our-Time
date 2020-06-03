@@ -94,11 +94,10 @@ main {
 
 nav.sub-nav {
   display: flex;
-  flex-flow: row nowrap;
+  flex-flow: row wrap;
   justify-content: flex-start;
-  position: sticky;
-  top: 0;
-  z-index: 100;
+  position: relative;
+
   a {
     //@include small-text;
     cursor: pointer;
@@ -121,6 +120,9 @@ nav.sub-nav {
 
 @media screen and (min-width: 1000px) {
   nav.sub-nav {
+    position: sticky;
+    top: 0;
+    z-index: 100;
     max-width: 12.5rem;
     flex-flow: column nowrap;
     position: fixed;

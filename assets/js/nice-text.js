@@ -26,7 +26,7 @@ function niceText(){
       var paragraph = $(this);
       var str = paragraph.text();
       //var pattern = /^\[info:.+\]$/i;
-      var pattern = /(?<=\[info:).+?(?=\])/i;
+      var pattern = /(?<=\[info:)(.+?)(?=\])/i;
       if( stringContainsPattern(str,pattern) ){
         var newText = returnPattern(str,pattern);
         var marginItem = $('<div></div>');
