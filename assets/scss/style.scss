@@ -111,7 +111,7 @@ nav.sub-nav {
     }
   }
   .nav-section {
-    border-bottom: 1px solid var(--color-off);
+    border-top: 1px solid var(--color-off);
     &:last-of-type {
       border-bottom: 0;
       padding-bottom: 2rem;
@@ -135,7 +135,7 @@ nav.sub-nav {
     }
     &:before {
       content: 'Menu';
-      border-bottom: 1px solid var(--color-off);
+      //border-bottom: 1px solid var(--color-off);
       color: var(--color-off);
     }
     .nav-section {
