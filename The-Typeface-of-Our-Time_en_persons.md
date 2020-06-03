@@ -16,6 +16,8 @@ Giambattista Bodoni (1740-1813), stamp cutter, book printer, typographer, publis
 
 Firmin Didot (1764-1836), typographer, writer
 
+--
+
 John Baskerville (1706-1775), typographer, master writer, printer
 
 William Morris (1834-1896), painter, architect, poet, printer, craftsman, engineer

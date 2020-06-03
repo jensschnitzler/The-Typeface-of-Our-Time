@@ -40,11 +40,17 @@ Whether or not our resulting alphabet of today was based on a fallacy, however, 
 
 One of the humanist pioneers was Nicolas Jenson, a native Frenchman who had learned the art of printing in Germany. Around 1469, he founded a printshop in Venice, where he developed typefaces that mixed the properties of the Gothic script, which he was familiar with from Central Europe, with the new, round, lighter forms of Italian taste. The type he cut, such as *Jenson*, were among the first and, according to Ellen Lupton, “still the best antiqua fonts”.[\*](Lupton:Mit-Schrift-Denken:15)
 
+[info: Nicolas Jenson (1420-1480), stamp cutter, typographer, calligrapher, printer, publisher]
+
 Manual typesetting based on Gutenberg’s invention was the predominant printing technique from the 15th to the 19th century. While the printing types used by Gutenberg still formally imitated the handwriting of monastic scriptoria, Jenson designed an “Antiqua that was already quite independent of the manuscripts and more in keeping with the requirements of punchcutting”.[\*](Bollwage:Buchstabengeschichten:134) Jenson’s model influences type designers ever since.
 
 Other notable and highly influential protagonists of this era were Aldus Manutius, Francesco Griffo and Geoffroy Tory. Tory studied at the Faculty of Philosophy in Bourges, France, back then the center of humanist culture. He played a leading role in the popularization of the Antiqua (as opposed to the predominant blackletter) and the establishment of typographical elements such as accents, apostrophe, the cedilla, and punctuation marks.[\*](Britannica:Geoffroy-Tory) From today’s perspective, an amusing example of the interpretation of humanist ideals in type design is Geoffroy Tory’s theory on the proportioning of letterforms. Tory believed he had found the ideal relations in the form of the human body and in 1529 he published a series of diagrams comparing the anatomy of letters with the human anatomy. He wrote about the letter A: “The horizontal bar covers the man’s organ of procreation in order to show that modesty and chastity are needed to recognize the essence of well-formed letters.”[\*](Lupton:Mit-Schrift-Denken:16-17) A year later, in 1530, François I, King of France, appointed him “Imprimeur du Roi”, royal printer. Tory’s conceptual derivation of letterforms from human anatomy reflects the humanistic view of the explainability of the world and the firm belief in causalities and laws given by nature.
 
+[info: Geoffroy Tory (1480-1533), humanist, engraver, printer, scholar]
+
 In 1540, François I also commissioned the type designer Claude Garamond to design a typeface that we know today under his very name. Garamond was at the time a good example of how a typeface could grow into a representative symbol of a certain philosophy, ideology, institution or nation, and how this symbol could be embraced or rejected with what it represents. Garamond’s type developed into the distinctive sign of the French Enlightenment and served as the first standardized, proprietary brand typeface for use in all official state papers of France. In contrast, at the same time German King Maximilian rejected this kind of Latin Antiqua and preferred to use blackletter instead.[\*](Heller+Cassandre:The-Meanings-of-Type)
+
+[info: Claude Garamond (1499-1561), type founder, typographer, stamp cutter, publisher]
 
 In accordance with the humanistic Enlightenment ideal, the typeface was “desacralized” at that time by being used by printers for the widespread dissemination of non-religious literature. This contributed to a quick and lasting cultural establishment of these new kind Latin typefaces, leading this type to survive “the centuries as the basic structure of our occidental writing”.[\*](Frutiger:Der-Mensch-und-seine-Zeichen:167)
 
@@ -64,6 +70,8 @@ In 1693, as part of an extensive encyclopedia, which intended to record all know
 
 The construction according to mathematical principles led to the reintroduction of mistakes in type design, which had long before been taught to be avoided by “eye-thinking” Renaissance punchcutters. “The whole alphabet [of the Romain du Roi] looked as stiff and circumscribed as a French garden of the time,” Max Bollwage describes the grid-aligned illustrations of the Romain du Roi.[\*](Bollwage:Buchstabengeschichten:141) The actual printing letters, however, were saved from this mathematical-planned lifelessness and the lack of consideration of optical corrections by the punchcutter Philippe Grandjean by following his own mind and deviating from the rigid construction template when cutting the type.[\*](Hoeks+Lentjes:The-Triumph-of-Typography:24)
 
+[info: Philippe Grandjean (1666-1714), letter engraver]
+
 <!-- 200221 12:51 -->
 <!-- 200226 08:43 -->
 
@@ -71,13 +79,19 @@ The construction according to mathematical principles led to the reintroduction 
 
 After the luxuriant and exuberant epochs of the Baroque and Rococo periods, classicism returned to the fascination of an image of antiquity that was attached to the supposed grandeur and simplicity of ancient buildings and sculptures. It awakened “in the observer accustomed to rococo the desire for austerity and simplicity in art [...], but also for solemn pathos.”[\*](Bollwage:Buchstabengeschichten:145)
 
+[info: Baroque (about 1575-1770), Rococo (about 1720-1780), Classicism (about 1770-1840)]
+
 The outstanding type designers and typographers of classicism, such as Giambattista Bodoni, Firmin Didot and their predecessor John Baskerville, banned the ornament of previous epochs from type and the printed page. The classisist movement rejected the use of initials, grand decorative initial letters, and reduced any ornament to a minimum.[\*](Hoeks+Lentjes:The-Triumph-of-Typography:89-91)[\*](Bosshard:Max-Bill-Kontra-Jan-Tschichold:7) Their ideal was clarity, which expressed in type design by sharp-edged printing letters with high contrast in line width and centered, dark text blocks, surrounded by generous, undecorated white space.
 
 While John Baskerville’s proto-classicist style seemed to be ahead of his time, Bodoni and Didot heralded a new era and found great recognition. It has already been Baskerville’s goal to surpass Caslon by developing sharply engraved letters with greater contrast between bold and thin elements. But while Caslon’s letters were widely used, Baskerville’s works were considered amateurish and too extreme in his time.[\*](Lupton:Mit-Schrift-Denken:16)
 
 Giambattista Bodoni created his famous classicist Antiqua “out of the spirit of the nation and the century,” as he put it with an attitude that characterized the stylistic sense of classicism. He explained that “in the Humanities, as in philosophy, the taste of connoisseurs has turned more and more to the simple, to the austere, preferring a beauty without any ornament, which would be nothing but borrowed afterall, to any other”. [\*](Bollwage:Buchstabengeschichten:148)
 
+[info: Giambattista Bodoni (1740-1813), stamp cutter, book printer, typographer, publisher]
+
 Firmin Didot’s clear letterforms reflected the ideals of the Enlightenment and were a symbol of objectivity and rationality.[\*](Naegele+Eisele+Ludwig:Neue-Schriften:135) The socio-economic circumstances in which these designers found themselves also favored the realisation of their outstanding and uncompromising innovations. Bodoni was in the service of the Duke of Parma and did not have to deal with the profitability of his work. Didot was also very privileged as a member of the most prominent French printing family of the 18th century. The predominance of classicist typography lasted until the beginning of the following century, when the industrial revolution entered the processes of type design and typography, triggering an explosion of new typefaces.[\*](Hoeks+Lentjes:The-Triumph-of-Typography:89-91)
+
+[info: Firmin Didot (1764-1836), typographer, writer]
 
 <!-- 200226 09:33 -->
 
