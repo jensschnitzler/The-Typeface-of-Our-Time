@@ -141,7 +141,7 @@ nav.sub-nav {
     .nav-section {
       transition: transform .4s ease;
       will-change: transform;
-      transform: translateX(-100%);
+      //transform: translateX(-110%);
     }
     &:hover {
       .nav-section {
@@ -202,7 +202,7 @@ h1,h2,h3,h4,h5,h6 {
   margin: 6rem auto 3rem;
   vertical-align: middle;
   padding: 0;
-  background: pink;
+  //background: pink;
 }
 
 h1 {
@@ -219,7 +219,7 @@ h2 {
 }
 
 h3 {
-  background: blue;
+  //background: blue;
 }
 
 .main-title {
