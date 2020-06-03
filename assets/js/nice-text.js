@@ -24,7 +24,7 @@ function niceText(){
       var count = i + 1;
       var paragraph = $(this);
       var str = paragraph.text();
-      var pattern = /Alvin/i;
+      var pattern = /^\[info:.+\]$/i;
 
       if( stringContainsPattern(str,pattern) ){
 
@@ -32,7 +32,7 @@ function niceText(){
         paragraph.css('background','red');
         marginItem.addClass('margin');
         paragraph.appendTo(marginItem);
-        
+
       }
 
     });
