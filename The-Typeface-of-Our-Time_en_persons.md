@@ -1,4 +1,4 @@
-# Persons
+## Persons
 
 Alvin Lustig (1915-1955), book designer, graphic designer, font designer
 

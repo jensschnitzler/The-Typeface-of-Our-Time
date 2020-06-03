@@ -1,4 +1,4 @@
-# Sources
+## Sources
 
 Aicher, Otl: Typografie | in: Eisele, Naegele: Texte zur Typografie | Zürich, Niggli
 
