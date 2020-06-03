@@ -97,11 +97,14 @@ main {
 /* --- Navigation --- */
 
 nav.sub-nav {
+  background-color: var(--color-bg);
   box-sizing: border-box;
   display: flex;
   flex-flow: column nowrap;
   justify-content: flex-start;
   position: relative;
+  position: fixed;
+  max-height: 100vh;
   height: auto;
   width: 100%;
   padding: .2rem .2rem 0;
@@ -116,6 +119,7 @@ nav.sub-nav {
   &:hover {
     height: auto;
     overflow:visible;
+    overflow-y: scroll;
     .nav-content {
       transform: translateY(0%);
     }
@@ -151,7 +155,6 @@ nav.sub-nav {
     position: sticky;
     top: 0;
     max-width: 12.5rem;
-
     position: fixed;
     top: 0;
     left: 0;
