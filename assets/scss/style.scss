@@ -133,6 +133,10 @@ nav.sub-nav {
     &::-webkit-scrollbar {
       display: none;
     }
+    &:before {
+      content: 'Menu';
+      border-bottom: 1px solid var(--color-off);
+    }
     a {
       margin: 0;
       //width: 11rem;
