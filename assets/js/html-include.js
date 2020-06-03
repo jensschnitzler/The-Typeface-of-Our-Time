@@ -62,7 +62,7 @@ function filterContent() {
 function filterContent2() {
   console.log( 'filterContent2' );
 
-  var elements = $('div[data-filter]');
+  var elements = $('*[data-filter]');
   console.log( '3elements: ' + elements );
 
   elements.each(function(i){
