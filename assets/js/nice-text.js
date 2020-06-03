@@ -25,16 +25,13 @@ function niceText(){
       var paragraph = $(this);
       var str = paragraph.text();
       var pattern = /^\[info:.+\]$/i;
-
       if( stringContainsPattern(str,pattern) ){
-
         var marginItem = $('<div/>');
         paragraph.css('background','red');
         marginItem.addClass('margin');
+        marginItem.insertBefore(paragraph);
         paragraph.appendTo(marginItem);
-
       }
-
     });
   });
 
