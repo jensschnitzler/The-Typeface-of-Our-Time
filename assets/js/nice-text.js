@@ -32,6 +32,7 @@ function niceText(){
         var textAnchor = $('<div class="linked-text-anchor"></div>');
         var linkedText = $('<div class="linked-text margin"></div>');
         var marginEntry = $('<span>' + newText + '</span>');
+        console.log('newText: ' + newText);
 
         textAnchor.insertBefore(paragraph);
         linkedText.appendTo(textAnchor);
