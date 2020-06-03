@@ -79,6 +79,9 @@ nav.sub-nav {
   }
   .nav-section {
     border-bottom: 1px solid blue;
+    &:last-of-type {
+      border-bottom: 0;
+    }
   }
 }
 
