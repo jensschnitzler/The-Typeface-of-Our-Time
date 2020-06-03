@@ -105,7 +105,7 @@ nav.sub-nav {
     flex: 0 0 auto;
     margin-right: .5rem;
     //padding: 0 0 0 .2rem;
-    &.level-3,&.level-4 {
+    &.level-2,&.level-3,&.level-4 {
       display: none;
     }
   }
@@ -157,6 +157,9 @@ nav.sub-nav {
       padding: .25em 0;
       max-width: 100%;
       width: 13em;
+      &.level-2 {
+        display: block;
+      }
     }
   }
 }
@@ -323,4 +326,38 @@ figure {
 blockquote, blockquote * {
   font-style: italic;
   margin-left: 0;
+}
+
+/* --- linked text in margin --- */
+
+.linked-text-anchor {
+  display: block;
+  position: relative;
+  height: 1px;
+  width: 1px;
+  background: red;
+  .linked-text {
+    display: block;
+    position: absolute;
+    top: 0;
+    color: var(--color-off);
+
+    &.margin {
+      left: 30rem;
+      padding-left: 1rem;
+      width: 10rem;
+      background: green;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      font-size: 1.3rem;
+      margin: 0;
+      background: white;
+      resize: horizontal;
+
+      &:hover {
+
+      }
+    }
+  }
 }

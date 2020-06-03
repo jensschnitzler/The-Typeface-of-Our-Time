@@ -29,10 +29,9 @@ function niceText(){
       var pattern = /(?<=\[info:)(.+?)(?=\])/i;
       if( stringContainsPattern(str,pattern) ){
         var newText = returnPattern(str,pattern);
-        var marginItem = $('<div></div>');
+        var marginItem = $('<div class="linked-text-anchor"><div class="linked-text margin"></div></div>');
         var marginEntry = $('<span>' + newText + '</span>');
 
-        marginItem.addClass('margin');
         marginItem.insertBefore(paragraph);
         marginEntry.appendTo(marginItem);
         paragraph.remove();
