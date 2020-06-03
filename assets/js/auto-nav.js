@@ -10,8 +10,15 @@ function autoNav(){
 
   headlines.each(function(i){
     //console.log('i: ' + i);
-    var count = i + 1;
-    container.append('<a class="count">' + count + '</a>');
+    var hCount = i + 1;
+    var hType = $(this).prop('nodeName');
+    var hContent = $(this).text();
+    var navItem = '<a>' + hContent + '</a>'
+    container.append(navItem);
+    navItem.addClass('navItem');
+    navItem.attr('data-count',hCount);
+    navItem.attr('data-type',hType);
+    navItem.attr('href','https://www.w3schools.com');
   });
 
 }
