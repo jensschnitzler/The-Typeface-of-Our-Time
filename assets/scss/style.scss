@@ -252,20 +252,26 @@ a, a:link, a:focus, a:active {
   }
 }
 
-table tr {
-  display: flex;
-  flex-flow: row nowrap;
-  border-top: 1px solid rgb(0,0,0,.5);
-  padding: .25em 0;
-}
+/* --- Table --- */
 
-table tr:last-child {
-  border-bottom: 1px solid rgb(0,0,0,.5);
-}
+table {
+  width: 100%;
 
-table tr td {
-  display: block;
-  flex: 1 1 0;
+  tr {
+    display: flex;
+    flex-flow: row nowrap;
+    border-top: 1px solid rgb(0,0,0,.5);
+    padding: .25em 0;
+  }
+
+  tr:last-child {
+    border-bottom: 1px solid rgb(0,0,0,.5);
+  }
+
+  tr td {
+    display: block;
+    flex: 1 1 0;
+  }
 }
 
 figure {
