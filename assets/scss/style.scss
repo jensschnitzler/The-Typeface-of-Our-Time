@@ -370,19 +370,19 @@ blockquote, blockquote * {
     &.margin {
       left: 30rem;
       margin-left: 2rem;
-      width: 7rem;
+      width: 13rem;
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
       //resize: vertical;
       &:hover {
-        width: 13rem;
         background: var(--color-bg);
         color: var(--color-text);
         border-bottom: 1px solid var(--color-text);
         white-space: normal;
         overflow: auto;
         text-overflow: inherit;
+        z-index: 100;
       }
     }
 
