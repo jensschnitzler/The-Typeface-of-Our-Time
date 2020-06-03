@@ -1,13 +1,13 @@
 ## Sources
 
-| :--- |:---- |:----|:----|
-| Aicher, Otl: Typografie | in: Eisele, Naegele: Texte zur Typografie | Zürich, Niggli |
+| :--- |:---- |:----|
+| Aicher, Otl: Typografie; in: Eisele, Naegele: Texte zur Typografie | Zürich, Niggli |
 | Archer, Ben: Eric Gill Got It Wrong; a re-evaluation of Gill Sans | typothe­que.com/ar­ticles/re-evaluation_of_gill_sans | 15.07.2018 |
 | Assheuer, Thomas: Unser inneres Afrika | zeit.de/2006/35/ST-Boehme | 28.03.2018 |
 | Deck, Barry: Coke Light | barrydeck.com/portfolio-posts/coke-light | 16.12.2018 |
-| Bauer, Konrad: Friedrich Die Zukunft der Schrift | in: Eisele, Naegele Texte zur Typografie, Zürich, Niggli |
+| Bauer, Konrad: Friedrich Die Zukunft der Schrift; in: Eisele, Naegele Texte zur Typografie, Zürich, Niggli |
 | Bauhaus100 Weimar | bauhaus100.de/das-bauhaus/phasen/weimar | 14.02.2019 |
-| Behrens, Peter: Von der Entwicklung der Schrift | in: Eisele, Naegele Texte zur Typografie, Zürich, Niggli |
+| Behrens, Peter: Von der Entwicklung der Schrift; in: Eisele, Naegele Texte zur Typografie, Zürich, Niggli |
 | Bierut, Michael 13 Ways of Looking at a ­Typeface | itsnicethat.com/articles/­michael-bierut-now-you-see-it-and-other-essays-on-design-publication-061117 | 5.4.2018 |
 | Biľak, Peter ­Concept­ual Type? | typotheque.com/articles/ conceptual_type | 13.06.2018 |
 | Biľak, Peter: Type design in the 1990s, Demystification and re-mystification | typotheque.com/articles/type_design_in_the_1990s_demystification_and_re-mystifica­tion | 15.07.2018 |
@@ -27,18 +27,18 @@
 | Eisele, Petra; Naegele, Isabel Texte zur Typografie, Zürich, Niggli |
 | Emigre Keedy | emigre.com/Fonts/Keedy | 14.02.2019 |
 | Ewen, Stuart: All Consuming Images, United States of America, Basic Books | 1999 |
-| Fenton, Kevin: The New Typographer Muttering In Your Ear | in: Bierut, Drenttel, Heller, Holland Looking Closer 2, New York, Allworth Press |
+| Fenton, Kevin: The New Typographer Muttering In Your Ear; in: Bierut, Drenttel, Heller, Holland Looking Closer 2, New York, Allworth Press |
 | Frutiger, Adrian: Der Mensch und seine Zeichen, Wiesbaden, fourier | 2001 |
-| Gerstner, Karl: Kompendium für Alphabeten | in: Eisele, Naegele Texte zur Typografie | Zürich, Niggli |
+| Gerstner, Karl: Kompendium für Alphabeten; in: Eisele, Naegele Texte zur Typografie | Zürich, Niggli |
 | Gill, Eric: An Essay On Typography, Boston, Godine |  Hamilton, Mark The ad that changed advertising. | medium.com/theagency/the-ad-that-changed-advertising-18291a67488c | 14.02.2019 |
 | Heller, Steven; ­ Cassandre, A. M. The Meanings of Type | eyemagazine.com/feature/article/the-meanings-of-type | 12.06.2018 |
 | Hoeks, Henk; Lentjes, Ewan The Triumph of Typography, Arnhem, ArtEZ Press |
 | Ip, Helen: Twitter twitter.­com/herroherren/status/847651762811027458 | 14.02.2019 |
-| Huygen, Frederike: The Debate in Context | in: Crouwel – van Toorn: The Debate, Einhoven NL, The Monacelli Press |
+| Huygen, Frederike: The Debate in Context; in: Crouwel – van Toorn: The Debate, Einhoven NL, The Monacelli Press |
 | Interview in Frische Schriften/Fresh Type, Zürich, Edition Museum für Gestaltung |
 | Cass, Jacob: Designer’s Most Hated & Loved Fonts | just­creative.com/2017/03/29/desig­ners-most-hated-loved-fonts | 14.02.2019 |
 | Janser, Andres: Mehr Schrift! in: Frische Schriften/ Fresh Type, Zürich, Edition Museum für Gestaltung |
-| Johnston, Edward: Schreibschrift, Zierschrift und angewandte Schrift | in: Eisele, Naegele Texte zur Typografie, Zürich, Niggli |
+| Johnston, Edward: Schreibschrift, Zierschrift und angewandte Schrift; in: Eisele, Naegele Texte zur Typografie, Zürich, Niggli |
 | Kupferschmid, Indra: Twitter | twitter.com/kupfers/status/1039073735800774657 | 14.02.2019 |
 | Laudenbach, Peter; Franck, Georg Wir erleben einen emotionalen Klimawandel | brandeins.de/magazine/brand-eins-wirt­schaftsmagazin/2017/marketing/wir-erleben-einen-emotionalen-klimawandel | 08.04.2018 |
 | Lupton, Ellen: Mit Schrift Denken: Ein Kritischer Ratgeber Für Grafiker, Autoren, Lektoren und Studenten, New York, Princeton Architectural Press |
@@ -46,15 +46,15 @@
 | Mario Rampone Type Talks Interview, Fall 1989 | paulrand.design/life/inter­views/1989-Type-Talks-interview.html | 14.02.2019 |
 | McNeil, Paul: The Visual History of Type | istd.org.uk/blog/the-visual-history-of-type-paul-mcneil | 12.06.2018 |
 | Meggs, Philip: Meggs’ History of Graphic Design, US, Wiley |
-| Meggs, Philip: The Politics of Style | in: Bierut, Drenttel, Heller, Holland Looking Closer 2, New York, Allworth Press |  Müller, Lars Homage to a Typeface lars-mueller-publishers.com/homage-typefa­ce | 14.02.2019 |
+| Meggs, Philip: The Politics of Style; in: Bierut, Drenttel, Heller, Holland Looking Closer 2, New York, Allworth Press |  Müller, Lars Homage to a Typeface lars-mueller-publishers.com/homage-typefa­ce | 14.02.2019 |
 | Naegele, Isabel; Eisele, Petra; Ludwig, Annette Neue Schriften. New Typefaces, Sulgen, Niggli |
 | Pamminger, Walter: Konzeptionelles Buchgestalten, Göttingen, Wallstein |
 | Porchez, Jean: François Nation­ality and Type Design typo­fonderie.com/gazette/post/nation­ality-­and-type-design | 12.06.2018 |
 | Poynor, Rick: Anarchie der Zeichen: Grafik-Design von den Achtzigern bis Heute, Basel, Birkhäuser |
-| Poynor, Rick: Foreword | in: Crouwel – van Toorn: The Debate | Einhoven NL, The Monacelli Press |
-| Poynor, Rick: Type and Deconstruction in the Digital Era | in: Typography Now: The Next Wave, London, Booth-Clibborn Editions |  Purvis, Alston A Visual History of Typefaces and Graphic Styles Vol. 2, US, Taschen |
+| Poynor, Rick: Foreword; in: Crouwel – van Toorn: The Debate | Einhoven NL, The Monacelli Press |
+| Poynor, Rick: Type and Deconstruction in the Digital Era; in: Typography Now: The Next Wave, London, Booth-Clibborn Editions |  Purvis, Alston A Visual History of Typefaces and Graphic Styles Vol. 2, US, Taschen |
 | Rappo, François: Schreib’s auf, verdammt, schreib’s auf! in: Frische Schriften/Fresh Type | Zürich, Edition Museum für Gestaltung |
-| Renner, Paul: Die Schrift unserer Zeit | in: Eisele, Naegele Texte zur Typografie | Zürich, Niggli |
+| Renner, Paul: Die Schrift unserer Zeit; in: Eisele, Naegele Texte zur Typografie | Zürich, Niggli |
 | Righthand, Jess: Postmodernisms New Typography | smithsonianmag.com/arts-culture/­postmodernisms-new-typogra­phy-77489071 | 12.06.2018 |
 | Rock, Michael: Beyond Typography | 2x4.org/ideas/42/ beyond-typography | 12.06.2018 |
 | Rock, Michael: Fuck Content | 2x4.org/ideas/2/fuck-content | 24.07.2018 |
@@ -65,12 +65,13 @@
 | Spiekermann, Erik: Bauhaus-Schriften | sueddeutsche.de/kultur/ bauhaus-schriften-sie- wollten-buchstaben- aus-quadrat-dreieck-und-kreis-1.4109050 | 14.02.2019 |
 | Spiekermann, Erik: Twitter | twitter.com/espiekermann/status/1045231875734867968 | 14.02.2019 |
 | Spiekermann, Erik ÜberSchrift, Mainz, Schmidt |
-| Stiff, Paul: Look At Me! Look At Me! in: Bierut, Drenttel, Heller, Holland Looking Closer 2, New York, Allworth Press |  Stössinger, Nina Twitter | twitter.com/ninastoessin­ger/status/1007399705343610880 | 14.02.2019 |
+| Stiff, Paul: Look At Me! Look At Me!; in: Bierut, Drenttel, Heller, Holland Looking Closer 2, New York, Allworth Press |
+| Stössinger, Nina Twitter | twitter.com/ninastoessin­ger/status/1007399705343610880 | 14.02.2019 |
 | Taschen Verlag FUSE 1–20 | taschen.com/pages/de/c­at­alogue/graphic_design/all/06768/facts.fuse_120.htm | 14.02.2019 |
 | Thieleke, Constanze; Barnbrook, Jonathan Doctrine/A New Typeface From VirusFont | slanted.de/eintrag/doctri­ne | 12.06.2018 |
 | Transcript, in: Crouwel – van Toorn: The Debate, Einhoven, NL, The Monacelli Press |
-| Tschichold, Jan: Die neue Typografie, Berlin, Brinkmann und Bose |  Tschichold, Jan Die neue Typografie | in: Eisele, Naegele Texte zur Typografie, Zürich, Niggli |
-| Tschichold, Jan: Noch eine Schrift | in: Eisele, Naegele Texte zur Typografie, Zürich, Niggli |
+| Tschichold, Jan: Die neue Typografie, Berlin, Brinkmann und Bose |  Tschichold, Jan Die neue Typografie; in: Eisele, Naegele Texte zur Typografie, Zürich, Niggli |
+| Tschichold, Jan: Noch eine Schrift; in: Eisele, Naegele Texte zur Typografie, Zürich, Niggli |
 | Type Directors Club Massimo Vignelli, Our Typographic Conscience | tdc.org/news/massimo-vignelli-our-typographic-con­science | 12.06.2018 |
 | Typolexikon Jan Tschichold | typolexikon.de/tschichold-jan | 14.02.2019 |
 | Typotalks Interview mit Philipp Neumeyer typo­talks.com/news/2017/11/13/fragenziehen-6-interview- mit-philipp-neumey­er | 14.02.2019 |
@@ -83,7 +84,7 @@
 
 # Abbildungs­verzeichnis
 
-| :--- |:---- |:----|:----|
+| :--- |:---- |:----|:----|:----|
 | unknown | Kapr, Albert/­Fischer, Hans: ­typoart typenkunst, Leipzig 1973 |
 | © Bauer Types | http://­www.ff­mark.com/­img/­history/­Futura.jpg |
 | © Bauer Types | The Monotype Corporation | Gutenberg Museum, Mainz | www.werbe­monitor.at/­medien/­bilder/­Artikel/­aus_der_branche/­futura/­futura3.jpg |
