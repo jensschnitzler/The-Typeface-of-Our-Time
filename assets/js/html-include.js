@@ -21,7 +21,8 @@ function includeHTML() {
             //filterContent(); // custom function
             figureItOut();  // custom function from figure.js
             paragraphCounter();  // custom function from paragraph-counter.js
-            listsources();  // custom function from listsoruces.js
+            listsources();  // custom function from listsources.js
+            autoNav();  // custom function from auto-nav.js
           }
           if (this.status == 404) { elmnt.innerHTML = "Page not found."; }
           /* Remove the attribute, and call this function once more: */
