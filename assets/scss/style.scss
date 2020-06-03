@@ -87,6 +87,26 @@ nav.sub-nav {
   }
 }
 
+/* --- Sections --- */
+
+section {
+  &#intro-text, &#main-text {
+    max-width: 30rem;
+  }
+  &#index {
+    max-width: 60rem;
+  }
+  &#persons {
+    max-width: 60rem;
+  }
+  &#sources {
+    max-width: 60rem;
+  }
+  &#images {
+    max-width: 60rem;
+  }
+}
+
 a,p,h1,h2,h3,h4,h5,h6 {
   color: #111;
   font-weight: normal;
