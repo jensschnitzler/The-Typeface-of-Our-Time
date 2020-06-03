@@ -136,6 +136,7 @@ nav.sub-nav {
     &:before {
       content: 'Menu';
       border-bottom: 1px solid var(--color-off);
+      color: var(--color-off);
     }
     .nav-section {
       transition: transform .4s ease;
