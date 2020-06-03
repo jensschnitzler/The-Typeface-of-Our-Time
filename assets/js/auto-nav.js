@@ -10,7 +10,7 @@ function autoNav(){
 
   headlines.each(function(i){
 
-    console.log('i: ' + i);
+    //console.log('i: ' + i);
 
     var headline = $(this);
 
