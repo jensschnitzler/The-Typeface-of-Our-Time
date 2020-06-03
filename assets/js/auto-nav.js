@@ -13,12 +13,15 @@ function autoNav(){
     var hCount = i + 1;
     var hType = $(this).prop('nodeName');
     var hContent = $(this).text();
-    var navItem = '<a>' + hContent + '</a>'
+    var hId = $(this).attr('id');
+
+    var navItem = '<a>' + hContent + '</a>';
+
     container.append(navItem);
     navItem.addClass('navItem');
     navItem.attr('data-count',hCount);
     navItem.attr('data-type',hType);
-    navItem.attr('href','https://www.w3schools.com');
+    navItem.attr('href','#' + hId);
   });
 
 }
