@@ -14,7 +14,7 @@ The dogmatic-reactionary traditionalists, according to Fred Smeijers, oppose thi
 
 But this opposition proofs the point of the temporal nature of type, by rejecting innovation and novelties not only in the field of design but in culture and politics altogether.
 
-## Roman Imperial Era (1st – 4th century)
+### Roman Imperial Era (1st – 4th century)
 
 The culture of Roman antiquity is the cradle of the Latin alphabet. The emperors’ inscriptions of the first and second centuries are the starting point and formal climax of the Western Latin writing culture.[\*](Bollwage:Buchstabengeschichten:21) The ancient letterforms, such as those of the Trajan Column, which is frequently referenced in typographic history, were defined by the three basic Archimedean geometric forms: Circle, square and triangle. In a similar fashion the Pantheon building in Rome also bears witness to a construction on a strictly geometric basis. It was a “emergence of architecture and writing from one mind”, how Max Bollwage puts it.[\*](Bollwage:Buchstabengeschichten:21)
 
@@ -22,13 +22,13 @@ In *Von der Entwicklung der Schrift* (On the Development of Type) Peter Behrens 
 
 We will encounter that in the subsequent course of Western cultural history, antiquity regularly served as a reference model and projection surface for both conservative and progressive worldviews and hence design movements.
 
-## Gothic (12th-15th century)
+### Gothic (12th-15th century)
 
 Type design in our modern sense first appeared in Europe in the Renaissance with Gutenberg’s letterpress printing and the punchcutters around 1450. That is why we jump to this next decisive point in the history of typography: the Gothic period.
 
 In the Gothic period, which stretched from the 12th to the 15th century, architecture and writing were dominated by an intellectual-spiritual attitude, “which no longer regarded the cathedral or the sacred writing as purely utility objects”.[\*](Frutiger:Der-Mensch-und-seine-Zeichen:167) Both buildings and type were accesses to higher spheres. Here the earthly human and the “expediency of the building or legibility of writing” played subordinate roles; instead, a “spiritual, solemnly structured sense of space and a strongly ornamental typography [...] stood in the foreground”.[\*](Frutiger:Der-Mensch-und-seine-Zeichen:167) In addition, a spatial separation of two different styles of writing could already be discerned at this time, determining a symbolic charging still in effect today: In German-speaking countries – especially in liturgical texts – the strict Gothic *Textura* dominated, whereas in Southern Europe the softer *Rotunda* was more successful.[\*](Voelker+Glaab:Read-Play:9) The latter already bore a clear resemblance to the Antiqua that would soon emerge from it.
 
-## Renaissance and Humanism (14th-16th century)
+### Renaissance and Humanism (14th-16th century)
 
 Humanism spread from Italy to Western and Central Europe in the 14th century, and its way of thinking still shapes European modernity today. In this revolutionary movement, it was no longer the dogmatic authority of the Church but the human mind that was the supreme good. The city state of Venice inherited in many ways the Eastern Roman Empire, of which it had been a part and which had existed continuously since antiquity, until 1453. Ancient Greek and Roman culture, architecture, art, and attitudes were rediscovered, reinterpreted, and added to the dominant Christian tradition. The study of ancient heritage served as a new source of moral values, intellectual development, and aesthetic ideals.[\*](Hoeks+Lentjes:The-Triumph-of-Typography:42-43) Humanism and its enthusiasm for the spirit of classical antiquity in the 14th and 15th centuries gave rise to the culture of the Renaissance, in which the motto was “the antiquity is the novelty”.[\*](Bollwage:Buchstabengeschichten:127) In this sense, modern Italian humanists were particularly interested in cultural renewal and change. Their scholars and writers rejected the outdated writing style of the Gothic black letter script with its heavy broken letters, turned to “Lettera Antica” and developed a new style that reflected the new mentality.[\*](Smeijers:Counterpunch:45)[\*](Lupton:Mit-Schrift-Denken:15)
 
@@ -54,7 +54,7 @@ The production of type, printing, the commercial and cultural world as a whole w
 
 Letterpress paved the way for the scientific revolution of the 17th century. It also promoted literacy, which led to the development of a growing popular culture with the spread of the holy christian scripture in various languages. The market for affordable texts and documents grew, and this was accompanied by the remarkable invention of the printed political pamphlet. This again laid the foundation for the formation of critical public opinion in the early 16th century.[\*](Hoeks+Lentjes:The-Triumph-of-Typography:23) The medium of the book became increasingly important. At the end of the 16th century it was customary for the printed word to be the primary source of education and information and to make a significant contribution to personal world views of the readership.[\*](Hoeks+Lentjes:The-Triumph-of-Typography:40)
 
-## 17th century
+### 17th century
 
 According to Max Bollwage, “nothing was to be expected for the development of the Antiqua in Germany in the 17th century”.[\*](Bollwage:Buchstabengeschichten:139) On the one hand, the Thirty Years’ War had destroyed the country, bled it out and left behind wounds that had not healed even after decades; on the other hand, the Protestant Reformation had declared war on the Latin language and script – this was the Antiqua form – as an expression of the Catholic foreign power. Instead, German Protestants set their texts with conviction in blackletter.[\*](Bollwage:Buchstabengeschichten:139) This transformation in meaning of the Antiqua is exemplary for the fluidity of the symbolic expression of typefaces in the course of time. While in the Renaissance intellectuality and progressiveness were associated with the Antiqua, in Protestant Germany two centuries later it was regarded as repressive-conservative, influenced by the association with the Catholic Church.
 
@@ -67,7 +67,7 @@ The construction according to mathematical principles led to the reintroduction 
 <!-- 200221 12:51 -->
 <!-- 200226 08:43 -->
 
-## Enlightenment and Classicism (18th century)
+### Enlightenment and Classicism (18th century)
 
 After the luxuriant and exuberant epochs of the Baroque and Rococo periods, classicism returned to the fascination of an image of antiquity that was attached to the supposed grandeur and simplicity of ancient buildings and sculptures. It awakened “in the observer accustomed to rococo the desire for austerity and simplicity in art [...], but also for solemn pathos.”[\*](Bollwage:Buchstabengeschichten:145)
 
@@ -83,7 +83,7 @@ Firmin Didot’s clear letterforms reflected the ideals of the Enlightenment and
 
 <!-- 200306 09:57 -->
 
-## Romanticism, Historicism, Realism, and Heimatstil (19th Century)
+### Romanticism, Historicism, Realism, and Heimatstil (19th Century)
 
 Towards the end of the 18th century, commercial pressure began to effect type design. The rise of advertising typefaces with their endless variations in form had begun. They had only limited similarities with typefaces for continuous reading. In the second half of the 19th century, type foundries began to reuse older matrices and revived earlier forms, thus coining the term “old style”. With the mechanization of type production and mechanized typesetting and printing, the effects of these developments spread widely. The typeface revivals, which were mostly based on models from the first 150 years of printing with movable type, were not only designed for use in plain reading, but were also conceived and developed for use in commercial advertising printed matter. By fattening and enlarging, attempts were made to inflate text fonts to display fonts, with unsatisfactory results. The perception of what constitutes a typeface began to change. [\*](Smeijers:Counterpunch:172-173)
 
@@ -107,13 +107,13 @@ Wood type was predestined for wear and tear due to the high pressure in the prin
 About lithography: Lithography is a planographic printing process invented by Alois Senefelder in 1798 and was common until 1930, when it was replaced by offset printing. Lithography made it possible to produce large, eye-catching printed matter in colour, which had previously not been possible with letterpress or copperplate printing. It favoured artistic originality and virtuosity on the one hand, but also the proliferation of lush and wild typefaces. With lithography, “expensive new lead type and elaborate copperplate engravings were no longer necessary for printing eye-catching and individual business and advertising printed matter. Everything had become possible. The most lavish and wildest typefaces could be drawn and printed in this way. The discipline of the stamp cutter was no longer necessary; a state of affairs comparable to that of today,” writes Max Bollwage.[\*](Bollwage:Buchstabengeschichten:151)
 Now it was possible to exceed the limitations of book typography and the letter form was no longer bound to the shape of the stamp. This made it possible to treat type as an illustrative image.[\*](Hoeks+Lentjes:The-Triumph-of-Typography:309)
 
-## Artistic countermovements (second half of the 19th century to 1920)
+### Artistic countermovements (second half of the 19th century to 1920)
 
 From the second half of the 19th century onwards, movements developed which criticized the disastrous social developments of their time – particularly related to advancing industrialization – and represented a return to pre-industrial values, “progress through recourse”.[\*](Bollwage:Buchstabengeschichten:101) Ulysses Voelker writes that some developments at the beginning of the 20th century demonstrated in exemplary fashion how social processes and typography interact.[\*](Voelker+Glaab:Read-Play:23) Thus the industrialisation of the 19th century would have lastingly changed the politics, culture and economy of the industrialised nations. It was at this time that artistic movements emerged that emancipated themselves from traditions and postulated new values with a new and vivid formal language.
 
 The various forms – Arts-and-Crafts in England, later around the turn of the century Art Nouveau in France, Art Nouveau in Germany, Stile Liberty in Italy and Wiener Secession in Austria – did not mark a political revolution, but united social upheavals that changed the visual language and produced new moral and aesthetic values. They had an influence on typography within Europe between the early 1890s and the First World War. Designers such as Georges Auriol, Eugene Grasset, Peter Behrens, and Otto Eckmann filled type specimens with curvy alphabets with eccentric calligraphic pride. The return to nature played an important role. The depiction of previous visual taboos – including an “astonishing degree of nudity,” as Steven Heller and A. M. Cassandre write[\*](Heller+Cassandre:The-Meanings-of-Type) – pushed all conservative artistic representations and values aside. The motif of eroticism was taken up in a comparable way in winding and lolling ornaments and letterforms.[\*](Heller+Cassandre:The-Meanings-of-Type)
 
-### Arts & Crafts
+#### Arts & Crafts
 
 The restorative Arts and Crafts movement, the British predecessor of German Art Nouveau, developed against the backdrop of the socialist struggle against ruthless capitalist industrialization. The movement rejected the poor quality and inhumane working conditions of industrial production and stood for typographic renewal through a return to the old masters. Their efforts for “the good form” and for bringing art and everyday life together continued to have an effect on the german “Kunstgewerbebewegung”, the “Deutscher Werkbund” and later in the Bauhaus.[\*](Bollwage:Buchstabengeschichten:101)[\*](Hoeks+Lentjes:The-Triumph-of-Typography:75)
 
@@ -123,11 +123,11 @@ However, the affluent William Morris, whose political criticism came from an eco
 
 <!-- 200306 11:34 -->
 
-### Jugendstil
+#### Jugendstil
 
 After the pioneering English Arts and Crafts movement, the Jugendstil movement gained a foothold in continental Europe around 1900. This movement established itself mainly in Germany, Austria, France and Belgium under different names. The avant-garde style, represented by Otto Eckmann among others, was a declaration of war on artistic historicism and classicism. The quote from 1894 by Jugendstil representative Henry van de Velde, who worked as a painter, architect and theorist, comes from the year 1894: “What benefits only one person is almost useless, and in the future society will be respected what is useful for all.”[\*](Voelker+Glaab:Read-Play:23) The beginning of the 20th century modernism was rooted within these socialist ambitions of Jugendstil.
 
-## Modernism and Functionalism (Early 20th Century)
+### Modernism and Functionalism (Early 20th Century)
 
 Peter Behrens contributed significantly to the image and self-conception of the modern designer. His work for the “Allgemeine Elektricitäts-Gesellschaft”, AEG, probably represents the first holistic corporate design ever. In this context, he not only designed the building, interior design and advertising, but also AEG’s corporate typeface.
 
@@ -147,7 +147,7 @@ Later on a stylistic rupture in Johnston’s work – and especially the reactio
 <!-- 200306 14:32 -->
 <!-- 200306 18:25 -->
 
-### Bauhaus (1919-1933)
+#### Bauhaus (1919-1933)
 
 Only one year after the First World War (1914-1918), the Bauhaus opened with its social-artistic agenda. The Bauhaus was a school of the avant-garde, which was linked to the Werkbund, Peter Behrens and the socialist Arts and Crafts movement. Due to its progressive and international orientation, the Bauhaus was from day one described by right-wing parties as “utopian and Bolshevik”.[\*](Bauhaus100-Weimar) The school rejected the elitist thinking of salon art; instead it supported the idea, that design in the form of democratized art was to serve human needs. William Morris’s socialist ideas and the discussion about the merging of art, work and technology, which had already begun with the Werkbund and was increasingly influenced by Russian Constructivism, were further developed here. The ideology of Constructivism, which said that it was only the connection of the apparent antitheses of art and technology that made the decisive contribution to a decent and just life, must be understood against the background of Bolshevik Russia, writes Jean Ulysses Voelker in his book “Read+Play”. The interplay of technology, art and industry was intended to bring about ethical and aesthetic standards for the benefit of society.[\*](Voelker+Glaab:Read-Play:25)
 
@@ -173,11 +173,11 @@ This formulation for the concept of a typeface appropriate to the spirit of the 
 
 His contemporary Max Bill also combined a political attitude with a creative practice. In *Max Bill Kontra Jan Tschichold*, Hans Rudolf Bosshard notes that “without exaggerating [...] Bill, who was interested in and committed to many things, could be found everywhere, so to speak, where progressive cultural work combined with leftist and anti-fascist thinking”. But Bill also paid tribute to the typically modernist enthusiasm for progress and efficiency when he insisted that “every design, in the sense of today’s living conditions, [...] requires the greatest possible economic efficiency”. The characteristic obsession of the modernists with technically constructed engineering structures is exemplified by Bill’s following statement: “The beauty of function [...] can probably best be observed where functions come to light most purely, without sentimental accessories, that is in mechanical and apparatus engineering, in the work of the engineer.”[\*](Bosshard:Max-Bill-Kontra-Jan-Tschichold:24+25+51+52)
 
-### The Crystal Goblet
+#### The Crystal Goblet
 
 In her 1930 essay *The Crystal Goblet, or Printing Should Be Invisible*, the young Beatrice Warde summarized the beliefs of a movement that opposed the “graphic monkey theatre” of the dominant decorative and complacent design style developed in the 19th century by the historicist avant-garde. The *Crystal Goblet* was her metaphor for arguing for a return to the classical values of a humanist typographic tradition in which writing, as a pure container, has as little place as possible between the reader and the message and must have no distorting or coloring effect. Good typography would therefore be transparent, clear and invisible. Warde was an advocate of the revival of historical writings and, with The Crystal Goblet, created a frequently referenced manifesto, the effect of which is still felt today.[\*](Hoeks+Lentjes:The-Triumph-of-Typography:310–311)[\*](UCSB-Art:The-Crystal-Goblet)
 
-### National and international font
+#### National and international font
 
 At a time when “in every western country countless different indigenous typefaces with ‘clear colours’ were still in use”, the modernist avant-garde had the politically motivated intention of banning these locally specific forms of design and replacing them with international-universal forms.[\*](Frutiger:Der-Mensch-und-seine-Zeichen:197)
 
@@ -187,7 +187,7 @@ However, even the first new geometric typefaces did not escape the national conn
 
 However, due to the declining importance of national borders for the distribution of media through technical progress, Adrian Frutiger in the 1970s was able to declare the uniformity of form sought by the modernists, “the crystallization of the Latin typeface into an international text type”.[\*](Frutiger:Der-Mensch-und-seine-Zeichen:197) Nowadays though, a strong local imprint, like when we talk about Swiss or Dutch graphic design, bares witness of a graphic heritage lastingly cultivated, appreciated and fostered by the respective society. Jean Ulysses Voelker describes that one can still “look at each country’s artistic socialisation [and its typical design]”. Today, Switzerland and the Netherlands would be particularly good examples of countries that have successfully turned “their design goals into [an] export hit.[\*](Voelker+Glaab:Read-Play:53)
 
-## Rule of National Socialism in Germany (1930s-1945)
+### Rule of National Socialism in Germany (1930s-1945)
 
 The reign of National Socialism in Germany ended the work of the local early Modernists. The Bauhaus was closed and the New Typography banned as non-German.[\*](Heller+Cassandre:The-Meanings-of-Type) Many of the most important German designers were defamed by the regime, persecuted as “cultural Bolshevists,” and fled abroad, primarily to Switzerland and the United States. “Because [the Third Reich] was based on deception, it did not want to hear anything from the honest modernists [...]”, Jan Tschichold wrote a few years later.[\*](Bosshard:Max-Bill-Kontra-Jan-Tschichold:92)
 
@@ -214,13 +214,13 @@ In doubt about the “naïve overestimation of so-called technical progress,” 
 
 Tschicholds view of industrial production, which had been glorified until then, and its supposed progressiveness turned into the opposite: machine production was not good or valuable simply because it was “modern”, much more it was “evil”. This development was no longer represented by the image of the technically refined, functionalist steel construction, but by the atomic bomb and so-called “retaliatory weapons”, heavy new weapons of war from which the Nazi regime had hoped for the “final victory” and which were also used against the civilian population.[\*](Bosshard:Max-Bill-Kontra-Jan-Tschichold:94–95) Tschichold stressed, however, that his return to traditional forms was not a “typographic homeland style”, which would amount to a reversal of the belief in progress, “namely a sentimental flight into the irretrievably past.”
 
-## Advanced modernism (The second half of the 20th century)
+### Advanced modernism (The second half of the 20th century)
 
-### The Typographic Dispute of Modernity
+#### The Typographic Dispute of Modernity
 
 This radical change in the history of typography is testified to by the documents that in their entirety constitute the so-called “typographic dispute of modernity”. These are various essays by Jan Tschichold and Max Bill, in which “each of the two opponents bombarded the other with accusations of embracing Nazi aesthetics”. “This conflict of opinions was, simply put, about old and new, traditional and modern, commonly understood as symmetrical and asymmetrical typography or as typography with or without decorative additions. Max Bill, personally disappointed by the change of mind of the former pioneer of New Typography, saw the return to traditional typography as an attack on modernity. Bill, still a convinced modernist and representative of a further developed New Typography, compared Tschichold with a painter who ”began to express himself in reactionary forms after an interesting beginning that logically resulted from the contemporary world view”. Jan Tschichold, on the other hand, accuses Bill of “dogmatic stubbornness”. The fact that his conversion is classified as treason reinforces his view that the “struggle” of the modernists has traits of a sectarian religious matter, writes Hans Rudolf Bosshard in “Max Bill Kontra Jan Tschichold”.[\*](Bosshard:Max-Bill-Kontra-Jan-Tschichold:12+35+36+79+98)
 
-### Swiss Design (1950s-1960s)
+#### Swiss Design (1950s-1960s)
 
 Because a large part of the German avant-garde had found refuge in Switzerland, their initiatives mingled with local progressive movements. After the war, this situation provided the basis for the development of “Swiss typography” and the resulting “International Typographic Style”.[\*](Hoeks+Lentjes:The-Triumph-of-Typography:76)
 
@@ -248,13 +248,13 @@ In Italy in 1966, under the direction of Aldo Novarese, the Societa Nebiolo type
 
 Nebiolo’s decision to develop its own “objective” sans-serif typeface as competition to Helvetica and Univers was based on a market analysis. The analysis revealed that there was still an unmet demand for a typeface “without any trace of calligraphy and with the potential to become a workhorse of contemporary graphic design”. “A consensus was reached to comply with the current trends and market expectations” and so the new Forma came into being. [\*](Colizzi:The-final-act-at-Nebiolo)
 
-### HfG Ulm (1953–1968)
+#### HfG Ulm (1953–1968)
 
 Otl Aicher was a representative of an advanced, humanistic modernism of the second half of the 20th century and one of the most influential German designers to this day. His attitude reflects a contradictory mixture of social commitment, anti-fascist social criticism and apodeictic design dogmas. Aicher considered typefaces to be highly political and a “treasure trove of cultural knowledge”. He saw the typographer’s creative decisions as a direct expression of moral and social attitudes: “the typographer is a homo politicus. even the question of ragged or block type setting will be an essential statement, in the small cosmos, as to whether the typographer is a follower of principles of order or principles of freedom. only those who advocate law and order prefer the central axis. and those who choose the central axis are, whether consciously or unconsciously, a person of ‘regulation’, of symmetrical unification.”[\*](Aicher:Typografie;Eisele+Naegele:Texte-zur-Typografie:178–179)
 
 In 1953 Otl Aicher, Inge Aicher-Scholl (sister of Hans and Sophie Scholl) and Max Bill together founded the Hochschule für Gestaltung Ulm (HfG), which saw itself as an indirect successor to the Bauhaus. Although Otl Aicher attributed great cultural importance to typefaces, the school he co-founded did not give any impetus to type design. There they were content with Akzidenz-Grotesk, Helvetica and Univers. One possible explanation for this could be that the Ulm school no longer saw itself as *artistic-artisanal* like the Bauhaus, but instead defined design through scientific theories. This attitude obstructed access to the teaching of the writing and drawing of letters. In addition, there was a conviction that the general demand for typefaces was saturated, as the supply was now sufficiently large.[\*](Bollwage:Buchstabengeschichten:203) Another theory on why the development of type design in West Germany came to a standstill, whereas it continued in Leipzig, was expressed at the *72nd Berlin Typostammtisch* and goes, that it was the strong reluctance of the nationalistically connotated blackletter type that hindered a calligraphic culture and teaching in West Germany – and thus also a type design education based on it.
 
-### International Typographic Style (1960s – Today)
+#### International Typographic Style (1960s – Today)
 
 The Swiss style increasingly consolidated itself as an ideal, which began its triumphal march worldwide in the form of the International Style.[\*](Voelker+Glaab:Read-Play:45+47) In 1960 the *Neue Haas Grotesk* was renamed *Helvetica*, a clever marketing strategy that led to the typeface becoming the general symbol of Swiss design. Embodying unobtrusive precision, its attributes were well received by companies looking to convey a concise and serious identity.[\*](Müller:Homage-to-a-Typeface) An additional advantage of Helvetica was its wide range of language-specific characters and the rapid adaptation of non-Latin characters into the typeface family. This made it the perfect font for companies worldwide. Another aspect of the international success of the rational Swiss design was its apparent objectivity, which made it attractive and easy to copy. Thus, the “International Swiss Style” shaped visual communication until the 1970s through continuous adaptation to social changes, to which technical innovations such as the introduction of phototypesetting contributed.[\*](Voelker+Glaab:Read-Play:47) Helvetica embodied the modern mission of democratizing visual communication. After its introduction, first in Europe, then in the USA, it became the readable, versatile and discreet typeface of choice for companies worldwide. But according to Steven Heller and A. M. Cassandre in their essay *The Meanings of Type*, Helvetica’s neutrality proved to be a double-edged sword, and the democratic and pleasing character of this typeface was often abused to gloss over dishonest corporate communications and give advertising promises a rational touch.[\*](Heller+Cassandre:The-Meanings-of-Type)
 
@@ -267,7 +267,7 @@ Massimo Vignelli was a staunch advocate of modernist design principles and an op
 
 Michael Bierut, who was an employee of Vignellis for the first ten years of his career, recapitulates that time: “Between 1980 and 1990, most of my projects were set in five fonts: Helvetica (naturally), Futura, Garamond#3, Century Expanded, and, of course, Bodoni.” For Vignelli this was an ideological choice, even an “ethical imperative”. It was also very time-saving: “Why spend hours choosing among Bembo, Sabon, and Garamond#3 every time you needed a Venetian Roman? For most people [...] these were distinctions without differences. Why not just commit to Garamond#3 and never think about it again?” Interestingly, Bierut connects his attitude towards this typography, which he associates with “monogamy” and “sobriety”, with his upbringing: “My Catholic school education must have well prepared me for this kind of moral clarity. I accepted it gratefully.” In contrast, Bierut describes his creative phase, which followed the time of his activity for Vignelli and which was marked by the use of particularly many typefaces, as “slutty” and “promiscuous”.[\*](Bierut:13-Ways-of-Looking-at-a-Typeface) Vignelli and Bierut thus provide a vivid example of the relationship between formal aesthetics and moral concepts.
 
-### Experimental Modernism and the Rise of Postmodernism (1960s-1990s)
+#### Experimental Modernism and the Rise of Postmodernism (1960s-1990s)
 
 The cultural and social atmosphere changed in the mid-1960s. “Pop and drugs, graffiti and flower power took the stage by storm, while protesting youth in Europe and the United States occupied streets and squares. The revolutionary posters and pamphlets that appeared in Paris in May 1968 reflected a new imaginative style. In the seventh decade of the last century, after 500 years, the end of lead typesetting and a new typographic era were heralded.”[\*](Hoeks+Lentjes:The-Triumph-of-Typography:118–121)
 
@@ -289,14 +289,14 @@ In the period from 1950 to 1980 phototypesetting was the predominant typesetting
 
 But technological advancement did not only bring new opportunities, but also new challenges and limitations. Another technical novelty in the 1960s were new, faster typesetting machines introduced by the companies Monotype and Linotype. Together with the Stempel company, they approached Jan Tschichold with the task of designing a typeface that would work on the three different typesetting systems of the companies. While Stempel still needed stencils for manual typesetting, the limitations of the typesetting machines at Monotype and Linotype meant that the typeface had to meet different requirements. Taking these systems into account when creating the typeface was a major design challenge, and many of the typeface’s characteristics were the result of compromises. “The width of the letters was determined by the 18 units available from Monotype [...] the Linotype system could not undercut [...] Linotype’s double matrices [required] that the upright and italic forms of a letter be the same width.” Furthermore, the *deutsche Normallinie*, which served to establish a uniform alignment for the use of fonts from different type houses, but “primarily took into account the blackletter fonts with their small descenders”, meant that there was little room for the descenders of Antiqua typefaces also. The elaborate production of the lead typefaces required that Tschichold only produced the templates, which were then drawn and reworked by a whole team for typesetting in practically every size. Within this tedious process, deviations from the original design template were likely to occur.[\*](Ronneberger:Die-Sabon-von-Jan-Tschichold)
 
-### Nostalgia and Neoclassicism (1970s-1980s)
+#### Nostalgia and Neoclassicism (1970s-1980s)
 
 In the 70s and 80s, commercial typography experienced a pronounced wave of nostalgia, with which “all forms of typography that had been frowned upon in our country for years resurfaced: central axis, small capitals, frames, lines, font mixes and initials”. The Antiqua celebrated its return in the form of the Times New Roman, which began a “triumphal march almost comparable to that of Helvetica”. With this typographic neoclassicism, “nobility, dignity, pathos” returned – “terms for which the design world for decades had nothing but mockery and ridicule”.[\*](Bollwage:Buchstabengeschichten:208–210)
 
 <!-- 200514 17:02 -->
 <!-- 200514 18:17 -->
 
-## Postmodernism (1980s-1990s)
+### Postmodernism (1980s-1990s)
 
 In *Anarchie der Zeichen: Grafik-Design von den Achtzigern bis heute* Rick Poynor writes that it was primarily the loss of belief in the ideal of progress that distinguished postmodernism from modernism. The firm belief in continuous human progress through intellect and science is rooted in the Enlightenment of the 18th century. The advocates of the Enlightenment saw it as an irrefutable fact that there was only one true answer to every question. Their conclusion “that a rationally structured world order was possible if it could be represented correctly” presupposed “that there was only one form of representation which, if we could discover it [...] would provide us with the means for the purposes of enlightenment”. The postmodern thought, in turn, excluded such claims to absoluteness. The belief in totalizing systems, in universal values or solutions was rejected.
 
@@ -319,7 +319,7 @@ The trait shared by the many visual strategies of this new postmodern typography
 
 In *Schriften zur Typografie*, Petra Eisele and Isabel Naegele summarize the new concepts underlying the emergence of postmodern positions: “Especially after insights from linguistics had been transferred to the field of design, new ‘postmodern’ positions could be developed on the design theoretical level. The realization that all forms – including those of a reduced design – are charged with very different contents of meaning, as it were, led ad absurdum the idea of an objective design derived purely from its purpose and a ‘neutral’ design. The influence of linguistic knowledge can already be clearly felt in the seventies [...]. Accordingly, the conviction prevailed that typographic elements are also involved in the formation of meaning content – they serve as a ‘semiotic resource’: even without knowledge of the content of a text, the character of a script, its arrangement, technical execution and material presence ‘speaks’ volumes in the truest sense of the word. [...] Ultimately, every detail of design, such as line length, line spacing, as well as the choice of format and paper, is involved in the construction of meaning. [...] The interplay between socio-political and new (media) technological developments finally led to new ‘postmodern’ positions. They not only questioned typographical conventions, which were now perceived as too rigid a set of rules, but ultimately led them ad absurdum.[…]«[\*](Eisele+Naegele:Texte-zur-Typografie:24–27)
 
-### Anti-Helvetica
+#### Anti-Helvetica
 
 The rejection of modernism in the 1980s also led to a rebellion against Helvetica, a typeface that had embodied commercial modernist typography for over two decades. One solution to Helvetica’s global ubiquity was a typeface as far removed from objectivity as possible: *Remedy*, designed by Frank Heine and published by the independent Foundry Emigre. With its sweeping baseline, arbitrary ornamentation, and consistent plumpness, Remedy seemed nothing more than a scribble. It was as personal as a handwriting, without actually formally imitating a handwriting. In an act of rebellion against the prevailing sans serif aesthetic, designers longed to celebrate free creativity in their digital typefaces. The design ideal of universality admired by the modernists lay diametrically opposed to a more contemporary quest for an aesthetic of cultural individuality and diversity in the more recent understanding of design.[\*](Shaw:The-Digital-Past:When-Typefaces-Were-Experimental)
 
@@ -327,11 +327,11 @@ One famous and influtential US-American type foundry was founded in 1984 by Zuza
 
 At the time, young postmodernist designers questioned the existence of a natural ideal form and felt the need to break with the developments of the recent past.[\*](Heller+Cassandre:The-Meanings-of-Type) Historical retrospect revealed that legibility was above all a matter of habit: For instance, while in pre-war Germany blackletter type was the common, dominant choice, it was now perceived as very difficult to read. Or the typeface *Baskerville* from 1757, at the time considered unspeakable and unreadable, was now considered one of the most suitable typefaces for typesetting long texts. The observation of these shifts contradicted the modernist idea of the one perfect typeface. For this reason the postmodernists dropped this notion and designed extreme counterpositions with stubborn and unconditionally subjective typefaces.[\*](Poynor:Type-and-Deconstruction-in-the-Digital-Era-in-Typography-Now:The-Next-Wave:8)
 
-### Vernacular Design
+#### Vernacular Design
 
 With the establishment of digital design processes in the early 1990s, many graphic designers became weary of the perfect, immaculate surfaces so easily produced by the computer and grew fond of the more challenging idea of returning the appearance of the typography and the letterforms to the rough world of physical processes through digital manipulation. “Letters for which perfect forms and exact technology had been sought for centuries were scratched, bent, struck and contaminated.”[\*](Lupton:Mit-Schrift-Denken:29) Type designers strove for the formal equivalent of a “colloquial gutter language”[\*](Heller+Cassandre:The-Meanings-of-Type). Postmodern typography found formal inspiration in the field of the “vernacular”, the amateuristic ordinary everyday design. According to Rick Poynor, the attractiveness of this design form lay “in its authentic effect, the impression that it expressed the natural, unalienated expression of local feelings and concerns – without being branded by the strategies, marketing pressures, [artificial] smoothness, and calculatedness associated with the professional design elite”. Like the contemporary designer Tibor Kalman said: “We are interested in everyday graphics because they are the purest, the most honest, the most immediate form of communication.”[\*](Poynor:Anarchie-der-Zeichen:81–82)
 
-### CalArts
+#### CalArts
 
 California and in particular the California Institute of the Arts, “CalArts”, played a special role in the contemporary development of graphic design in the 1980s and 1990s. Jeff Keedy, then professor at CalArts, defended the “technological ecstasy” that prevailed in design in the 80s and 90s: “It’s not possible to create new typography with old typefaces. Why do so many typographers try to achieve the impossible – a new typography with old fonts.”[\*](Biľak:Type-design-in-the-1990s) About his typeface *Keedy Sans*, which Emigre Fonts has been promoting since 1990 by “deliberately breaking with expectations”, Keedy says it was “a typically postmodern working strategy to draw attention to errors and artificial measures in one’s own structure”.[\*](Poynor:Anarchie-der-Zeichen:57) The aim was to encourage many different readings, rather than just one, to challenge the reader to become an active participant in the construction of the message. Late modernist typography called for a reduction in complexity and clarification of content. The new typographers, on the other hand, enjoyed the ambiguity and preferred provisional formulations and alternative attitudes to a well-formulated phrase. “If someone interprets my work in a way that is totally new to me, I say fine,” said Jeff Keedy at the time. “That way your work has a life of its own. You create a situation for people to do with it what they will, and you don’t create an enclosed or encapsulated moment.”[\*](Poynor:Type-and-Deconstruction-in-the-Digital-Era-in-Typography-Now:The-Next-Wave:8)
 
@@ -341,7 +341,7 @@ In 1991, Neville Brody and Jon Wozencroft founded the experimental and influenti
 
 In Fuse magazine, defiant typefaces such as Tobias Frere-Jones *Reactor* (Fuse 7) were found, uninhibitedly, in which each additional character written increasingly soiled the preceding lines with a disturbing noise ( “the more you type, the worse it gets ...”). According to graphic designer Michael Rock, these type experiments are particularly interesting because of their strong connection between form and idea. Another example is Paul Elliman’s performative font *F Alphabet* (Fuse 5). This was produced, together with 26 participants who represented the letters, in a photo booth. This type of experimental type called into question both the concept of mechanical repetition and the weighting of formal decisions and the linguistic imponderables of the medium.[\*](Rock:Beyond-Typography)
 
-### Staging as socio-critical thinker in postmodernism
+#### Staging as socio-critical thinker in postmodernism
 
 Postmodernism produced a new type of designer in both architecture and graphic design, who achieved a new degree of fame through strong self-marketing. “An architect like Rem Koolhaas does not simply build buildings; he works at least as intensively on staging himself as a socio-critical thinker. Building only functional, aesthetically pleasing buildings is not enough. Peter Eisenman was able to integrate star philosophers like Jacques Derrida in order to ennoble his designs with a deconstruction of ‘architectural metaphysics’, as he called it.”[\*](Laudenbach:Wir-erleben-einen-emotionalen-Klimawandel) The concept of self-portrayal as an intellectual critic of society was already present in Edward Johnston and the modernists of the Bauhaus, but has now become an essential aspect in the works and appearances of some designers.
 
@@ -349,11 +349,11 @@ With the chaotic layouts of the magazines Beach Culture (1989-1991), Surfer (199
 
 <!-- replace some “she” with “they”, remove “female” -->
 
-### Activating Reading
+#### Activating Reading
 
 The postmodern typeface design smashed Beatrice Warde’s typographic concept of the crystal goblet and drew attention to the typefaces themselves through a deliberate intrusiveness.[\*](Hoeks+Lentjes:The-Triumph-of-Typography:130) Like Carson and van Toorn, the Dutch studio Dumbar proclaimed the philosophy that neither the execution nor the reception of design should be simple. Instead, the reader of the message was to be forced to think about what they saw. The radical approach to communication sought to allow the viewer of a text to participate in it, to exert it, and to emphasize the construction of meaning. Radical typography aimed not to flow seamlessly legibly, but to interrupt and disrupt, to expose meanings and language as inherently problematic.[\*](Stiff:Look-At-Me!-Look-At-Me!;Looking-Closer:24+34) Undoubtedly, according to Rick Poynor, the “adventurous visual experience” of the new design approach “also represents a social resistance against any form of authority imposed from outside”.[\*](Poynor:Anarchie-der-Zeichen:14) The “rational approach” advocated by the modernists conditions and programs the public sphere, is neither neutral nor objective, and does not sufficiently cover the aspects of the meaning and identity of the message and the sender, according to the poststructuralist Jan van Toorn. The modernist method is technocratic and leads to great uniformity without being able to do justice to individual mentalities. Van Toorn was convinced that the use of chaos and everyday images improved communication with the public, leaving the viewer and reader room for their own opinions about the news. Design should empower the ability to criticize and to participate.[\*](Huygen:The-Debate-in-Context:Crouwel-van-Toorn:The-Debate:65)
 
-### Deconstruction and demystification
+#### Deconstruction and demystification
 
 The theorists of the Cranbrook Academy of Art, another influential school in the postmodern discussion of the mid-1970s[\*](Designhistory:Deconstruction), derived their goals from French philosophy and literary theory. The reader should be provoked to become an active participant in the construction and deconstruction of the message. The manipulative visual language and the various levels of meaning embodied in a design were to be deconstructed, broken apart and revealed. Just as a literary critic can deconstruct and decode the verbal language of a novel.[\*](Stiff:Look-At-Me!-Look-At-Me!;Looking-Closer:24)[\*](Poynor:Type-and-Deconstruction-in-the-Digital-Era:Typography-Now:The-Next-Wave:13)
 
@@ -363,11 +363,11 @@ The visual style associated with these theoretical positions could be described 
 
 At the time when the computer was just beginning its triumphal march, Andrea Tinnes was first a student at the Mainz University of Applied Sciences in Germany, then at the aforementioned CalArts and later worked at Jeff Keedy’s studio. Looking back, she describes that at the time “the digital revolution and postmodernism [...] were on everyone’s lips in the field of graphic design”. Emigre, Eye Magazine, Ray Gun and Typography Now, “then the Bible for many students,” had a strong impact. Tinnes emphasizes that the CalArts’ graphic design program was often wrongly accused of pursuing a purely superficial exploration of form and visual language. Instead, in contrast to the education in Germany, “the teaching of design theory and history there took place at a high level”. “Both theoretically and practically, historically and contemporary, one exchanged views on all facets of typography and graphic design and reflected on the discipline.”[\*](Naegele+Eisele+Ludwig:Neue-Schriften:179)
 
-### Humanistic sans serif (1990s)
+#### Humanistic sans serif (1990s)
 
 Even in the more moderate and commercial realms, the zeitgeist demanded a change from the “too neutral” Helvetica design. New alternatives that gained popularity in the 1990s were the somewhat more characterful humanistic sans serifs, such as Rotis (1988) by Otl Aicher, Meta (1991) by Erik Spiekermann and TheSans (1994) by Luc de Groot. “The first time I heard the term ‘humanist’ in the context of typography was in the form of Erik Spiekermann’s Meta, a sans serif that was the perfect non-Helvetica typeface [...]”, font designer Stefán Kjartansson writes in the article *What is a Humanist Typeface?*. It had the discipline of the Akzidenz-Grotesk faces while being less sculpted, with a much softer, expressionist and crafted touch.”[\*](You-Work-For-Them:What-is-a-Humanist-Typeface?)
 
-### End of Postmodernism (1990s — 2000s)
+#### End of Postmodernism (1990s — 2000s)
 
 Among the representatives of classical typographic concepts, postmodern or poststructuralist design was met with scant affection. Otl Aicher explained that when “typographic signs are only used as a treasure trove of graphic material for symbols and textures, the font is reduced to a purely aesthetic object”, without any function beyond that.[\*](Stiff:Look-At-Me!-Look-At-Me!;Looking-Closer:36)
 
@@ -377,7 +377,7 @@ While deconstructive design in the 1980s was a semi-subcultural, seemingly large
 
 Rick Poynor regards Jonathan Barnbrook’s design as an example of his doubts about the socially critical position of postmodernism: “Does the critical significance of a Barnbrook design lie [...] in the presence of simple copy lines, as ‘Virus says, stops American cultural imperialism’ – even though the design itself embodies a seductively spectacular surplus that is characteristic of this colonization process? Any attempt to argue that his poster design ironically turns the things portrayed to make its case strong is countered by the fact that all Barnbrook works have the same recognizable look. So his complicit critique seems to be postmodern through and through: he means what he says and cannot escape the prevailing cultural conditions at the same time.”[\*](Poynor:Anarchie-der-Zeichen:168) Outside the scientific arena, one agrees, Poynor writes, that “postmodernism has followed the fate of so many other intellectual fashions. Many people have never understood the true meaning of postmodernism, and even benevolent initiates have their doubts”.[\*](Poynor:Anarchie-der-Zeichen:8)
 
-## The Present and Meta-Modernism
+### The Present and Meta-Modernism
 
 The peaks of modernism and poststructuralism are now behind us and we are entering a new world in which we try to learn from our predecessors, to critically question them and reassemble their legacy, the components of their spiritual and creative heritage. Today the modernist quest for the *timeless* design — and with this the promise of the conclusion of style history — seems obsolete, as much as any totalitarian dogma and absolute solution. The postmodern surprise effect of the new digital tools as well has been exhausted and the general interest of the type design avant garde shifts back again towards the design of typefaces for longer reading texts. Today, type designers still share the concerns of some predecessors from the past decades, but the on average the current approach is less expressive and more concern is directed on the micrographic level of type design again. [\*](Rappo:Schreib’s-auf+verdammt+schreib’s-auf!;Frische-Schriften:86–87).
 
