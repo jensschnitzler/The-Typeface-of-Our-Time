@@ -144,7 +144,7 @@ section {
 }
 
 a,p,h1,h2,h3,h4,h5,h6 {
-  color: #111;
+  color: var(--color-text);
   font-weight: normal;
   font-style: normal;
   font-family: 'Helvetica', sans-serif;
@@ -176,7 +176,6 @@ p {
 }
 
 p>.count {
-  /*color: grey;*/
   font-family: 'Helvetica', sans-serif;
   text-align: left;
   position: absolute;
@@ -195,10 +194,13 @@ p+p {
   margin-top: .7rem;
 }
 
-a, a:link, a:hover, a:focus, a:active {
+a, a:link, a:focus, a:active {
   color: inherit;
   text-decoration: none;
-  color: rgb(0,0,250);
+  color: var(--color-medium);
+  &:hover {
+    color: var(--color-text);
+  }
 }
 
 table tr {
