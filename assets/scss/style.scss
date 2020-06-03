@@ -137,6 +137,16 @@ nav.sub-nav {
       content: 'Menu';
       border-bottom: 1px solid var(--color-off);
     }
+    .nav-section {
+      transition: transform .4s ease;
+      will-change: transform;
+      transform: translateX(-100%);
+    }
+    &:hover {
+      .nav-section {
+        transform: translateX(0%);
+      }
+    }
     a {
       margin: 0;
       //width: 11rem;
