@@ -100,7 +100,7 @@ nav.sub-nav {
   top: 0;
   z-index: 100;
   a {
-    @include small-text;
+    //@include small-text;
     cursor: pointer;
     display: block;
     flex: 0 0 auto;
