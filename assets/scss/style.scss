@@ -164,29 +164,22 @@ a,p,h1,h2,h3,h4,h5,h6 {
   line-height: 1.6;
 }
 
+/* --- Headlines --- */
+
 h1,h2,h3,h4,h5,h6 {
-  margin-top: 6rem;
-  margin-bottom: 1rem;
-  /*text-transform: uppercase;*/
+  display: block;
+  text-align: center;
+  line-height: 1;
+  max-width: 35rem;
+  margin: 6rem auto 1rem;
+  vertical-align: middle;
+
   background: pink;
 }
 
 h1 {
-  background: yellow;
-}
-
-h2 {
-  background: red;
-}
-
-h3 {
-  background: blue;
-}
-
-h1, h2 {
   //background-color: yellow;
   display: block;
-  margin-top: 0;
   font-size: 4rem;
   text-align: center;
   letter-spacing: -.01em;
@@ -199,6 +192,13 @@ h1, h2 {
 
 h2 {
   font-size: 2rem;
+  background: red;
+  padding: 0;
+  margin: 3rem 0;
+}
+
+h3 {
+  background: blue;
 }
 
 .main-title {
