@@ -186,7 +186,7 @@ h1,h2,h3,h4,h5,h6 {
   max-width: 35rem;
   margin: 6rem auto 3rem;
   vertical-align: middle;
-
+  padding: 0;
   background: pink;
 }
 
@@ -205,9 +205,6 @@ h1 {
 
 h2 {
   font-size: 2rem;
-  background: red;
-  padding: 0;
-  margin: 3rem 0;
 }
 
 h3 {
