@@ -48,8 +48,8 @@ body {
 }
 
 main {
-  max-width: 38rem;
-  margin: 1rem auto;
+  //max-width: 38rem;
+  //margin: 1rem auto;
   background: white;
 }
 
@@ -66,6 +66,10 @@ nav.sub-nav {
     display: block;
     flex: 0 0 auto;
     margin-right: .5rem;
+    padding: .2rem;
+  }
+  .nav-section {
+    border-bottom: 1px solid blue;
   }
 }
 
@@ -77,6 +81,9 @@ nav.sub-nav {
     top: 0;
     left: 0;
     max-height: 100vh;
+    a {
+      margin: 0;
+    }
   }
 }
 
