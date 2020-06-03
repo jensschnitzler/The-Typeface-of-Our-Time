@@ -8,6 +8,15 @@
 
 /* ----------------------- */
 
+@mixin small-text {
+  font-family: 'Helvetica', sans-serif;
+  font-size: .4rem;
+  text-align: left;
+  letter-spacing: .01;
+}
+
+/* --- */
+
 html, body {
   scroll-behavior: smooth;
   background-color: var(--color-bg);
@@ -223,15 +232,11 @@ p {
 }
 
 p>.count {
-  font-family: 'Helvetica', sans-serif;
-  text-align: left;
+  @include small-text;
   position: absolute;
   top: 0;
-  left: 0;
+  left: 1.4rem;
   margin: 0;
-  font-size: .4rem;
-  /*padding: 0 .2rem .2rem 0;*/
-  text-indent: 0;
   display: block;
   transform: translate(0, -80%);
 }
