@@ -57,8 +57,15 @@ main {
 
 @media screen and (min-width: 1000px) {
   main {
+    max-width: calc(100vw - 11rem);
+    margin: 0 0 0 auto;
+  }
+}
+
+@media screen and (min-width: 1300px) {
+  main {
     max-width: calc(100vw - 14rem);
-    margin: 1rem auto;
+    margin: 0 auto;
   }
 }
 
@@ -87,7 +94,7 @@ nav.sub-nav {
 
 @media screen and (min-width: 1000px) {
   nav.sub-nav {
-    max-width: 7rem;
+    max-width: 11rem;
     background: red;
     flex-flow: column nowrap;
     position: fixed;
@@ -131,7 +138,7 @@ a,p,h1,h2,h3,h4,h5,h6 {
   font-style: normal;
   font-family: 'Helvetica', sans-serif;
   font-size: 1rem;
-  line-height: 1.5;
+  line-height: 1.6;
 }
 
 h1,h2,h3,h4,h5,h6 {
