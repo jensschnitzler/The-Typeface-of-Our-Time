@@ -103,6 +103,11 @@ nav.sub-nav {
 /* --- Sections --- */
 
 section {
+  display: block;
+  position: relative;
+  margin: 1rem auto;
+  background: #eee;
+
   &#intro-text, &#main-text {
     max-width: 30rem;
   }
