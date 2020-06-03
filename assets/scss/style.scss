@@ -57,14 +57,14 @@ main {
 
 @media screen and (min-width: 1000px) {
   main {
-    max-width: calc(100vw - 11rem);
+    max-width: calc(100% - 10rem);
     margin: 0 0 0 auto;
   }
 }
 
 @media screen and (min-width: 1300px) {
   main {
-    max-width: calc(100vw - 14rem);
+    max-width: calc(100% - 14rem);
     margin: 0 auto;
   }
 }
