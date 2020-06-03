@@ -1,5 +1,15 @@
 // make the text nicer
 
+function stringContainsPattern(str, pattern) {
+  //var str = "Hello world!";
+
+  // look for "Hello"
+  //var patt = /Hello/g;
+  var result = pattern.test(str);
+  return result;
+}
+
+
 function niceText(){
   console.log('=== niceText ===');
   var containers = $('body').find('.js-nice-text');
@@ -13,11 +23,16 @@ function niceText(){
       //console.log('i: ' + i);
       var count = i + 1;
       var paragraph = $(this);
-      var strng = paragraph.text();
+      var str = paragraph.text();
+      var pattern = /Alvin/i;
 
-      var position = strng.search(/Alvin/i);
-      if(position >= 0){
+      if( stringContainsPattern(str,pattern) ){
+
+        var marginItem = $('<div/>');
         paragraph.css('background','red');
+        marginItem.addClass('margin');
+        paragraph.appendTo(marginItem);
+        
       }
 
     });
