@@ -52,6 +52,8 @@ main {
   margin: 1rem auto;*/
 }
 
+/* --- Navigation --- */
+
 nav {
   display: flex;
   flex-flow: row nowrap;
@@ -68,6 +70,12 @@ nav>a {
   display: block;
   flex: 0 0 auto;
   margin-right: .5rem;
+}
+
+@media screen and (min-width: 1000px) {
+  nav {
+    background: red;
+  }
 }
 
 a,p,h1,h2,h3,h4,h5,h6 {

@@ -1,3 +1,5 @@
+# Images
+
 ![Production of phototypesetting typefaces in the state type foundry Typoart in the GDR.](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
 
 ![Futura type specimen commissioned by the New York sales office of Bauersche Gießerei.](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
