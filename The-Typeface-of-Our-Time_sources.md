@@ -82,7 +82,7 @@
 | London Transport Museum Edward Johnston | ltmuseum.co.uk/collections/projects-partnerships/edward­johnston | 12.04.2019 |
 | You Work For Them What is a Humanist Typeface? | blog.youworkforthem.com/2016/06/01/what-is-a-humanist-typefa­ce | 16.07.2018 |
 
-# Abbildungs­verzeichnis
+## Table of Figures
 
 | :--- |:---- |:----|:----|:----|
 | unknown | Kapr, Albert/­Fischer, Hans: ­typoart typenkunst, Leipzig 1973 |
@@ -94,8 +94,7 @@
 | unknown | Waldhaus Dolder | https:/­/­www.archi­these.ch/­assets/­images/­f/­20389d­fe­-08b0-47cd-bacb-266­bb6fdc­212-e5517bef.jpeg |
 | unknown | Public ­Domain | ­Wikimedia Commons | https:/­/­de.wikipedia.org/­wiki/­Datei:Inschrift_der_­Trajanss%C3%A4ule.jpg |
 | unknown | Public Domain | Wikimedia ­Commons | https://­fr.m.­wikipedia.org/­wiki/­Fichier:­Piranesi­-­6033.jpg |
-| unknown | Public Domain | Wikimedia Commons | https:­/­/­commons.­wikimedia­.org/­wiki/­File:­Pieter_Neefs_­I_an
-d_­David_Teniers_­II_­(Attr.)_-_­Interior_­of_a_­Gothic_­cathedral_­with_figures.jpg |
+| unknown | Public Domain | Wikimedia Commons | https:­/­/­commons.­wikimedia­.org/­wiki/­File:­Pieter_Neefs_­I_and_­David_Teniers_­II_­(Attr.)_-_­Interior_­of_a_­Gothic_­cathedral_­with_figures.jpg |
 | unknown | Public Domain | Rare Books Division, Special Collections, J. Willard ­Marriott Library, University of Utah | https:/­/­rarebooksnews.wordpress.com/­2012/­12/­31/­book-of-the-week-a-leaf-­­from-the-gutenberg-bible/­­#jp-carousel-331 |
 | unknown | Public ­Domain | Wikimedia Commons | https:/­/­commons.­wikimedia.org/­wiki/­File:The_­Caxton_Celebration_-_­William_­Caxton_showing_­specimens_­of_his_printing_to_King_­Edward_IV_and_his_Queen.jpg |
 | Marcantonio Raimondi | Public Domain | The Metro­politan Museum of Art | https:/­/­www.metmuseum.­org/­toah/­images/­hb/­hb_19.74.1.jpg |
@@ -112,8 +111,7 @@ d_­David_Teniers_­II_­(Attr.)_-_­Interior_­of_a_­Gothic_­cathedral_­with
 | unknown | http:/­/­www.neoclassicism.us/­Content/­What_Is_Neoclassicism/­ |
 | unknown | https:/­/­imgur.com/­gallery/­IwdPl |
 | Hamilton | http:/­/­members-only-beta-v0042.lettarc.org/­extensions/­LFA_beta/­item.html?­workID=­lfa_type_0080 |
-| unknown | Public ­Domain | Wikimedia Commons | https://­­commons.­wikimedia.org/­wiki/­File:Bild_Maschinen­hall
-e_Escher_Wyss_1875.jpg |
+| unknown | Public ­Domain | Wikimedia Commons | https://­­commons.­wikimedia.org/­wiki/­File:Bild_Maschinen­halle_Escher_Wyss_1875.jpg |
 | Hamilton | Public Domain | University of Wisconsin Digital Collections Center | Hamilton Type Specimen | http:/­/­digicoll.library.wisc.edu/­cgi-bin/­SilverBuckle/­SilverBuckle-­idx?­type=­article­&­did=­SilverBuckle.HamiltonWood.i0004&id=­SilverBuckle.HamiltonWood­&isize=M&pview=hide |
 | William Morris | https:/­/­www.ketterer­kunst.de/­kunst/­kd/­details.php?obnr=411700977&­anummer=456&detail=1 |
 | William Morris | © Jürgen Huber (Supertype) | from own archive |
