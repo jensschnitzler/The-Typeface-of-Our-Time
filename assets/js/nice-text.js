@@ -7,6 +7,7 @@ function stringContainsPattern(str, pattern) {
 
 function returnPattern(str, pattern) {
   var result = str.match(pattern);
+  console.log('returnPattern: ' + result);
   return result;
 }
 
@@ -26,7 +27,8 @@ function niceText(){
       var paragraph = $(this);
       var str = paragraph.text();
       //var pattern = /^\[info:.+\]$/i;
-      var pattern = /(?<=\[info:)(.+?)(?=\])/i;
+      var pattern = /(?<=\[info\:).+?(?=\])/;
+
       if( stringContainsPattern(str,pattern) ){
         var newText = returnPattern(str,pattern);
         var textAnchor = $('<div class="linked-text-anchor"></div>');
