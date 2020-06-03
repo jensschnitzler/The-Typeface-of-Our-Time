@@ -216,6 +216,7 @@ h2 {
   font-size: 2rem;
   letter-spacing: -.005em;
   max-width: 35rem;
+  margin: 9rem auto 6rem;
 }
 
 h3 {
@@ -245,6 +246,7 @@ p {
 
 p>.count {
   @include small-text;
+  color: var(--color-off);
   position: absolute;
   top: 0;
   left: 1.4rem;

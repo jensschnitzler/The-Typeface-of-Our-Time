@@ -1,4 +1,4 @@
-console.log('=== listsources.js ===');
+console.log('=== listSources.js ===');
 
 function unique(list) {
   var result = [];
@@ -8,7 +8,7 @@ function unique(list) {
   return result;
 }
 
-function listsources(){
+function listSources(){
   console.log('=== listsources ===');
 
   var myRefs = $('main').children('div').find('a');

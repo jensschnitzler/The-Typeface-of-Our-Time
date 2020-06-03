@@ -20,9 +20,10 @@ function includeHTML() {
             filterContent2(); // custom function
             //filterContent(); // custom function
             figureItOut();  // custom function from figure.js
-            paragraphCounter();  // custom function from paragraph-counter.js
-            listsources();  // custom function from listsources.js
+            listSources();  // custom function from listsources.js
             autoNav();  // custom function from auto-nav.js
+            niceText();  // custom function from nice-text.js
+            paragraphCounter();  // custom function from paragraph-counter.js
           }
           if (this.status == 404) { elmnt.innerHTML = "Page not found."; }
           /* Remove the attribute, and call this function once more: */
