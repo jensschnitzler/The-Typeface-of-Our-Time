@@ -344,24 +344,23 @@ blockquote, blockquote * {
     display: block;
     position: absolute;
     top: 0;
+    @include small-text;
     color: var(--color-off);
+    border-bottom: 1px solid var(--color-off);
 
     &.margin {
       left: 30rem;
-      padding-left: 1rem;
-      width: 10rem;
-      background: green;
+      margin-left: 1rem;
+      width: 11rem;
+
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
-      font-size: 1.3rem;
-      margin: 0;
-      background: white;
-      resize: horizontal;
-
-      &:hover {
-
-      }
+      resize: vertical;
+    }
+    &:hover {
+      color: var(--color-text);
+      border-bottom: 1px solid var(--color-text);
     }
   }
 }
