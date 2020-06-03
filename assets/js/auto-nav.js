@@ -7,6 +7,8 @@ function autoNav(){
 
   var main = $('body').find('main');
   var headlines = main.find('h2, h3, h4, h5, h6');
+  var hLevel;
+  //var hLevelLast;
 
   headlines.each(function(i){
 
@@ -36,6 +38,7 @@ function autoNav(){
 
     if (!!hLevel) {
       navItem.addClass('level-' + hLevel);
+      //hLevelLast = hLevel;
     }
   });
 
