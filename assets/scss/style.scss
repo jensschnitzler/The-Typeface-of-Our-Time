@@ -183,7 +183,7 @@ h1,h2,h3,h4,h5,h6 {
   display: block;
   text-align: center;
   line-height: 1;
-  max-width: 35rem;
+  max-width: 19rem;
   margin: 6rem auto 3rem;
   vertical-align: middle;
   padding: 0;
@@ -191,20 +191,16 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 h1 {
-  //background-color: yellow;
-  display: block;
   font-size: 4rem;
-  text-align: center;
   letter-spacing: -.01em;
-  line-height: 1;
   max-width: 35rem;
-  margin: 0 auto;
-  padding-bottom: 1rem;
-  vertical-align: middle;
+  margin: 1rem auto;
 }
 
 h2 {
   font-size: 2rem;
+  letter-spacing: -.005em;
+  max-width: 35rem;
 }
 
 h3 {
