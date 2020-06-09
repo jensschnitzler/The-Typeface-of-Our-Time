@@ -6,13 +6,9 @@ The political dimension of design reaches far beyond economic aspects, writes Ph
 
 The connection between designed form and the designer’s mentality is also brought up by Robert Bringhurst, who recommends that typographic disputes should be submitted “to the higher courts of language and thought”, because (printed) writing is idealized writing and its function is the recording of an idealized language.[\*](Bringhurst:The-Elements-of-Typographic-Style:49) The style of a time is moulded by its spirit, by the thinking and feeling of the creative and culturally significant people of that time, writes Max Bollwage. He describes a collective urge to oppose the prevailing established forms, which would lead to similar formal manifestations simultaneously emerging in different areas of design and in different places.[\*](Bollwage:Buchstabengeschichten:201)
 
-“We no longer live in the same societies as our predecessors. The world-view of Giambattista Bodoni, for example, does not necessarily align with our own.”
+“We no longer live in the same societies as our predecessors. The world-view of Giambattista Bodoni, for example, does not necessarily align with our own.” With regard to this circumstance and his argument that typefaces would always speak of the priorities and aspirations of a culture, type designer Kris Sowersby concludes a constant need for new typefaces.[\*](Sowersby:Why-We-Need-New-Typefaces)
 
-With regard to this circumstance and his argument that typefaces would always speak of the priorities and aspirations of a culture, type designer Kris Sowersby concludes a constant need for new typefaces.[\*](Sowersby:Why-We-Need-New-Typefaces)
-
-The dogmatic-reactionary traditionalists, according to Fred Smeijers, oppose this idea. They felt attacked by the urge for renewal and by new technical developments, which would encourage to disregard the traditionalist’s time-honored laws.[\*](Smeijers:Counterpunch:180)
-
-But this opposition proofs the point of the temporal nature of type, by rejecting innovation and novelties not only in the field of design but in culture and politics altogether.
+The dogmatic-reactionary traditionalists, according to Fred Smeijers, oppose this idea. They felt attacked by the urge for renewal and by new technical developments, which would encourage to disregard the traditionalist’s time-honored laws.[\*](Smeijers:Counterpunch:180) But this opposition proofs the point of the temporal nature of type, by rejecting innovation and novelties not only in the field of design but in culture and politics altogether.
 
 ### Roman Imperial Era (1st – 4th century)
 
