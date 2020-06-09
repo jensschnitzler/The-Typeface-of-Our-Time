@@ -80,19 +80,21 @@ main {
   //margin-top: -1px;
 }
 
+/*
 @media screen and (min-width: 1000px) {
-  main {
+  main section {
     max-width: calc(100% - 12.5rem);
     margin: 0 0 0 auto;
   }
 }
 
 @media screen and (min-width: 1300px) {
-  main {
+  main section {
     max-width: calc(100% - 25rem);
     margin: 0 auto;
   }
 }
+*/
 
 /* --- Navigation --- */
 
@@ -267,6 +269,11 @@ h1 {
   letter-spacing: -.01em;
   max-width: 35rem;
   margin: 1rem auto;
+}
+
+.main-title h1 {
+  font-size: 17vw;
+  max-width: none;
 }
 
 h2 {
