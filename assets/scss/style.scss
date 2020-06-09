@@ -99,7 +99,6 @@ main {
 /* --- Navigation --- */
 
 nav.sub-nav {
-  background-color: var(--color-bg);
   box-sizing: border-box;
   display: flex;
   flex-flow: column nowrap;
@@ -118,6 +117,7 @@ nav.sub-nav {
 
   .nav-content {
     //transform: translateY(-100%);
+    //background-color: var(--color-bg);
   }
 
   &:hover {
@@ -271,11 +271,6 @@ h1 {
   margin: 1rem auto;
 }
 
-.main-title h1 {
-  font-size: 17vw;
-  max-width: none;
-}
-
 h2 {
   font-size: 2rem;
   letter-spacing: -.005em;
@@ -288,11 +283,16 @@ h3 {
 }
 
 .main-title {
+  width: 100%;
   min-height: 100vh;
   display: flex;
   flex-flow: column nowrap;
   justify-content: center;
   align-items: center;
+  h1 {
+    font-size: 17vw;
+    max-width: none;
+  }
 }
 
 p {
@@ -417,7 +417,6 @@ blockquote, blockquote * {
       &:hover {
         background: var(--color-bg);
         color: var(--color-text);
-        border-bottom: 1px solid var(--color-text);
         white-space: normal;
         overflow: auto;
         text-overflow: inherit;
@@ -429,8 +428,7 @@ blockquote, blockquote * {
 }
 
 
-@media screen and (min-width: 1000px) {
-
+@media screen and (min-width: 1200px) {
   .linked-text-anchor {
     height: 1px;
     width: 1px;
@@ -441,8 +439,20 @@ blockquote, blockquote * {
       padding-left: 0;
       &.margin {
         left: 30rem;
-        margin-left: 2rem;
-        width: 13rem;
+        margin-left: 1.5rem;
+        //width: 12rem;
+        width: 15vw;
+        max-width: 14rem;
+        &:hover {
+          background: var(--color-bg);
+          color: var(--color-text);
+          padding-bottom: .3rem;
+          border-bottom: 1px solid var(--color-text);
+          white-space: normal;
+          overflow: auto;
+          text-overflow: inherit;
+          z-index: 100;
+        }
       }
     }
   }
