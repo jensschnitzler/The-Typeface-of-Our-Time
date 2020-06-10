@@ -271,7 +271,7 @@ h1,h2,h3,h4,h5,h6 {
   vertical-align: middle;
   padding: 0;
   //background: pink;
-  transform: translateX(-.5rem); // optical centering
+  transform: translateX(-.25rem); // optical centering
 }
 
 h1 {
@@ -328,6 +328,8 @@ p {
   margin: 1rem 1rem 1rem 2rem;
   */
   font-family: $font-serif;
+  word-spacing: .5em;
+  letter-spacing: -.01em;
 }
 
 p>.count {
