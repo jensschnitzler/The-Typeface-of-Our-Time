@@ -305,7 +305,7 @@ h2 {
   font-size: 2rem;
   letter-spacing: -0.04em;
   max-width: 35rem;
-  margin: 9rem auto 6rem;
+  margin: 9.5rem auto 7rem;
 }
 
 h3 {
@@ -433,6 +433,7 @@ figure {
     margin: 0 auto;
     object-fit: contain;
     object-position: center;
+    margin: 1em 0;
   }
 
   figcaption {
@@ -442,7 +443,7 @@ figure {
     max-width: 32rem;
     margin: 0 auto;
     padding-top: .2em;
-    margin-top: 2em;
+    margin-top: 1em;
     border-top: 2px solid var(--color-text);
 
     span.figsource {
@@ -505,7 +506,7 @@ blockquote, blockquote * {
       margin-top: 0;
       padding-left: 0;
       &.margin {
-        left: 30rem;
+        left: 32rem;
         margin-left: 1.5rem;
         //width: 12rem;
         width: 15vw;
