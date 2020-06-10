@@ -68,13 +68,13 @@
 
 ![Sample of the Eckmann typeface by Otto Eckmann, 1899. 1900 saw the publication of the Eckmann typeface in 16 degrees at Rudhard's foundry, which was a novelty in the history of typefaces and uniquely represented the young ideas of the time. This font, designed with a brush, contains formal elements of Antiqua and also Fraktur. Despite its decorative and ornamental character, it was initially used in the design of many books. Eckmann was familiar with the floral forms from his painterly work and he incorporated them into his typeface design. (src: pinterest.com.au/pin/529102656208408721)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
 
-![The AEG typeface by Peter Behrens was the first "corporate typeface" at the beginning of the 20th century. (src: get.google.com/albumarchive/114630083066969872545/album/AF1QipNDzvgEhmf3qmGD-H5dsdzK33LPGf77MEjk5GJY)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
+![The AEG typeface by Peter Behrens was the first "corporate typeface" at the beginning of the 20th century. (src: get.google.com/albumarchive/114630083066969872545/album/AF1QipNDzvgEhmf3qmGD-H5dsdzK33LPGf77MEjk5GJY)](/The-Typeface-of-Our-Time/assets/img/AEG-Script-100aeg.jpg)
 
 ![AEG turbine factory by Peter Behrens, 1909-1910 (src: khanacademy.org/humanities/art-1010/architecture-20c/modal/a/peter-behrens-turbine-factory)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
 
 ![Johnston Sans by Edward Johnston, 1913, commissioned by the Underground Electric Railways Company of London. (src: cdn.londonreconnections.com/2013/johnstonearly.jpg)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
 
-![World War I. Two American soldiers storm a bunker, past two fallen German soldiers. The First World War was fought from 1914 to 1918 in Europe, the Middle East, Africa, East Asia and on the oceans. About 17 million people lost their lives in it. (src: en.wikipedia.org/wiki/United_States_campaigns_in_World_War_I#/media/File:At_close_grips2.jpg)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
+![World War I. Two American soldiers storm a bunker, past two fallen German soldiers. The First World War was fought from 1914 to 1918 in Europe, the Middle East, Africa, East Asia and on the oceans. About 17 million people lost their lives in it. (src: en.wikipedia.org/wiki/United_States_campaigns_in_World_War_I#/media/File:At_close_grips2.jpg)](/The-Typeface-of-Our-Time/assets/img/At_close_grips2.jpg)
 
 ![Begging war invalid, Berlin, 1923](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
 
@@ -82,17 +82,17 @@
 
 ![Design for the cover of the book "State Bauhaus in Weimar 1919-1923" by László Moholy-Nagy, 1923](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
 
-![Model of Le Corbusier's Plan Voisin for Paris, 1925: Plan Voisin was a utopian urban design by Le Corbusier, which he exhibited in the pavilion of the magazine L'Esprit Nouveau at the "Exposition internationale des Arts Décoratifs et industriels modernes" in Paris in 1925. The project, financed by the automobile and aircraft manufacturer Gabriel Voisin, envisaged the demolition of large parts of the old Parisian centre on the right bank of the Seine and was therefore the subject of controversial discussion.](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
+![Model of Le Corbusier's Plan Voisin for Paris, 1925: Plan Voisin was a utopian urban design by Le Corbusier, which he exhibited in the pavilion of the magazine L'Esprit Nouveau at the "Exposition internationale des Arts Décoratifs et industriels modernes" in Paris in 1925. The project, financed by the automobile and aircraft manufacturer Gabriel Voisin, envisaged the demolition of large parts of the old Parisian centre on the right bank of the Seine and was therefore the subject of controversial discussion.](/The-Typeface-of-Our-Time/assets/img/1925 Le Corbusier Plan Voisin pour Paris.jpg)
 
 ![The beginning of an international career: In October 1925, "ivan tschichold", as co-author, first published his views on "die neue gestaltung" and "elementare typografie" in two short essays in the special issue of "elementare typografie", a supplement of the magazine "typografische mitteilungen". (src: typolexikon.de/tschichold-jan/typografische-mitteilungen-elementare-typografie)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
 
-![Poster "Nord Express" by A.M. Cassandre, 1927 (src: christies.com/lotfinder/Lot/am-cassandre-1901-1968-nord-express-5720299-details.aspx)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
+![Poster "Nord Express" by A.M. Cassandre, 1927 (src: christies.com/lotfinder/Lot/am-cassandre-1901-1968-nord-express-5720299-details.aspx)](/The-Typeface-of-Our-Time/assets/img/am-cassandre_nord_express.jpg)
 
 ![During his teaching position as head of the advertising workshop at the Bauhaus Dessau between 1925 and 1930, Herbert Bayer developed a monocameral alphabet, a typeface that is not separated into upper and lower case sets, but instead uses a mixed letter set. (src: bloomsburydesignlibrary.com/encyclopedia-chapter?docid=b-9781474246217&pdfid=9781474246217.ch-002.pdf&tocid=b-9781474246217-chapter21)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
 
 ![Futura by Paul Renner, 1927 The Futura is a design milestone of the 20th century and influenced many of the following typeface designs. Futura was promoted as "the typeface of our time" and can be seen as a design-historical bridge between the early sans serif typefaces of the 19th century and the modern typefaces of the second half of the 20th century. (src: leanderriedl.com/journal/2018/8/6/the-typeface-for-our-time-paul-renner)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
 
-![Beatrice Warde wrote her famous text "This is a Printing Office" to demonstrate the Perpetua script by Eric Gill, 1929: "This is a printing office. Crossroads of civilization. Refuge of all the arts against the ravages of time. Armoury of fearless truth against whispering rumour. Incessant trumpset of trade. From this place words may fly abroad, not to perish on waves of sound, not to vary with the writer's hand but fixed in time having been verified in proof. Friend, you stand on sacred ground. This is a printing office." Since then her text has been found on the walls of many printing houses and also hangs in bronze at the entrance to the US Government Printing Office in Washington D.C. (src: en.wikipedia.org/wiki/File:This_is_a_Printing_Office.jpg)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
+![Beatrice Warde wrote her famous text "This is a Printing Office" to demonstrate the Perpetua script by Eric Gill, 1929: "This is a printing office. Crossroads of civilization. Refuge of all the arts against the ravages of time. Armoury of fearless truth against whispering rumour. Incessant trumpset of trade. From this place words may fly abroad, not to perish on waves of sound, not to vary with the writer's hand but fixed in time having been verified in proof. Friend, you stand on sacred ground. This is a printing office." Since then her text has been found on the walls of many printing houses and also hangs in bronze at the entrance to the US Government Printing Office in Washington D.C. (src: en.wikipedia.org/wiki/File:This_is_a_Printing_Office.jpg)](/The-Typeface-of-Our-Time/assets/img/This_is_a_Printing_Office.jpg)
 
 ![Gill Sans by Eric Gill, 1928 Gill Sans became ubiquitous in England as the typeface of L.N.E.R., one of the national railway companies, and is now considered a typical British typeface. (src: designweek.co.uk/issues/19-25-october-2015/eric-gill-the-past-present-and-future-of-type-design)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
 
@@ -106,7 +106,7 @@
 
 ![Helvetica, in order to search again for an architectural counterpart, reminds us of the model of garden cities or US-American suburbs. Both are symbols of the inherent modernist contradiction, in which dream - egalitarian social-reformist vision - and nightmare - fascist conformity - lie close together.](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
 
-![Display of the form of Aldo Novarese, 1966 (src: indexgrafik.fr/aldo-novarese/aldo-novarese-forma-nebiolo-1968)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
+![Display of the form of Aldo Novarese, 1966 (src: indexgrafik.fr/aldo-novarese/aldo-novarese-forma-nebiolo-1968)](/The-Typeface-of-Our-Time/assets/img/Aldo-Novarese-Forma-Nebiolo-1968.jpg)
 
 ![Wim Crouwels New Alphabet, 1967](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
 
@@ -126,9 +126,9 @@
 
 ![Punk tour flyer "Anarchy group travelling UK" by Jamie Reid, 1977](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
 
-![Cover for WET Magazine, designed by April Greiman, 1979 (src: britannica.com/biography/April-Greiman/media/1080159/67511)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
+![Cover for WET Magazine, designed by April Greiman, 1979 (src: britannica.com/biography/April-Greiman/media/1080159/67511)](/The-Typeface-of-Our-Time/assets/img/april-greiman-portrait-graphisme-US.jpg)
 
-![Poster "Sci-Arc" by April Greiman, 1985 (src: indexgrafik.fr/april-greiman)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
+![Poster "Sci-Arc" by April Greiman, 1985 (src: indexgrafik.fr/april-greiman)](/The-Typeface-of-Our-Time/assets/img/april-greiman-sci-arc-affiche-19852.jpg)
 
 ![Susan Kare (1954) is a US-American graphic designer. She designed most of the icons and fonts of the original Mac OS for Apple in the 1980s, and later many icons for Microsoft Windows and IBM OS/2.](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
 
@@ -162,7 +162,7 @@
 
 ![Poster for the Dysphasia font by Elliott Earls, 1995 (src: elliottearls.com/slide/throwing-apples-posters)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
 
-![Spice Girls perform "Say You'll Be There" live, 1997 The Spice Girls were active as a five-piece British pop girl group from 1994 to 2012. They are also a symbol of a commercial, pop-cultural, and depoliticized appropriation of the aesthetics of previous countercultures - such as punk - throughout the mainstream of postmodernism. (src: irishexaminer.com/breakingnews/discover/the-spice-girls-burst-on-to-the-music-scene-more-than-20-years-ago-826116.html)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
+![Spice Girls perform "Say You'll Be There" live, 1997 The Spice Girls were active as a five-piece British pop girl group from 1994 to 2012. They are also a symbol of a commercial, pop-cultural, and depoliticized appropriation of the aesthetics of previous countercultures - such as punk - throughout the mainstream of postmodernism. (src: irishexaminer.com/breakingnews/discover/the-spice-girls-burst-on-to-the-music-scene-more-than-20-years-ago-826116.html)](/The-Typeface-of-Our-Time/assets/img/Spice_Girls.jpg)
 
 ![Cover for "Typography Now Two" by Jonathan Barnbrook, uses his font Elephant Black Italic. Typography Now Two presented contemporary 90s graphic design. (src: amazon.com/ Typography-Now-Two-Rick-Poynor/dp/1873968612)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
 
