@@ -20,9 +20,11 @@ $font-serif: 'Spectral','Times New Roman',serif;
 
 @mixin caption {
   font-family: $font-serif;
-  font-size: .8rem;
+  font-size: .75rem;
   text-align: left;
-  letter-spacing: .02;
+  letter-spacing: 0;
+  word-spacing: .01;
+  line-height: 1.5;
 }
 
 /* --- */
@@ -136,6 +138,9 @@ nav.sub-nav {
     overflow-y: scroll;
     .nav-content {
       transform: translateY(0%);
+    }
+    &:before {
+      border-bottom: 1px solid var(--color-off);
     }
   }
 
@@ -291,13 +296,13 @@ h1 {
 
 h2 {
   font-size: 2rem;
-  letter-spacing: -.005em;
+  letter-spacing: -0.04em;
   max-width: 35rem;
   margin: 9rem auto 6rem;
 }
 
 h3 {
-  //background: blue;
+  letter-spacing: -0.03em;
 }
 
 .main-title {
@@ -354,6 +359,7 @@ p {
   font-family: $font-serif;
   word-spacing: .02em;
   letter-spacing: -.01em;
+  font-variant-numeric: oldstyle-nums;
 }
 
 p>.count {

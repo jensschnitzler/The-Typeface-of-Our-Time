@@ -7,6 +7,18 @@
 </figure>
 */
 
+function addClassToPattern(str, pattern, classname) {
+  var match = str.match(pattern);
+  var result = str.replace(pattern, '<span class="' + classname + '">' + match + '</span>');
+  console.log('addClassToPattern: ' + result);
+  return result;
+}
+
+function findSrc(text){
+  // detext "(src: ...)"
+  // \(src:\s(.+?)\)\]
+}
+
 function figureItOut(){
   console.log('=== figureItOut ===');
   var myImages = $('main').find('img');
@@ -19,8 +31,11 @@ function figureItOut(){
 
     if( myParent.is('p') ){
       myAlt = myImage.attr('alt');
-      //console.log('myAlt: ' + myAlt);
-      $( "<figure></figure>" ).insertAfter( myParent ).append( myImage.clone() ).append( $('<figcaption>' + myAlt + '</figcaption>') );
+      console.log('myAlt: ' + myAlt);
+      var pattern = /\(src:\s(.+)\)/gi;
+      var classname = 'figsource';
+      myNewAlt = addClassToPattern(myAlt, pattern, classname)
+      $( "<figure></figure>" ).insertAfter( myParent ).append( myImage.clone() ).append( $('<figcaption>' + myNewAlt + '</figcaption>') );
       myParent.remove();
     }
   });
