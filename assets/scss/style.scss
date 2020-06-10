@@ -2,9 +2,12 @@
 
 :root {
   --color-bg: #E0E0E0;
+  --color-border: #555;
   --color-text: #111;
   --color-off: #FFF;
 }
+
+$border: 1px solid var(--color-border);
 
 /* ----------------------- */
 
@@ -171,7 +174,6 @@ nav.sub-nav {
   .nav-section {
     border-bottom: 1px solid var(--color-off);
     &:last-of-type {
-      //border-bottom: 1px solid var(--color-off);
       padding-bottom: 0;
     }
   }
@@ -403,12 +405,12 @@ table {
   tr {
     display: flex;
     flex-flow: row nowrap;
-    border-top: 1px solid rgb(0,0,0,.5);
+    border-top: $border;
     padding: .25em 0;
   }
 
   tr:last-child {
-    border-bottom: 1px solid rgb(0,0,0,.5);
+    border-bottom: $border;
   }
 
   tr td {
@@ -444,7 +446,7 @@ figure {
     margin: 0 auto;
     padding-top: .2em;
     margin-top: 1em;
-    border-top: 2px solid var(--color-text);
+    border-top: $border;
 
     span.figsource {
       display: none;
@@ -470,7 +472,6 @@ blockquote, blockquote * {
     top: auto;
     @include small-text;
     color: var(--color-off);
-    //border-bottom: 1px solid var(--color-off);
     margin-top: .55rem;
     padding-left: 1.4rem;
 
@@ -515,7 +516,7 @@ blockquote, blockquote * {
           background: var(--color-bg);
           color: var(--color-text);
           padding-bottom: .3rem;
-          border-bottom: 1px solid var(--color-text);
+          border-bottom: $border;
           white-space: normal;
           overflow: auto;
           text-overflow: inherit;
