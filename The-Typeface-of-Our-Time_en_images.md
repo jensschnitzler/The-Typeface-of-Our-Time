@@ -4,9 +4,9 @@
 
 ![Futura type specimen commissioned by the New York sales office of Bauersche Gießerei.](/The-Typeface-of-Our-Time/assets/img/Futura_Specimen.jpg)
 
-![Advertisement for Futura by Paul Renner, 1927 (src: werbemonitor.at/en/werbemonitor/market-and-branch/futura-synonym-for-the-classic-modern)](/The-Typeface-of-Our-Time/assets/img/Futura_GM_2019.605.19.jpg)
-
 ![„Die zeitgemäße Schrift – Studienhefte für Schrift und Formgestaltung“, july 1929, issue 9. This design magazine was published quarterly by Heintze & Blanckertz in Berlin and Leipzig. The publishers were Franz Leberecht and Paul Heinrich Richter. After the Schriftmuseum Rudolf Blanckertz was founded in 1926, Blanckertz decided to create a podium for contemporary design and founded the magazine in 1928 as one of the first design magazines ever. It was mainly devoted to a traditional style with publication of works by Rudolf Koch or Friedrich Heinrichsen. But occasionally modernists such as Paul Renner, Edward Johnston and Hermann Zapf wrote for the magazine as well. The magazine was ceased with the number 64, 1943 due to the war and not continued after 1945.](/The-Typeface-of-Our-Time/assets/img/Verlag-fuer-Schriftkunst-Heintze-Blanckertz-Hrsg-Die-zeitgemaesse-Schrift-Juli-1929-Heft-9-2.jpg)
+
+![Advertisement for Futura by Paul Renner, 1927 (src: werbemonitor.at/en/werbemonitor/market-and-branch/futura-synonym-for-the-classic-modern)](/The-Typeface-of-Our-Time/assets/img/Futura_GM_2019.605.19.jpg)
 
 ![Poster for the lecture by Jeff Keedy at the US-American university CalArts, designed by Edward Fella, 1996 (src: collections.si.edu/search/detail/edanmdm:chndm_2002-8-11?q=record_ID%3Achndm_2002-8-11&record=1&hlterm=record_ID%3Achndm_2002-8-11&inline=true)](/The-Typeface-of-Our-Time/assets/img/ed-fella_cal-arts_jeff-keedy_1996.jpg)
 
@@ -172,6 +172,6 @@
 
 ![Stanley by Ludovic Balland, 2012](/The-Typeface-of-Our-Time/assets/img/ludovic-balland-2012-stanley-type-72-130112015141433.jpg)
 
-![Poster "How to Find True Love and Happinessin the Present Day" by Lamm & Kirch, 2016 (src: lamm-kirch.com/wordpress/wp-content/uploads/2017/02/Lamm-Kirch_HowToFindTrueLove-Poster-840x1200.jpg)](/The-Typeface-of-Our-Time/assets/img/Lamm-Kirch_HowToFindTrueLove-Poster.jpg)
+![Poster "How to Find True Love and Happiness in the Present Day" by Lamm & Kirch, 2016 (src: lamm-kirch.com/wordpress/wp-content/uploads/2017/02/Lamm-Kirch_HowToFindTrueLove-Poster-840x1200.jpg)](/The-Typeface-of-Our-Time/assets/img/Lamm-Kirch_HowToFindTrueLove-Poster.jpg)
 
 ![Poster for the "Soirée graphique № 10" designed by Studio Balmer Hählen, 2017 (src: balmerhahlen.ch/projects/soiree-graphique-n-10)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
