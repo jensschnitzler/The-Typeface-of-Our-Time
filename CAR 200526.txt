@@ -1,6 +1,0 @@
-CAR 200526
-
-- Mögliche Module als Wireframe definieren
--- Strukturabfrage
-
-- bisschen breiterer text
