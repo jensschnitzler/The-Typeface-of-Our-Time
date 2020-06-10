@@ -16,11 +16,11 @@
 
 ![Inscription on the Roman Trajan column. Trajan's Column is an honorary column, which was erected in 112 AD for the Roman Emperor Trajan (98 - 117 AD) on the Forum of Rome. (src: en.wikipedia.org/wiki/Trajanss%C3%A4ule#/media/File:Inscription_of_Trajanss%C3%A4ule.jpg)](/The-Typeface-of-Our-Time/assets/img/Inscription_of_Trajanssaeule.jpg)
 
+![Painting of a Gothic Cathedral by Pieter Neefs I and David Teniers II, 1599-1656 (src: commons.wikimedia.org/wiki/File:Pieter_Neefs_I_and_David_Teniers_II_(Attr.)_-_Interior_of_a_Gothic_cathedral_with_figures.jpg)](/The-Typeface-of-Our-Time/assets/img/Interior-of-a-Gothic-cathedral-with-figures.jpg)
+
 ![Sketch of the Panteon (built 114 AD - 128 AD) by the Italian architect Francesco Piranesi, 1790 (src: fr.m.wikipedia.org/wiki/Fichier:Piranesi-6033.jpg)](/The-Typeface-of-Our-Time/assets/img/Piranesi-6033.jpg)
 
-![Painting of a Gothic Cathedral by Pieter Neefs I and David Teniers II, 1599-1656 (src: commons.wikimedia.org/wiki/File:Pieter_Neefs_I_and_David_Teniers_II_(Attr.)_-_Interior_of_a_Gothic_cathedral_with_figures.jpg)](/The-Typeface-of-Our-Time/assets/img/Pieter_Neefs_I_and_David_Teniers_II_-_Interior_of_a_Gothic_cathedral_with_figures.jpg)
-
-![page of the Gutenberg Bible, 1450 – 1455(src: rarebooksnews.wordpress.com/2012/12/31/book-of-the-week-a-leaf-from-the-gutenberg-bible)](/The-Typeface-of-Our-Time/assets/img/Gutenberg-Bible_Z241-B581-1921-Verso.jpg)
+![Page of the Gutenberg Bible, 1450 – 1455(src: rarebooksnews.wordpress.com/2012/12/31/book-of-the-week-a-leaf-from-the-gutenberg-bible)](/The-Typeface-of-Our-Time/assets/img/Gutenberg-Bible_Z241-B581-1921-Verso.jpg)
 
 ![William Caxton shows King Edward IV. Printing proofs, 1877. This picture "The Caxton Celebration" was created on the occasion of the 400th anniversary of the first printed book in England. Also shown is the printing press. Johannes Gensfleisch, known as Gutenberg, is considered the inventor of this press and thus of modern letterpress printing in Europe. His use of movable letters from 1450 onwards revolutionised the traditional method of book production and triggered a media revolution in Europe. (src: commons.wikimedia.org)](/The-Typeface-of-Our-Time/assets/img/The_Caxton_Celebration_-_William_Caxton_showing_specimens_of_his_printing_to_King_Edward_IV_and_his_Queen_300dpi.jpg)
 
