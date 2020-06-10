@@ -248,7 +248,7 @@ section {
   margin: 1rem auto;
 
   &#intro-text, &#main-text {
-    max-width: 30rem;
+    max-width: 32rem;
   }
   &#index {
     max-width: 60rem;
@@ -358,7 +358,7 @@ p {
   padding: 0;
   position: relative;
   display: block;
-  max-width: 30rem;
+  max-width: 32rem;
   /*
   margin-bottom: 1rem;
   margin: 1rem 1rem 1rem 2rem;
@@ -428,7 +428,7 @@ figure {
     //height: 90vh;
     max-height: 800px;
     //width: 100%;
-    min-width: 30rem;
+    min-width: 32rem;
     max-width: 100%;
     margin: 0 auto;
     object-fit: contain;
@@ -439,7 +439,7 @@ figure {
     @include caption;
     display: block;
     text-align: left;
-    max-width: 30rem;
+    max-width: 32rem;
     margin: 0 auto;
     padding-top: .2em;
     margin-top: 2em;
