@@ -340,7 +340,7 @@ h3 {
     z-index: 1;
     font-size: 17vw; // fallback
     font-size: clamp(20px, 17vw, 25vh);
-    max-width: 7em;
+    max-width: 6em;
     transform-origin: center;
     transform: scaleY(1.3);
   }

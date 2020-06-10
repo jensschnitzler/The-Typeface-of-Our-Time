@@ -9,7 +9,7 @@
 
 function addClassToPattern(str, pattern, classname) {
   var match = str.match(pattern);
-  if(match.length > 0 ){
+  if(!!match && match.length > 0 ){
     var result = str.replace(pattern, '<span class="' + classname + '">' + match + '</span>');
     console.log('addClassToPattern: ' + result);
     return result;
