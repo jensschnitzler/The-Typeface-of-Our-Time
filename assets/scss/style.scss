@@ -142,6 +142,11 @@ nav.sub-nav {
   &:before {
     content: 'Menu';
     color: var(--color-off);
+    position: absolute;
+    display: block;
+    background-color: var(--color-bg);
+    top: 0;
+    left: 0;
   }
 
   a {
@@ -308,7 +313,7 @@ h3 {
   background-image: url("https://jensschnitzler.github.io/The-Typeface-of-Our-Time/assets/pic/title.png");
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 200px;
+  background-size: 300px;
   /*
   .bg-image {
     position: absolute;
@@ -323,7 +328,7 @@ h3 {
     z-index: 1;
     font-size: 17vw; // fallback
     font-size: clamp(20px, 17vw, 25vh);
-    max-width: 1700px;
+    max-width: 7em;
     transform-origin: center;
     transform: scaleY(1.3);
   }
