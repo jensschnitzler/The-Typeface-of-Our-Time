@@ -10,21 +10,21 @@
 
 ![Poster for the lecture by Jeff Keedy at the US-American university CalArts, designed by Edward Fella, 1996 (src: collections.si.edu/search/detail/edanmdm:chndm_2002-8-11?q=record_ID%3Achndm_2002-8-11&record=1&hlterm=record_ID%3Achndm_2002-8-11&inline=true)](/The-Typeface-of-Our-Time/assets/img/ed-fella_cal-arts_jeff-keedy_1996.jpg)
 
-![Wilhelm Klingspor Gothic by Rudolf Koch, 1925 (src: typografie.info/3/Schriften/fonts.html/wilhelm-klingspor-gothic-r241)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
+![Wilhelm Klingspor Gothic by Rudolf Koch, 1925 (src: typografie.info/3/Schriften/fonts.html/wilhelm-klingspor-gothic-r241)](/The-Typeface-of-Our-Time/assets/img/WKLSchnittabdruck2.jpg)
 
-![Heimat-style architecture: The Waldhaus and Grand Hotel Dolder in Zurich, the main work of the architect and "Heimat-style expert" Jacques Gros, 1895 (src: )](/The-Typeface-of-Our-Time/assets/img/Heimatstil-Waldhaus.jpg)
+![Heimat-style architecture: The Waldhaus and Grand Hotel Dolder in Zurich, the main work of the architect and "Heimat-style expert" Jacques Gros, 1895](/The-Typeface-of-Our-Time/assets/img/Heimatstil-Waldhaus.jpg)
 
-![Inscription on the Roman Trajan column. Trajan's Column is an honorary column, which was erected in 112 AD for the Roman Emperor Trajan (98-117 AD) on the Forumin of Rome. (src: en.wikipedia.org/wiki/Trajanss%C3%A4ule#/media/File:Inscription_of_Trajanss%C3%A4ule.jpg)](/The-Typeface-of-Our-Time/assets/img/Inschrift_der_Trajanssäule.jpg)
+![Inscription on the Roman Trajan column. Trajan's Column is an honorary column, which was erected in 112 AD for the Roman Emperor Trajan (98 - 117 AD) on the Forum of Rome. (src: en.wikipedia.org/wiki/Trajanss%C3%A4ule#/media/File:Inscription_of_Trajanss%C3%A4ule.jpg)](/The-Typeface-of-Our-Time/assets/img/Inscription_of_Trajanssaeule.jpg)
 
 ![Sketch of the Panteon (built 114 AD - 128 AD) by the Italian architect Francesco Piranesi, 1790 (src: fr.m.wikipedia.org/wiki/Fichier:Piranesi-6033.jpg)](/The-Typeface-of-Our-Time/assets/img/Piranesi-6033.jpg)
 
 ![Painting of a Gothic Cathedral by Pieter Neefs I and David Teniers II, 1599-1656 (src: commons.wikimedia.org/wiki/File:Pieter_Neefs_I_and_David_Teniers_II_(Attr.)_-_Interior_of_a_Gothic_cathedral_with_figures.jpg)](/The-Typeface-of-Our-Time/assets/img/Pieter_Neefs_I_and_David_Teniers_II_-_Interior_of_a_Gothic_cathedral_with_figures.jpg)
 
-![page of the Gutenberg Bible, 1450-1455(src: rarebooksnews.wordpress.com/2012/12/31/book-of-the-week-a-leaf-from-the-gutenberg-bible)](/The-Typeface-of-Our-Time/assets/img/Gutenberg-Bible_Z241-B581-1921-Verso.jpg)
+![page of the Gutenberg Bible, 1450 – 1455(src: rarebooksnews.wordpress.com/2012/12/31/book-of-the-week-a-leaf-from-the-gutenberg-bible)](/The-Typeface-of-Our-Time/assets/img/Gutenberg-Bible_Z241-B581-1921-Verso.jpg)
 
 ![William Caxton shows King Edward IV. Printing proofs, 1877. This picture "The Caxton Celebration" was created on the occasion of the 400th anniversary of the first printed book in England. Also shown is the printing press. Johannes Gensfleisch, known as Gutenberg, is considered the inventor of this press and thus of modern letterpress printing in Europe. His use of movable letters from 1450 onwards revolutionised the traditional method of book production and triggered a media revolution in Europe. (src: commons.wikimedia.org)](/The-Typeface-of-Our-Time/assets/img/The_Caxton_Celebration_-_William_Caxton_showing_specimens_of_his_printing_to_King_Edward_IV_and_his_Queen_300dpi.jpg)
 
-!["Judgement of Paris", ca. 1510-20 In Classicism, ancient Roman and Greek culture and mythology once again acquired artistic interest and social significance. (src: metmuseum.org/toah/images/hb/hb_19.74.1.jpg)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
+!["Judgement of Paris", ca. 1510-20 In Classicism, ancient Roman and Greek culture and mythology once again acquired artistic interest and social significance. (src: metmuseum.org/toah/images/hb/hb_19.74.1.jpg)](/The-Typeface-of-Our-Time/assets/img/judgement-of-paris.jpg)
 
 ![Portrait of King Francis I by Jean Clouet, 1527](/The-Typeface-of-Our-Time/assets/img/FrancisIFrance.jpg)
 
@@ -110,11 +110,9 @@
 
 ![Wim Crouwels New Alphabet, 1967](/The-Typeface-of-Our-Time/assets/img/gridnik_wim-crouwel_new-alphabet.jpg)
 
-![May 1, 1968: Students and lecturers of the HfG demonstrate in front of the Stuttgart parliament for the preservation of the HfG.](/The-Typeface-of-Our-Time/assets/img/Pressefoto-1-Mai-1968-Studenten-und-Dozenten-der-HfG-demonstrieren-vor-dem-Stuttgarter-Landtag-für-den-Erhalt-der-HfG-Foto-Herbert-Kapitzki-HfG-Archiv-Ulm.jpg)
+![May 1, 1968: Students and lecturers of the HfG demonstrate in front of the Stuttgart parliament for the preservation of the HfG.](/The-Typeface-of-Our-Time/assets/img/Pressefoto-1-Mai-1968-Studenten-und-Dozenten-der-HfG-demonstrieren-vor-dem-Stuttgarter-Landtag-fuer-den-Erhalt-der-HfG-Foto-Herbert-Kapitzki-HfG-Archiv-Ulm.jpg)
 
 ![Protests gather on the Women's Right March in August 1970. The 60s and 70s saw political movements worldwide, such as the anti-racist Civil Rights Movement, the feminist movement, the lesbian and gay movement, and anti-war movements. (src: thenation.com/article/shes-beautiful-when-shes-angry-reveals-radical-ordinary-women-1960s-feminism)](/The-Typeface-of-Our-Time/assets/img/Women-of-the-World-Unite-Womens-Liberation-Demonstration-August-26-1970-2.jpg)
-
-![Avant Garde by Herb Lubalin, Volume 13, Spring 1971. An example of particularly close letter spacing, made possible by the new type of photo-setting. (Src: fontsinuse.com/uses/21625/avant-garde-magazine-13)](/The-Typeface-of-Our-Time/assets/img/Avantgarde-American-PeopleM.jpg)
 
 ![The magazine and the Avant Garde font of the same name by Herb Lubalin, Volume 13, Spring 1971, an example of particularly close letter spacing, made possible by the new type of phototypesetting. (src: fontsinuse.com/uses/21625/avant-garde-magazine-13)](/The-Typeface-of-Our-Time/assets/img/Avantgarde-American-PeopleM.jpg)
 
@@ -154,7 +152,7 @@
 
 ![Base 9 & Base 12 by Zuzana Ličko, 1995 (src: typografie.info/3/fonts/fonts.html/base-9-amp-12-r563)](/The-Typeface-of-Our-Time/assets/img/Licko-Base.jpg)
 
-![Sketches of the Meta by Erik Spiekermann, 1985 Due to its popularity, the Meta was also called "Helvetica of the 1990s". (src: typografie.info/3/fonts/fonts.html/ff-meta-r1)](/The-Typeface-of-Our-Time/assets/img/spiekermann_meta-sketch)
+![Sketches of the Meta by Erik Spiekermann, 1985 Due to its popularity, the Meta was also called "Helvetica of the 1990s". (src: typografie.info/3/fonts/fonts.html/ff-meta-r1)](/The-Typeface-of-Our-Time/assets/img/spiekermann_meta-sketch.jpg)
 
 ![Rotis Sans Serif by Otl Aicher, 1988 (src: Own archive)](/The-Typeface-of-Our-Time/assets/img/rotis-aicher_1988.jpg)
 

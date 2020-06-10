@@ -377,7 +377,8 @@ figure {
     min-height: 300px;
     height: 90vh;
     max-height: 700px;
-    width: 100%;
+    //width: 100%;
+    min-width: 30rem;
     max-width: 100%;
     margin: 0 auto;
     object-fit: contain;
