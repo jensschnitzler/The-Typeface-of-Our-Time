@@ -7,7 +7,7 @@ function stringContainsPattern(str, pattern) {
 
 function returnPattern(str, pattern) {
   var result = str.match(pattern);
-  console.log('returnPattern: ' + result);
+  //console.log('returnPattern: ' + result);
   return result;
 }
 

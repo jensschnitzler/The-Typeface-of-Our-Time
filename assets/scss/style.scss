@@ -285,6 +285,11 @@ h1,h2,h3,h4,h5,h6 {
   //background: pink;
   transform: translateX(-.25rem); // optical centering
 }
+@media only screen and (min-height: 600px) {
+  h1,h2,h3,h4,h5,h6 {
+    margin: 8rem auto 6rem;
+  }
+}
 
 h1 {
   font-size: 4rem;

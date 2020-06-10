@@ -9,9 +9,13 @@
 
 function addClassToPattern(str, pattern, classname) {
   var match = str.match(pattern);
-  var result = str.replace(pattern, '<span class="' + classname + '">' + match + '</span>');
-  console.log('addClassToPattern: ' + result);
-  return result;
+  if(match.length > 0 ){
+    var result = str.replace(pattern, '<span class="' + classname + '">' + match + '</span>');
+    console.log('addClassToPattern: ' + result);
+    return result;
+  } else {
+    return str;
+  }
 }
 
 function findSrc(text){
@@ -31,7 +35,7 @@ function figureItOut(){
 
     if( myParent.is('p') ){
       myAlt = myImage.attr('alt');
-      console.log('myAlt: ' + myAlt);
+      //console.log('myAlt: ' + myAlt);
       var pattern = /\(src:\s(.+)\)/gi;
       var classname = 'figsource';
       myNewAlt = addClassToPattern(myAlt, pattern, classname)
