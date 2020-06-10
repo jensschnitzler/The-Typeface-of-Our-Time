@@ -290,16 +290,17 @@ h3 {
   flex-flow: column nowrap;
   justify-content: center;
   align-items: center;
+  padding: .5rem;
   h1 {
-    font-size: 17vw;
-    font-size: clamp(20px, 17vw, 3vh);
-    max-width: none;
+    font-size: 17vw; // fallback
+    font-size: clamp(20px, 17vw, 25vh);
+    max-width: 1700px;
   }
 }
 @media only screen and (min-width: 1200px) {
   .main-title {
     h1 {
-      color: red;
+      //color: red;
     }
   }
 }
