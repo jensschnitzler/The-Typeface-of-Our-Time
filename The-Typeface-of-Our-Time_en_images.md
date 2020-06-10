@@ -16,7 +16,7 @@
 
 ![Inscription on the Roman Trajan column. Trajan's Column is an honorary column, which was erected in 112 AD for the Roman Emperor Trajan (98 - 117 AD) on the Forum of Rome. (src: en.wikipedia.org/wiki/Trajanss%C3%A4ule#/media/File:Inscription_of_Trajanss%C3%A4ule.jpg)](/The-Typeface-of-Our-Time/assets/img/Inscription_of_Trajanssaeule.jpg)
 
-![Painting of a Gothic Cathedral by Pieter Neefs I and David Teniers II, 1599-1656 (src: commons.wikimedia.org/wiki/File:Pieter_Neefs_I_and_David_Teniers_II_(Attr.)_-_Interior_of_a_Gothic_cathedral_with_figures.jpg)](/The-Typeface-of-Our-Time/assets/img/Interior-of-a-Gothic-cathedral-with-figures.jpg)
+![Painting of a Gothic Cathedral by Pieter Neefs I and David Teniers II, 1599 – 1656 (src: commons.wikimedia.org/wiki/File:Pieter_Neefs_I_and_David_Teniers_II_(Attr.)_-_Interior_of_a_Gothic_cathedral_with_figures.jpg)](/The-Typeface-of-Our-Time/assets/img/Interior-of-a-Gothic-cathedral-with-figures.jpg)
 
 ![Sketch of the Panteon (built 114 AD - 128 AD) by the Italian architect Francesco Piranesi, 1790 (src: fr.m.wikipedia.org/wiki/Fichier:Piranesi-6033.jpg)](/The-Typeface-of-Our-Time/assets/img/Piranesi-6033.jpg)
 
@@ -70,7 +70,7 @@
 
 ![The AEG typeface by Peter Behrens was the first "corporate typeface" at the beginning of the 20th century. (src: get.google.com/albumarchive/114630083066969872545/album/AF1QipNDzvgEhmf3qmGD-H5dsdzK33LPGf77MEjk5GJY)](/The-Typeface-of-Our-Time/assets/img/AEG-Script-100aeg.jpg)
 
-![AEG turbine factory by Peter Behrens, 1909-1910 (src: khanacademy.org/humanities/art-1010/architecture-20c/modal/a/peter-behrens-turbine-factory)](/The-Typeface-of-Our-Time/assets/img/behrens-turbinenhalle.jpg)
+![AEG turbine factory by Peter Behrens, 1909 – 1910 (src: khanacademy.org/humanities/art-1010/architecture-20c/modal/a/peter-behrens-turbine-factory)](/The-Typeface-of-Our-Time/assets/img/behrens-turbinenhalle.jpg)
 
 ![Johnston Sans by Edward Johnston, 1913, commissioned by the Underground Electric Railways Company of London. (src: cdn.londonreconnections.com/2013/johnstonearly.jpg)](/The-Typeface-of-Our-Time/assets/img/johnstonearly.jpg)
 
@@ -80,7 +80,7 @@
 
 ![Erbar by Jakob Erbar, 1922 (src: twitter.com/Letter_Library/status/1043188971277365250)](/The-Typeface-of-Our-Time/assets/img/Erbar-Grotesk.jpg)
 
-![Design for the cover of the book "State Bauhaus in Weimar 1919-1923" by László Moholy-Nagy, 1923](/The-Typeface-of-Our-Time/assets/img/StaatlichesBauhausTitelseite.jpg)
+![Design for the cover of the book "State Bauhaus in Weimar 1919 – 1923" by László Moholy-Nagy, 1923](/The-Typeface-of-Our-Time/assets/img/StaatlichesBauhausTitelseite.jpg)
 
 ![Model of Le Corbusier's Plan Voisin for Paris, 1925: Plan Voisin was a utopian urban design by Le Corbusier, which he exhibited in the pavilion of the magazine L'Esprit Nouveau at the "Exposition internationale des Arts Décoratifs et industriels modernes" in Paris in 1925. The project, financed by the automobile and aircraft manufacturer Gabriel Voisin, envisaged the demolition of large parts of the old Parisian centre on the right bank of the Seine and was therefore the subject of controversial discussion.](/The-Typeface-of-Our-Time/assets/img/1925 Le Corbusier Plan Voisin pour Paris.jpg)
 

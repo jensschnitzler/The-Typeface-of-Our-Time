@@ -10,7 +10,7 @@ The connection between designed form and the designer’s mentality is also brou
 
 The dogmatic-reactionary traditionalists, according to Fred Smeijers, oppose this idea. They felt attacked by the urge for renewal and by new technical developments, which would encourage to disregard the traditionalist’s time-honored laws.[\*](Smeijers:Counterpunch:180) But this opposition proofs the point of the temporal nature of type, by rejecting innovation and novelties not only in the field of design but in culture and politics altogether.
 
-![Sketch of the Panteon (built 114 AD - 128 AD) by the Italian architect Francesco Piranesi, 1790 (src: fr.m.wikipedia.org/wiki/Fichier:Piranesi-6033.jpg)](/The-Typeface-of-Our-Time/assets/img/Piranesi-6033.jpg)
+![Sketch of the Panteon (built 114 AD – 128 AD) by the Italian architect Francesco Piranesi, 1790 (src: fr.m.wikipedia.org/wiki/Fichier:Piranesi-6033.jpg)](/The-Typeface-of-Our-Time/assets/img/Piranesi-6033.jpg)
 
 
 ### Roman Imperial Era (1st – 4th century)
@@ -21,7 +21,7 @@ In *Von der Entwicklung der Schrift* (On the Development of Type) Peter Behrens 
 
 We will encounter that in the subsequent course of Western cultural history, antiquity regularly served as a reference model and projection surface for both conservative and progressive worldviews and hence design movements.
 
-![Painting of a Gothic Cathedral by Pieter Neefs I and David Teniers II, 1599-1656 (src: commons.wikimedia.org/wiki/File:Pieter_Neefs_I_and_David_Teniers_II_(Attr.)_-_Interior_of_a_Gothic_cathedral_with_figures.jpg)](/The-Typeface-of-Our-Time/assets/img/Interior-of-a-Gothic-cathedral-with-figures.jpg)
+![Painting of a Gothic Cathedral by Pieter Neefs I and David Teniers II, 1599 – 1656 (src: commons.wikimedia.org/wiki/File:Pieter_Neefs_I_and_David_Teniers_II_(Attr.)_-_Interior_of_a_Gothic_cathedral_with_figures.jpg)](/The-Typeface-of-Our-Time/assets/img/Interior-of-a-Gothic-cathedral-with-figures.jpg)
 
 ### Gothic (12th-15th century)
 
@@ -43,7 +43,7 @@ Whether or not our resulting alphabet of today was based on a fallacy, however, 
 
 One of the humanist pioneers was Nicolas Jenson, a native Frenchman who had learned the art of printing in Germany. Around 1469, he founded a printshop in Venice, where he developed typefaces that mixed the properties of the Gothic script, which he was familiar with from Central Europe, with the new, round, lighter forms of Italian taste. The type he cut, such as *Jenson*, were among the first and, according to Ellen Lupton, “still the best antiqua fonts”.[\*](Lupton:Mit-Schrift-Denken:15)
 
-[info: Nicolas Jenson (1420-1480), stamp cutter, typographer, calligrapher, printer, publisher]
+[info: Nicolas Jenson (1420 – 1480), stamp cutter, typographer, calligrapher, printer, publisher]
 
 Manual typesetting based on Gutenberg’s invention was the predominant printing technique from the 15th to the 19th century. While the printing types used by Gutenberg still formally imitated the handwriting of monastic scriptoria, Jenson designed an “Antiqua that was already quite independent of the manuscripts and more in keeping with the requirements of punchcutting”.[\*](Bollwage:Buchstabengeschichten:134) Jenson’s model influences type designers ever since.
 
@@ -51,13 +51,13 @@ Manual typesetting based on Gutenberg’s invention was the predominant printing
 
 Other notable and highly influential protagonists of this era were Aldus Manutius, Francesco Griffo and Geoffroy Tory. Tory studied at the Faculty of Philosophy in Bourges, France, back then the center of humanist culture. He played a leading role in the popularization of the Antiqua (as opposed to the predominant blackletter) and the establishment of typographical elements such as accents, apostrophe, the cedilla, and punctuation marks.[\*](Britannica:Geoffroy-Tory) From today’s perspective, an amusing example of the interpretation of humanist ideals in type design is Geoffroy Tory’s theory on the proportioning of letterforms. Tory believed he had found the ideal relations in the form of the human body and in 1529 he published a series of diagrams comparing the anatomy of letters with the human anatomy. He wrote about the letter A: “The horizontal bar covers the man’s organ of procreation in order to show that modesty and chastity are needed to recognize the essence of well-formed letters.”[\*](Lupton:Mit-Schrift-Denken:16-17) A year later, in 1530, François I, King of France, appointed him “Imprimeur du Roi”, royal printer. Tory’s conceptual derivation of letterforms from human anatomy reflects the humanistic view of the explainability of the world and the firm belief in causalities and laws given by nature.
 
-[info: Geoffroy Tory (1480-1533), humanist, engraver, printer, scholar]
+[info: Geoffroy Tory (1480 – 1533), humanist, engraver, printer, scholar]
 
 ![Page of the book Champfleury by Geoffroy Tory, 1529 The work Champfleury was published in French in Paris in 1529 and is a treatise on questions of printing and the French language. Tory's work is a testament to the early Renaissance in France. The predominant humanism of the time had the ambition to introduce the Latin letters and to see in man the measure of all things. This approach is also reflected in the letters of Tory. In addition, both ancient and Italian influences can be found in his work. (src: commons.wikimedia.org/wiki/File:Champ_fleury_f46v_cropped.jpg#/media/File:Champ_fleury_f46v.jpg)](/The-Typeface-of-Our-Time/assets/img/Champ_fleury_f46v.jpg)
 
 In 1540, François I also commissioned the type designer Claude Garamond to design a typeface that we know today under his very name. Garamond was at the time a good example of how a typeface could grow into a representative symbol of a certain philosophy, ideology, institution or nation, and how this symbol could be embraced or rejected with what it represents. Garamond’s type developed into the distinctive sign of the French Enlightenment and served as the first standardized, proprietary brand typeface for use in all official state papers of France. In contrast, at the same time German King Maximilian rejected this kind of Latin Antiqua and preferred to use blackletter instead.[\*](Heller+Cassandre:The-Meanings-of-Type)
 
-[info: Claude Garamond (1499-1561), type founder, typographer, stamp cutter, publisher]
+[info: Claude Garamond (1499 – 1561), type founder, typographer, stamp cutter, publisher]
 
 ![Garamond by Claude Garamond, 1540. shown here is a Garamond interpretation of Linotype from 1926 (src: paulshawletterdesign.com/2014/06/the-mystery-of-garamond-no-3)](/The-Typeface-of-Our-Time/assets/img/Garamond.jpg)
 
@@ -87,7 +87,7 @@ In 1693, as part of an extensive encyclopedia, which intended to record all know
 
 The construction according to mathematical principles led to the reintroduction of mistakes in type design, which had long before been taught to be avoided by “eye-thinking” Renaissance punchcutters. “The whole alphabet [of the Romain du Roi] looked as stiff and circumscribed as a French garden of the time,” Max Bollwage describes the grid-aligned illustrations of the Romain du Roi.[\*](Bollwage:Buchstabengeschichten:141) The actual printing letters, however, were saved from this mathematical-planned lifelessness and the lack of consideration of optical corrections by the punchcutter Philippe Grandjean by following his own mind and deviating from the rigid construction template when cutting the type.[\*](Hoeks+Lentjes:The-Triumph-of-Typography:24)
 
-[info: Philippe Grandjean (1666-1714), letter engraver]
+[info: Philippe Grandjean (1666 – 1714), letter engraver]
 
 ![Staging of the absolute ruler in the state portrait of Louis XIV by Hyacinthe Rigaud around 1700 The self-confident pose of the French king, depicted with all the insignia of his power, symbolizes his claim to power legitimized by divine mandate. The oil painting became the model for the portraits of absolutist rulers throughout Europe.](/The-Typeface-of-Our-Time/assets/img/Louis_XIV_of_France.jpg)
 
@@ -98,7 +98,7 @@ The construction according to mathematical principles led to the reintroduction 
 
 After the luxuriant and exuberant epochs of the Baroque and Rococo periods, classicism returned to the fascination of an image of antiquity that was attached to the supposed grandeur and simplicity of ancient buildings and sculptures. It awakened “in the observer accustomed to rococo the desire for austerity and simplicity in art [...], but also for solemn pathos.”[\*](Bollwage:Buchstabengeschichten:145)
 
-[info: Baroque (about 1575-1770), Rococo (about 1720-1780), Classicism (about 1770-1840)]
+[info: Baroque (about 1575 – 1770), Rococo (about 1720 – 1780), Classicism (about 1770 – 1840)]
 
 The outstanding type designers and typographers of classicism, such as Giambattista Bodoni, Firmin Didot and their predecessor John Baskerville, banned the ornament of previous epochs from type and the printed page. The classisist movement rejected the use of initials, grand decorative initial letters, and reduced any ornament to a minimum.[\*](Hoeks+Lentjes:The-Triumph-of-Typography:89-91)[\*](Bosshard:Max-Bill-Kontra-Jan-Tschichold:7) Their ideal was clarity, which expressed in type design by sharp-edged printing letters with high contrast in line width and centered, dark text blocks, surrounded by generous, undecorated white space.
 
@@ -108,13 +108,13 @@ While John Baskerville’s proto-classicist style seemed to be ahead of his time
 
 Giambattista Bodoni created his famous classicist Antiqua “out of the spirit of the nation and the century,” as he put it with an attitude that characterized the stylistic sense of classicism. He explained that “in the Humanities, as in philosophy, the taste of connoisseurs has turned more and more to the simple, to the austere, preferring a beauty without any ornament, which would be nothing but borrowed afterall, to any other”. [\*](Bollwage:Buchstabengeschichten:148)
 
-[info: Giambattista Bodoni (1740-1813), stamp cutter, book printer, typographer, publisher]
+[info: Giambattista Bodoni (1740 – 1813), stamp cutter, book printer, typographer, publisher]
 
 ![Giambattista Bodoni published his masterpiece Manuale Tipografico in 1788. A book containing 291 writings and various ornaments and frames. In 1818, five years after his death, his wife Margherita Dall'Aglio published a second edition containing 373 fonts. Bodoni was strongly influenced by his predecessors Fournier and Firmin Didot. (src: luc.devroye.org/fonts-71993.html)](/The-Typeface-of-Our-Time/assets/img/GiambattistaBodoni-ManualeTipografica-1818.jpg)
 
 Firmin Didot’s clear letterforms reflected the ideals of the Enlightenment and were a symbol of objectivity and rationality.[\*](Naegele+Eisele+Ludwig:Neue-Schriften:135) The socio-economic circumstances in which these designers found themselves also favored the realisation of their outstanding and uncompromising innovations. Bodoni was in the service of the Duke of Parma and did not have to deal with the profitability of his work. Didot was also very privileged as a member of the most prominent French printing family of the 18th century. The predominance of classicist typography lasted until the beginning of the following century, when the industrial revolution entered the processes of type design and typography, triggering an explosion of new typefaces.[\*](Hoeks+Lentjes:The-Triumph-of-Typography:89-91)
 
-[info: Firmin Didot (1764-1836), typographer, writer]
+[info: Firmin Didot (1764 – 1836), typographer, writer]
 
 ![The Didot typeface family is a typographic-historical source that documents how the concept of typefaces changed through the Age of Enlightenment. The famous Didot family served the French crown as type cutter and printer for almost two centuries.](/The-Typeface-of-Our-Time/assets/img/didot_tschichold_750.jpg)
 
@@ -188,7 +188,7 @@ After the pioneering English Arts and Crafts movement, the Jugendstil movement g
 
 ![The AEG typeface by Peter Behrens was the first "corporate typeface" at the beginning of the 20th century. (src: get.google.com/albumarchive/114630083066969872545/album/AF1QipNDzvgEhmf3qmGD-H5dsdzK33LPGf77MEjk5GJY)](/The-Typeface-of-Our-Time/assets/img/AEG-Script-100aeg.jpg)
 
-![AEG turbine factory by Peter Behrens, 1909-1910 (src: khanacademy.org/humanities/art-1010/architecture-20c/modal/a/peter-behrens-turbine-factory)](/The-Typeface-of-Our-Time/assets/img/behrens-turbinenhalle.jpg)
+![AEG turbine factory by Peter Behrens, 1909 – 1910 (src: khanacademy.org/humanities/art-1010/architecture-20c/modal/a/peter-behrens-turbine-factory)](/The-Typeface-of-Our-Time/assets/img/behrens-turbinenhalle.jpg)
 
 ### Modernism and Functionalism (Early 20th Century)
 
@@ -213,15 +213,15 @@ Later on a stylistic rupture in Johnston’s work – and especially the reactio
 
 ![Begging war invalid, Berlin, 1923](/The-Typeface-of-Our-Time/assets/img/Bundesarchiv_Bild_146-1972-062-01,_Berlin,_bettelnder_Kriegsinvalide.jpg)
 
-#### Bauhaus (1919-1933)
+#### Bauhaus (1919 – 1933)
 
-Only one year after the First World War (1914-1918), the Bauhaus opened with its social-artistic agenda. The Bauhaus was a school of the avant-garde, which was linked to the Werkbund, Peter Behrens and the socialist Arts and Crafts movement. Due to its progressive and international orientation, the Bauhaus was from day one described by right-wing parties as “utopian and Bolshevik”.[\*](Bauhaus100-Weimar) The school rejected the elitist thinking of salon art; instead it supported the idea, that design in the form of democratized art was to serve human needs. William Morris’s socialist ideas and the discussion about the merging of art, work and technology, which had already begun with the Werkbund and was increasingly influenced by Russian Constructivism, were further developed here. The ideology of Constructivism, which said that it was only the connection of the apparent antitheses of art and technology that made the decisive contribution to a decent and just life, must be understood against the background of Bolshevik Russia, writes Jean Ulysses Voelker in his book “Read+Play”. The interplay of technology, art and industry was intended to bring about ethical and aesthetic standards for the benefit of society.[\*](Voelker+Glaab:Read-Play:25)
+Only one year after the First World War (1914 – 1918), the Bauhaus opened with its social-artistic agenda. The Bauhaus was a school of the avant-garde, which was linked to the Werkbund, Peter Behrens and the socialist Arts and Crafts movement. Due to its progressive and international orientation, the Bauhaus was from day one described by right-wing parties as “utopian and Bolshevik”.[\*](Bauhaus100-Weimar) The school rejected the elitist thinking of salon art; instead it supported the idea, that design in the form of democratized art was to serve human needs. William Morris’s socialist ideas and the discussion about the merging of art, work and technology, which had already begun with the Werkbund and was increasingly influenced by Russian Constructivism, were further developed here. The ideology of Constructivism, which said that it was only the connection of the apparent antitheses of art and technology that made the decisive contribution to a decent and just life, must be understood against the background of Bolshevik Russia, writes Jean Ulysses Voelker in his book “Read+Play”. The interplay of technology, art and industry was intended to bring about ethical and aesthetic standards for the benefit of society.[\*](Voelker+Glaab:Read-Play:25)
 
 What Walter Gropius rejected, however, was Morris’ attachment to the past, his affinity for pre-industrial craftsmanship, and his hostility to industrial production. Instead, the Bauhaus regarded functionalist engineering as a model, a symbol of the superiority of the rationality of industrial production. During his time as an employee of Peter Behrens, Walter Gropius had learned from him about the logical and systematic coordination of design projects.[\*](Ewen:All-Consuming-Images:140) These two elements, logic and systematics, were and are central elements of the modernist promise of salvation. While in the prevailing historicism and eclecticism typography – particularly advertising typography – went haywire, the fields of mechanical and structural engineering, which were to become the bright guiding star of the modernists, had eluded this arbitrariness.[\*](Bollwage:Buchstabengeschichten:151)
 
 ![Erbar by Jakob Erbar, 1922 (src: twitter.com/Letter_Library/status/1043188971277365250)](/The-Typeface-of-Our-Time/assets/img/Erbar-Grotesk.jpg)
 
-![Design for the cover of the book "State Bauhaus in Weimar 1919-1923" by László Moholy-Nagy, 1923](/The-Typeface-of-Our-Time/assets/img/StaatlichesBauhausTitelseite.jpg)
+![Design for the cover of the book "State Bauhaus in Weimar 1919 – 1923" by László Moholy-Nagy, 1923](/The-Typeface-of-Our-Time/assets/img/StaatlichesBauhausTitelseite.jpg)
 
 ![Model of Le Corbusier's Plan Voisin for Paris, 1925: Plan Voisin was a utopian urban design by Le Corbusier, which he exhibited in the pavilion of the magazine L'Esprit Nouveau at the "Exposition internationale des Arts Décoratifs et industriels modernes" in Paris in 1925. The project, financed by the automobile and aircraft manufacturer Gabriel Voisin, envisaged the demolition of large parts of the old Parisian centre on the right bank of the Seine and was therefore the subject of controversial discussion.](/The-Typeface-of-Our-Time/assets/img/1925 Le Corbusier Plan Voisin pour Paris.jpg)
 
@@ -303,7 +303,7 @@ Tschicholds view of industrial production, which had been glorified until then, 
 
 ![Helvetica by Max Miedinger, 1956](/The-Typeface-of-Our-Time/assets/img/Helvetica.jpg)
 
-![Helvetica, in order to search again for an architectural counterpart, reminds us of the model of garden cities or US-American suburbs. Both are symbols of the inherent modernist contradiction, in which dream - egalitarian social-reformist vision - and nightmare - fascist conformity - lie close together.](/The-Typeface-of-Our-Time/assets/img/Suburbs-Picture13.jpg)
+![Helvetica, in order to search again for an architectural counterpart, reminds us of the model of garden cities or US-American suburbs. Both are symbols of the inherent modernist contradiction, in which dream – egalitarian social-reformist vision – and nightmare – fascist conformity – lie close together.](/The-Typeface-of-Our-Time/assets/img/Suburbs-Picture13.jpg)
 
 ![Display of the form of Aldo Novarese, 1966 (src: indexgrafik.fr/aldo-novarese/aldo-novarese-forma-nebiolo-1968)](/The-Typeface-of-Our-Time/assets/img/Aldo-Novarese-Forma-Nebiolo-1968.jpg)
 
@@ -478,7 +478,7 @@ Postmodernism produced a new type of designer in both architecture and graphic d
 
 !["Raygun No. 10" designed by David Carson, 1993 (src: twitter.com/lett_arc/status/1005843596237594624)](/The-Typeface-of-Our-Time/assets/img/raygun_carson_10.jpg)
 
-With the chaotic layouts of the magazines Beach Culture (1989-1991), Surfer (1991-1992), and Ray Gun (1992-1995), David Carson developed new Bibles for an entire generation of designers. His rise to become the “rebel and rock star” of the design world can be described as characteristically postmodern.[\*](Poynor:Anarchie-der-Zeichen:13) Carson shared the convictions of the designers of Cranbrook and CalArts and also explained that the rationalism of grid systems and other forms of typographic formatting was terribly irrational given the complexity of the contemporary world. “Perhaps you unconsciously do certain things to annoy someone – some of me see no plausible reason for accepting so many design rules. Maybe that’s why I haven’t dedicated myself to many of them either. [...] I’m not against schools of design, but when I began to take an interest in design, I didn’t know these rules, and I was simply fascinated by the manifestations and impressions it made on me.”[\*](Poynor:Anarchie-der-Zeichen:62) David Carson described the linear reception of texts as “conservative mainstream” and countered it with a design that made the reader struggle her way through to the content – and theorized this practice with the term “interactive reading behavior. Some experts doubt that the Californian surf subculture of the 90s, to which Carson belonged, had a pronounced political claim: ”I don’t think there was any surfer at the time who had a political self-image that went beyond a separation from bourgeois life. Carson’s magazines were weird and cool, but nothing more,“writes Jean Ulysses Voelker.[\*](Voelker+Glaab:Read-Play:123)
+With the chaotic layouts of the magazines Beach Culture (1989 – 1991), Surfer (1991 – 1992), and Ray Gun (1992 – 1995), David Carson developed new Bibles for an entire generation of designers. His rise to become the “rebel and rock star” of the design world can be described as characteristically postmodern.[\*](Poynor:Anarchie-der-Zeichen:13) Carson shared the convictions of the designers of Cranbrook and CalArts and also explained that the rationalism of grid systems and other forms of typographic formatting was terribly irrational given the complexity of the contemporary world. “Perhaps you unconsciously do certain things to annoy someone – some of me see no plausible reason for accepting so many design rules. Maybe that’s why I haven’t dedicated myself to many of them either. [...] I’m not against schools of design, but when I began to take an interest in design, I didn’t know these rules, and I was simply fascinated by the manifestations and impressions it made on me.”[\*](Poynor:Anarchie-der-Zeichen:62) David Carson described the linear reception of texts as “conservative mainstream” and countered it with a design that made the reader struggle her way through to the content – and theorized this practice with the term “interactive reading behavior. Some experts doubt that the Californian surf subculture of the 90s, to which Carson belonged, had a pronounced political claim: ”I don’t think there was any surfer at the time who had a political self-image that went beyond a separation from bourgeois life. Carson’s magazines were weird and cool, but nothing more,“writes Jean Ulysses Voelker.[\*](Voelker+Glaab:Read-Play:123)
 
 <!-- replace some “she” with “they”, remove “female” -->
 
@@ -520,7 +520,7 @@ In 1995, design critic Kevin Fenton wrote in the essay “The New Typographer Mu
 
 While deconstructive design in the 1980s was a semi-subcultural, seemingly largely subversive activity, mainly carried out in isolated university greenhouses and observed with deep mistrust by most professionals, in the early 1990s this style was ready for popular assimilation.[\*](Poynor:Anarchie-der-Zeichen:58) And the postmodern style seemed to be just perfectly made for arrangement. John Zerzan, a member of the capitalism-critical magazine *Adbuster*, describes postmodernism as “culture of no resistance”. According to him, it celebrates “the transient flow, states of the boundless and the violation of rules”. Postmodernism would share these values with the most passionate architects of consumerism and capitalist globalization.[\*](Poynor:Anarchie-der-Zeichen:168) Both the accused formal superficiality and the compatibility of postmodern design with the neoliberal consumerism system seem to be confirmed by the fact that many of its renowned “subversive” pioneers were now working for the usual suspects among the large capitalist corporations: For example, Barry Deck (designer of *Template Gothic*) for Coca Cola.[\*](Deck:Coke-Light) Or David Carson for Pepsi, Nike, and Microsoft.[\*](Poynor:Anarchie-der-Zeichen:62)
 
-![Spice Girls perform "Say You'll Be There" live, 1997 The Spice Girls were active as a five-piece British pop girl group from 1994 to 2012. They are also a symbol of a commercial, pop-cultural, and depoliticized appropriation of the aesthetics of previous countercultures - such as punk - throughout the mainstream of postmodernism. (src: irishexaminer.com/breakingnews/discover/the-spice-girls-burst-on-to-the-music-scene-more-than-20-years-ago-826116.html)](/The-Typeface-of-Our-Time/assets/img/Spice_Girls.jpg)
+![Spice Girls perform "Say You'll Be There" live, 1997 The Spice Girls were active as a five-piece British pop girl group from 1994 to 2012. They are also a symbol of a commercial, pop-cultural, and depoliticized appropriation of the aesthetics of previous countercultures – such as punk – throughout the mainstream of postmodernism. (src: irishexaminer.com/breakingnews/discover/the-spice-girls-burst-on-to-the-music-scene-more-than-20-years-ago-826116.html)](/The-Typeface-of-Our-Time/assets/img/Spice_Girls.jpg)
 
 Rick Poynor regards Jonathan Barnbrook’s design as an example of his doubts about the socially critical position of postmodernism: “Does the critical significance of a Barnbrook design lie [...] in the presence of simple copy lines, as ‘Virus says, stops American cultural imperialism’ – even though the design itself embodies a seductively spectacular surplus that is characteristic of this colonization process? Any attempt to argue that his poster design ironically turns the things portrayed to make its case strong is countered by the fact that all Barnbrook works have the same recognizable look. So his complicit critique seems to be postmodern through and through: he means what he says and cannot escape the prevailing cultural conditions at the same time.”[\*](Poynor:Anarchie-der-Zeichen:168) Outside the scientific arena, one agrees, Poynor writes, that “postmodernism has followed the fate of so many other intellectual fashions. Many people have never understood the true meaning of postmodernism, and even benevolent initiates have their doubts”.[\*](Poynor:Anarchie-der-Zeichen:8)
 

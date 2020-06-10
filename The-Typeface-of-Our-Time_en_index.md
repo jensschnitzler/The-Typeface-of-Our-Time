@@ -4,33 +4,33 @@
 | 1st–4th century | Roman Empire |
 | 12th–15th century | Gothic |
 | 14th–16th century | Renaissance, Humanism |
-| 1420–1480 | Nicolas Jenson |
-| 1480–1533 | Geoffroy Tory |
+| 1420 – 1480 | Nicolas Jenson |
+| 1480 – 1533 | Geoffroy Tory |
 | 1496 | Bembo | Francesco Griffo |
-| 1499–1561 | Claude Garamond |
+| 1499 – 1561 | Claude Garamond |
 | 17th century | Baroque, Rococo |
-| 1666–1714 | Philippe Grandjean |
+| 1666 – 1714 | Philippe Grandjean |
 | 18th century | Age of Enlightenment, Neoclassicism |
-| 1706–1775 | John Baskerville |
+| 1706 – 1775 | John Baskerville |
 | 1725 | Caslon | William Caslon |
-| 1740–1813 | Giambattista Bodoni |
+| 1740 – 1813 | Giambattista Bodoni |
 | 1745 | Romain du Roi | Philippe Grandjean & a comite by king Louis XIV |
 | 1754 | Baskerville | John Baskerville |
-| 1764–1836 | Firmin Didot |
+| 1764 – 1836 | Firmin Didot |
 | 1790 | Bodoni | Giambattista Bodoni |
 | 1799 | Didot | Firmin Didot |
 | 19th century | Heimat-style, Historism, Realism, Romanticism |
 | 1800 | Walbaum | Justus Walbaum|
-| 1834–1896 | William Morris |
+| 1834 – 1896 | William Morris |
 | 1845 | Clarendon | Benjamin Fox |
-| 1865–1902 | Otto Eckmann |
-| 1868–1940 | Peter Behrens |
-| 1872–1944 | Edward Johnston |
-| 1876–1934 | Rudolf Koch |
-| 1878–1956 | Paul Renner |
-| 1880–1920 | Art Nouveau, Arts & Crafts, Jugendstil |
-| 1882–1940 | Eric Gill |
-| 1883–1969 | Walter Gropius |
+| 1865 – 1902 | Otto Eckmann |
+| 1868 – 1940 | Peter Behrens |
+| 1872 – 1944 | Edward Johnston |
+| 1876 – 1934 | Rudolf Koch |
+| 1878 – 1956 | Paul Renner |
+| 1880 – 1920 | Art Nouveau, Arts & Crafts, Jugendstil |
+| 1882 – 1940 | Eric Gill |
+| 1883 – 1969 | Walter Gropius |
 | 1890 | De Vinne | Gustav F. Schroeder |
 | 1890 | Golden Type | William Morris |
 | 1896 | Akzidenz Grotesk | unbekannt |
@@ -39,32 +39,32 @@
 | 20th century | Functionalism, Modernism |
 | 1900 | Century Expanded | Linn Boyd Benton, Morris Fuller Benton |
 | 1900 | Eckmann | Otto Eckmann |
-| 1900–1969 | Beatrice Warde |
+| 1900 – 1969 | Beatrice Warde |
 | 1901 | Behrensschrift | Peter Behrens |
 | 1901 | Copperplate Gothic | Frederic W. Goudy |
-| 1902–1974 | Jan Tschichold |
+| 1902 – 1974 | Jan Tschichold |
 | 1903 | Franklin Gothic | Moris Fuller Benton |
 | 1906 | Century Old Style | Moris Fuller Benton |
 | 1907 | Behrens Antiqua | Peter Behrens |
 | 1907 | Clearface | Morris Fuller Benton |
 | 1908 | News Gothic | Morris Fuller Benton |
-| 1908–1994 | Max Bill |
+| 1908 – 1994 | Max Bill |
 | 1909 | Neue Moderne Grotesk | Ludwig Wagner |
 | 1912 | Belladonna | Hildegard Henning |
 | 1913 | Plantin | Christophe Plantin |
 | 1914 | Behrens Mediäval | Peter Behrens |
 | 1914 | Souvenir | Morris Fuller Benton |
-| 1914–1996 | Paul Rand |
+| 1914 – 1996 | Paul Rand |
 | 1915 | Centaur | Bruce Rogers |
 | 1915 | Goudy Old Style | Frederic W. Goudy |
 | 1916 | Colwell Handletter | Elizabeth Colwell |
 | 1916 | Johnston | Edward Johnston |
-| 1919–1933 | Bauhaus |
+| 1919 – 1933 | Bauhaus |
 | 1920 | Ballé Initials | Maria Ballé |
 | 1920 | Cooper Black | Oswald B. Cooper |
-| 1920–1995 | Aldo Novarese |
+| 1920 – 1995 | Aldo Novarese |
 | 1922 | Erbar | Jakob Erbar |
-| 1922–1991 | Otto ›Otl‹ Aicher |
+| 1922 – 1991 | Otto ›Otl‹ Aicher |
 | 1924 | Century Schoolbook | Morris Fuller Benton |
 | 1925 | Muriel Cooper |
 | 1925 | Universal | Herbert Bayer |
@@ -75,7 +75,7 @@
 | 1928 | Kombinationsschrift | Josef Albers |
 | 1928 | Plak | Paul Renner |
 | 1928 | Willem Crouwel |
-| 1928–2015 | Adrian Frutiger |
+| 1928 – 2015 | Adrian Frutiger |
 | 1929 | Metro | William Addison Dwiggins |
 | 1929 | Nobel | Sjoerd de Roos |
 | 1930 | Bank Gothic | Morris Fuller Benton |
@@ -87,7 +87,7 @@
 | 1930s–1940s | Nationalism |
 | 1931 | Times New Roman | Stanley Morison, Victor Lardent |
 | 1931 | Transit | Jan Tschichold |
-| 1931–2014 | Massimo Vignelli |
+| 1931 – 2014 | Massimo Vignelli |
 | 1934 | Rockwell | Frank Hinman Pierpont |
 | 1934 | Tannenberg | Erich Meyer |
 | 1935 | Albertus | Berthold Wolpe |
@@ -109,7 +109,7 @@
 | 1951 | Banco | Roger Excoffon |
 | 1951 | Rhapsodie | Ilse Schüle |
 | 1953 | Mistral | Roger Excoffon |
-| 1953–1968 | Ulmer Schule |
+| 1953 – 1968 | Ulmer Schule |
 | 1954 | Aldus | Hermann Zapf |
 | 1954 | Diotima | Gudrun Zapf von Hesse |
 | 1954 | Montan | Anna Maria Schildbach |
