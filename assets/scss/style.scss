@@ -53,18 +53,18 @@ html, body {
 @media screen and (min-width: 400px) {
   html, body {
     /* scaling from min to max value */
-    font-size: calc(18px + 12 * ((100vw - 400px) / 2600));
+    font-size: calc(18px + 11 * ((100vw - 400px) / 2600));
     /*line-height: calc(18px + 24 * ((100vw - 400px) / 2600));*/
-    letter-spacing: calc(0px + .2 * ((100vw - 400px) / 2600));
+    //letter-spacing: calc(0px + .2 * ((100vw - 400px) / 2600));
   }
 }
 
 @media screen and (min-width: 3000px) {
   html, body {
     /* max value */
-    font-size: 30px;
+    font-size: 29px;
     /*line-height: 42px;*/
-    letter-spacing: .2px;
+    //letter-spacing: .2px;
   }
 }
 
@@ -425,8 +425,8 @@ figure {
   img {
     display: block;
     min-height: 300px;
-    height: 90vh;
-    max-height: 700px;
+    //height: 90vh;
+    max-height: 800px;
     //width: 100%;
     min-width: 30rem;
     max-width: 100%;
@@ -444,6 +444,10 @@ figure {
     padding-top: .2em;
     margin-top: 2em;
     border-top: 2px solid var(--color-text);
+
+    span.figsource {
+      display: none;
+    }
   }
 }
 
