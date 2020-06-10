@@ -6,7 +6,7 @@
 
 ![Advertisement for Futura by Paul Renner, 1927 (src: werbemonitor.at/en/werbemonitor/market-and-branch/futura-synonym-for-the-classic-modern)](/The-Typeface-of-Our-Time/assets/img/Futura_GM_2019.605.19.jpg)
 
-![„Die zeitgemäße Schrift – Studienhefte für Schrift und Formgestaltung“, july 1929, issue 9. This design magazine was published quarterly by Heintze & Blanckertz in Berlin and Leipzig. The publishers were Franz Leberecht and Paul Heinrich Richter. After the Schriftmuseum Rudolf Blanckertz was founded in 1926, Blanckertz decided to create a podium for contemporary design and founded the magazine in 1928 as one of the first design magazines ever. It was mainly devoted to a traditional style with publication of works by Rudolf Koch or Friedrich Heinrichsen. But occasionally modernists such as Paul Renner, Edward Johnston and Hermann Zapf wrote for the magazine as well. The magazine was ceased with the number 64, 1943 due to the war and not continued after 1945.](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
+![„Die zeitgemäße Schrift – Studienhefte für Schrift und Formgestaltung“, july 1929, issue 9. This design magazine was published quarterly by Heintze & Blanckertz in Berlin and Leipzig. The publishers were Franz Leberecht and Paul Heinrich Richter. After the Schriftmuseum Rudolf Blanckertz was founded in 1926, Blanckertz decided to create a podium for contemporary design and founded the magazine in 1928 as one of the first design magazines ever. It was mainly devoted to a traditional style with publication of works by Rudolf Koch or Friedrich Heinrichsen. But occasionally modernists such as Paul Renner, Edward Johnston and Hermann Zapf wrote for the magazine as well. The magazine was ceased with the number 64, 1943 due to the war and not continued after 1945.](/The-Typeface-of-Our-Time/assets/img/Verlag-für-Schriftkunst-Heintze-Blanckertz-Hrsg+Die-zeitgemäße-Schrift-Juli-1929-Heft-9-2.jpg)
 
 ![Poster for the lecture by Jeff Keedy at the US-American university CalArts, designed by Edward Fella, 1996 (src: collections.si.edu/search/detail/edanmdm:chndm_2002-8-11?q=record_ID%3Achndm_2002-8-11&record=1&hlterm=record_ID%3Achndm_2002-8-11&inline=true)](/The-Typeface-of-Our-Time/assets/img/ed-fella_cal-arts_jeff-keedy_1996.jpg)
 
@@ -22,7 +22,7 @@
 
 ![page of the Gutenberg Bible, 1450-1455(src: rarebooksnews.wordpress.com/2012/12/31/book-of-the-week-a-leaf-from-the-gutenberg-bible)](/The-Typeface-of-Our-Time/assets/img/Gutenberg-Bible_Z241-B581-1921-Verso.jpg)
 
-![William Caxton shows King Edward IV. Printing proofs, 1877. This picture "The Caxton Celebration" was created on the occasion of the 400th anniversary of the first printed book in England. Also shown is the printing press. Johannes Gensfleisch, known as Gutenberg, is considered the inventor of this press and thus of modern letterpress printing in Europe. His use of movable letters from 1450 onwards revolutionised the traditional method of book production and triggered a media revolution in Europe. (src: commons.wikimedia.org)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
+![William Caxton shows King Edward IV. Printing proofs, 1877. This picture "The Caxton Celebration" was created on the occasion of the 400th anniversary of the first printed book in England. Also shown is the printing press. Johannes Gensfleisch, known as Gutenberg, is considered the inventor of this press and thus of modern letterpress printing in Europe. His use of movable letters from 1450 onwards revolutionised the traditional method of book production and triggered a media revolution in Europe. (src: commons.wikimedia.org)](/The-Typeface-of-Our-Time/assets/img/The_Caxton_Celebration_-_William_Caxton_showing_specimens_of_his_printing_to_King_Edward_IV_and_his_Queen_300dpi.jpg)
 
 !["Judgement of Paris", ca. 1510-20 In Classicism, ancient Roman and Greek culture and mythology once again acquired artistic interest and social significance. (src: metmuseum.org/toah/images/hb/hb_19.74.1.jpg)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
 
@@ -34,7 +34,7 @@
 
 ![A Renaissance palace in Venice: Palazzo Grimani di San Luca, 1556 (src: upload.wikimedia.org/wikipedia/commons/9/9f/Palazzo_Grimani_di_San_Luca_%28Venice%29.jpg)](/The-Typeface-of-Our-Time/assets/img/Renaissance_Palazzo_Grimani_di_San_Luca_Venice.jpg)
 
-![Construction plan of the Romain du Roi, 1692, copperplate engraving (src: typography.com/fonts/didot/history)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
+![Construction plan of the Romain du Roi, 1692, copperplate engraving (src: typography.com/fonts/didot/history)](/The-Typeface-of-Our-Time/assets/img/RomainDuRoi-1692G.jpg)
 
 ![A strictly structured French garden: "The Garden of Wilton House" by Isaac de Caus, ca. 1640 (src: upload.wikimedia.org/wikipedia/commons/9/9f/Palazzo_Grimani_di_San_Luca_%28Venice%29.jpg)](/The-Typeface-of-Our-Time/assets/img/Gartenanlage_hb_27.66.2.jpg)
 
@@ -48,7 +48,7 @@
 
 ![The Capitol (United States Capitol) in Washington D.C. was built between 1793 and 1823 and is a classicist building. It serves as the seat of Congress and is the venue for sessions of the Senate and the House of Representatives. (src: neoclassicism.us/Content/What_Is_Neoclassicism)](/The-Typeface-of-Our-Time/assets/img/Klassizismus_US-Capitol.jpg)
 
-!["The Great Exhibition" of 1851. In the 19th century, a huge social change took place. In many places slavery was abolished and the first and second industrial revolutions led to massive urbanisation and an increase in economic production, profit and wealth. In addition, European imperialism brought much of Asia and Africa under colonial rule during this period. (src: imgur.com/gallery/IwdPl)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
+!["The Great Exhibition" of 1851. In the 19th century, a huge social change took place. In many places slavery was abolished and the first and second industrial revolutions led to massive urbanisation and an increase in economic production, profit and wealth. In addition, European imperialism brought much of Asia and Africa under colonial rule during this period. (src: imgur.com/gallery/IwdPl)](/The-Typeface-of-Our-Time/assets/img/the-great-exhibition.jpg)
 
 ![Page from a type specimen book from 1844 (src: https://www.typeroom.eu/want-maximum-inspiration-with-minimal-effort-letterform%E2%80%99s-online-archive-is-now-open-to-all!)](/The-Typeface-of-Our-Time/assets/img/LFA_Type_0080_043.jpg)
 
@@ -60,7 +60,7 @@
 
 ![Golden Type by William Morris, 1890 (src: Scan by Jürgen Huber, Supertype)](/The-Typeface-of-Our-Time/assets/img/Golden-Type_SON3496.jpg)
 
-![Wandervogel-Movement, 1896: A movement that originated in Steglitz (today Berlin) is called Wandervogel, mainly by pupils and students of middle-class origin who, in a phase of progressive industrialisation of the cities and inspired by the ideals of the Romantic period, freed themselves from the narrow guidelines of the school and social environment in order to develop their own way of life in the open countryside. Thus, the wandering bird marked the beginning of the youth movement, which also provided important impulses for reform education, nudism and the life reform movement in the first third of the 20th century. This early youth movement sought and found its freedom in nature: playing in the forest, dancing in the meadows and hiking in the mountains.](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
+![Wandervogel-Movement, 1896: A movement that originated in Steglitz (today Berlin) is called Wandervogel, mainly by pupils and students of middle-class origin who, in a phase of progressive industrialisation of the cities and inspired by the ideals of the Romantic period, freed themselves from the narrow guidelines of the school and social environment in order to develop their own way of life in the open countryside. Thus, the wandering bird marked the beginning of the youth movement, which also provided important impulses for reform education, nudism and the life reform movement in the first third of the 20th century. This early youth movement sought and found its freedom in nature: playing in the forest, dancing in the meadows and hiking in the mountains.](/The-Typeface-of-Our-Time/assets/img/Sozarch_F_5000-Fx-299.jpg)
 
 ![The life reformist dancers Totimo, Suzanne Perrottet, Katja Wulff, Maja Lederer, Betty Baaron Samoa and Rudolf von Laban, at Monte Verità in Ascona, Switzerland, 1914.](/The-Typeface-of-Our-Time/assets/img/09_h._szeemann_am_monte_verita_0.jpg)
 
@@ -80,11 +80,11 @@
 
 ![Erbar by Jakob Erbar, 1922 (src: twitter.com/Letter_Library/status/1043188971277365250)](/The-Typeface-of-Our-Time/assets/img/Erbar-Grotesk.jpg)
 
-![Design for the cover of the book "State Bauhaus in Weimar 1919-1923" by László Moholy-Nagy, 1923](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
+![Design for the cover of the book "State Bauhaus in Weimar 1919-1923" by László Moholy-Nagy, 1923](/The-Typeface-of-Our-Time/assets/img/StaatlichesBauhausTitelseite.jpg)
 
 ![Model of Le Corbusier's Plan Voisin for Paris, 1925: Plan Voisin was a utopian urban design by Le Corbusier, which he exhibited in the pavilion of the magazine L'Esprit Nouveau at the "Exposition internationale des Arts Décoratifs et industriels modernes" in Paris in 1925. The project, financed by the automobile and aircraft manufacturer Gabriel Voisin, envisaged the demolition of large parts of the old Parisian centre on the right bank of the Seine and was therefore the subject of controversial discussion.](/The-Typeface-of-Our-Time/assets/img/1925 Le Corbusier Plan Voisin pour Paris.jpg)
 
-![The beginning of an international career: In October 1925, "ivan tschichold", as co-author, first published his views on "die neue gestaltung" and "elementare typografie" in two short essays in the special issue of "elementare typografie", a supplement of the magazine "typografische mitteilungen". (src: typolexikon.de/tschichold-jan/typografische-mitteilungen-elementare-typografie)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
+![The beginning of an international career: In October 1925, "ivan tschichold", as co-author, first published his views on "die neue gestaltung" and "elementare typografie" in two short essays in the special issue of "elementare typografie", a supplement of the magazine "typografische mitteilungen". (src: typolexikon.de/tschichold-jan/typografische-mitteilungen-elementare-typografie)](/The-Typeface-of-Our-Time/assets/img/Tschichold_typographische-mitteilungen.jpg)
 
 ![Poster "Nord Express" by A.M. Cassandre, 1927 (src: christies.com/lotfinder/Lot/am-cassandre-1901-1968-nord-express-5720299-details.aspx)](/The-Typeface-of-Our-Time/assets/img/am-cassandre_nord_express.jpg)
 
@@ -104,7 +104,7 @@
 
 ![Helvetica by Max Miedinger, 1956](/The-Typeface-of-Our-Time/assets/img/Helvetica.jpg)
 
-![Helvetica, in order to search again for an architectural counterpart, reminds us of the model of garden cities or US-American suburbs. Both are symbols of the inherent modernist contradiction, in which dream - egalitarian social-reformist vision - and nightmare - fascist conformity - lie close together.](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
+![Helvetica, in order to search again for an architectural counterpart, reminds us of the model of garden cities or US-American suburbs. Both are symbols of the inherent modernist contradiction, in which dream - egalitarian social-reformist vision - and nightmare - fascist conformity - lie close together.](/The-Typeface-of-Our-Time/assets/img/Suburbs-Picture13.jpg)
 
 ![Display of the form of Aldo Novarese, 1966 (src: indexgrafik.fr/aldo-novarese/aldo-novarese-forma-nebiolo-1968)](/The-Typeface-of-Our-Time/assets/img/Aldo-Novarese-Forma-Nebiolo-1968.jpg)
 
@@ -112,7 +112,7 @@
 
 ![May 1, 1968: Students and lecturers of the HfG demonstrate in front of the Stuttgart parliament for the preservation of the HfG.](/The-Typeface-of-Our-Time/assets/img/Pressefoto-1-Mai-1968-Studenten-und-Dozenten-der-HfG-demonstrieren-vor-dem-Stuttgarter-Landtag-für-den-Erhalt-der-HfG-Foto-Herbert-Kapitzki-HfG-Archiv-Ulm.jpg)
 
-![Protests gather on the Women's Right March in August 1970. The 60s and 70s saw political movements worldwide, such as the anti-racist Civil Rights Movement, the feminist movement, the lesbian and gay movement, and anti-war movements. (src: thenation.com/article/shes-beautiful-when-shes-angry-reveals-radical-ordinary-women-1960s-feminism)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
+![Protests gather on the Women's Right March in August 1970. The 60s and 70s saw political movements worldwide, such as the anti-racist Civil Rights Movement, the feminist movement, the lesbian and gay movement, and anti-war movements. (src: thenation.com/article/shes-beautiful-when-shes-angry-reveals-radical-ordinary-women-1960s-feminism)](/The-Typeface-of-Our-Time/assets/img/Women-of-the-World-Unite-Womens-Liberation-Demonstration-August-26-1970-2.jpg)
 
 ![Avant Garde by Herb Lubalin, Volume 13, Spring 1971. An example of particularly close letter spacing, made possible by the new type of photo-setting. (Src: fontsinuse.com/uses/21625/avant-garde-magazine-13)](/The-Typeface-of-Our-Time/assets/img/Avantgarde-American-PeopleM.jpg)
 
@@ -120,23 +120,23 @@
 
 ![Cover for the Swiss magazine "Typographische Monatsblätter" by Dan Friedman, 1971 (src: artsy.net/artwork/dan-friedman-typografie)](/The-Typeface-of-Our-Time/assets/img/dan-friedman_larger.jpg)
 
-![poster "P. Struycken" by Jan van Toorn, 1974 (src: indexgrafik.fr/wp-content/uploads/Jan-Van-Toorn-P.-Struycken-affiche-1974.jpg)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
+![Poster "P. Struycken" by Jan van Toorn, 1974 (src: indexgrafik.fr/wp-content/uploads/Jan-Van-Toorn-P.-Struycken-affiche-1974.jpg)](/The-Typeface-of-Our-Time/assets/img/Toorn-Struycken.jpg)
 
 ![Zine cover "Anarchy in the UK № 1" by Jamie Reid, Sophie Richmond, Vivienne Westwood, 1977 (src: moma.org/collection/works/156127)](/The-Typeface-of-Our-Time/assets/img/Reid-Jamie_Anarchy.jpg)
 
 ![Punk tour flyer "Anarchy group travelling UK" by Jamie Reid, 1977](/The-Typeface-of-Our-Time/assets/img/Jamie-Reid.-Concert-tour-flyer-of-Anarchy-group-travelling-UK.-London-1977.jpg)
 
-![Cover for WET Magazine, designed by April Greiman, 1979 (src: britannica.com/biography/April-Greiman/media/1080159/67511)](/The-Typeface-of-Our-Time/assets/img/april-greiman-portrait-graphisme-US.jpg)
+![Cover for WET Magazine, designed by April Greiman, 1979 (src: britannica.com/biography/April-Greiman/media/1080159/67511)](/The-Typeface-of-Our-Time/assets/img/Wet-magazine.jpg)
 
 ![Poster "Sci-Arc" by April Greiman, 1985 (src: indexgrafik.fr/april-greiman)](/The-Typeface-of-Our-Time/assets/img/april-greiman-sci-arc-affiche-19852.jpg)
 
-![Susan Kare (1954) is a US-American graphic designer. She designed most of the icons and fonts of the original Mac OS for Apple in the 1980s, and later many icons for Microsoft Windows and IBM OS/2.](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
+![Susan Kare (1954) is a US-American graphic designer. She designed most of the icons and fonts of the original Mac OS for Apple in the 1980s, and later many icons for Microsoft Windows and IBM OS/2.](/The-Typeface-of-Our-Time/assets/img/SusanKare_by_Norman_Seeff_3b58495d-8548-4729-935f-8e59843cadd5.jpg)
 
 ![Emigre 11 by Zuzana Ličko and Rudy Vanderlans. The Emigre magazine appeared with a total of 69 issues between 1984 and 2005. (src: members-only-beta-v0042.lettarc.org/extensions/LFA_beta/item.html?workID=lfa_emigre_0011)](/The-Typeface-of-Our-Time/assets/img/LFA_Emigre_0011_0001.jpg)
 
-![Template Gothic by Barry Deck, 1989 (src: Own archive)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
+![Template Gothic by Barry Deck, 1989 (src: Own archive)](/The-Typeface-of-Our-Time/assets/img/TemplateGothic-1991-Barry-Deck.jpg)
 
-![Keedy Sans by Jeffery Keedy, 1989, in Emigre Magazine](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
+![Keedy Sans by Jeffery Keedy, 1989, in Emigre Magazine](/The-Typeface-of-Our-Time/assets/img/Rudy_Vanderlands_Emigre15_1990.jpg)
 
 !["Beach Culture" designed by David Carson, 1990 (src: vijaybhudia.wordpress.com/2016/02/10/david-carson-interview)](/The-Typeface-of-Our-Time/assets/img/beach-culture-carson_1990.jpg)
 
@@ -154,23 +154,23 @@
 
 ![Base 9 & Base 12 by Zuzana Ličko, 1995 (src: typografie.info/3/fonts/fonts.html/base-9-amp-12-r563)](/The-Typeface-of-Our-Time/assets/img/Licko-Base.jpg)
 
-![Sketches of the Meta by Erik Spiekermann, 1985 Due to its popularity, the Meta was also called "Helvetica of the 1990s". (src: typografie.info/3/fonts/fonts.html/ff-meta-r1)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
+![Sketches of the Meta by Erik Spiekermann, 1985 Due to its popularity, the Meta was also called "Helvetica of the 1990s". (src: typografie.info/3/fonts/fonts.html/ff-meta-r1)](/The-Typeface-of-Our-Time/assets/img/spiekermann_meta-sketch)
 
-![Rotis Sans Serif by Otl Aicher, 1988 (src: Own archive)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
+![Rotis Sans Serif by Otl Aicher, 1988 (src: Own archive)](/The-Typeface-of-Our-Time/assets/img/rotis-aicher_1988.jpg)
 
-![The Sans by Luc de Groot, 1994 (src: Own archive)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
+![The Sans by Luc de Groot, 1994 (src: Own archive)](/The-Typeface-of-Our-Time/assets/img/thesans-Groot_1994.jpg)
 
 ![Poster for the Dysphasia font by Elliott Earls, 1995 (src: elliottearls.com/slide/throwing-apples-posters)](/The-Typeface-of-Our-Time/assets/img/DysphasiaPosterByElliottEarls-1.jpg)
 
 ![Spice Girls perform "Say You'll Be There" live, 1997 The Spice Girls were active as a five-piece British pop girl group from 1994 to 2012. They are also a symbol of a commercial, pop-cultural, and depoliticized appropriation of the aesthetics of previous countercultures - such as punk - throughout the mainstream of postmodernism. (src: irishexaminer.com/breakingnews/discover/the-spice-girls-burst-on-to-the-music-scene-more-than-20-years-ago-826116.html)](/The-Typeface-of-Our-Time/assets/img/Spice_Girls.jpg)
 
-![Cover for "Typography Now Two" by Jonathan Barnbrook, uses his font Elephant Black Italic. Typography Now Two presented contemporary 90s graphic design. (src: amazon.com/ Typography-Now-Two-Rick-Poynor/dp/1873968612)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
+![Cover for "Typography Now Two" by Jonathan Barnbrook, uses his font Elephant Black Italic. Typography Now Two presented contemporary 90s graphic design. (src: amazon.com/ Typography-Now-Two-Rick-Poynor/dp/1873968612)](/The-Typeface-of-Our-Time/assets/img/typography now two.jpg)
 
 ![Druk by Berton Hasebe, 2011. »hard to believe @bertonhasebe’s druk was first released back in 2011. its uncompromising assertiveness & urgency has felt increasingly relevant over the past few years. yes, there are some arguable misuses but it’s rare to find a typeface so prophetic and well-­suited for its age.« the graphic design account "otherwork" twittered in march 2019. (src: twitter.com/other_work/status/1105514000312385538)](/The-Typeface-of-Our-Time/assets/img/Druk_Typographica_2015-150220.jpg)
 
-![Poster "Yale School Of Architecture" by Michael Bierut and Jessica Svendsen, 2014. typeface: Maelstrom by Klim Type Foundry/Kris Sowersby, 2014 (src: pinterest.de/pin/220465344237537668/?lp=true)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
+![Poster "Yale School Of Architecture" by Michael Bierut and Jessica Svendsen, 2014. typeface: Maelstrom by Klim Type Foundry/Kris Sowersby, 2014 (src: pinterest.de/pin/220465344237537668/?lp=true)](/The-Typeface-of-Our-Time/assets/img/yale-maelstrom.jpg)
 
-![Poster for the Yale School of Architecture by Michael Bierut and Laitsz Ho, 2016](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
+![Poster for the Yale School of Architecture by Michael Bierut and Laitsz Ho, 2016](/The-Typeface-of-Our-Time/assets/img/Yale-School-of-Architecture-posters-Michael-Bierut_pink-full.jpg)
 
 ![Stanley by Ludovic Balland, 2012](/The-Typeface-of-Our-Time/assets/img/ludovic-balland-2012-stanley-type-72-130112015141433.jpg)
 
