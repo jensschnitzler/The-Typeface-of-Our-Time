@@ -62,7 +62,7 @@
 
 ![Wandervogel-Movement, 1896: A movement that originated in Steglitz (today Berlin) is called Wandervogel, mainly by pupils and students of middle-class origin who, in a phase of progressive industrialisation of the cities and inspired by the ideals of the Romantic period, freed themselves from the narrow guidelines of the school and social environment in order to develop their own way of life in the open countryside. Thus, the wandering bird marked the beginning of the youth movement, which also provided important impulses for reform education, nudism and the life reform movement in the first third of the 20th century. This early youth movement sought and found its freedom in nature: playing in the forest, dancing in the meadows and hiking in the mountains.](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
 
-![The life reformist dancers Totimo, Suzanne Perrottet, Katja Wulff, Maja Lederer, Betty Baaron Samoa and Rudolf von Laban, at Monte Verità in Ascona, Switzerland, 1914.](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
+![The life reformist dancers Totimo, Suzanne Perrottet, Katja Wulff, Maja Lederer, Betty Baaron Samoa and Rudolf von Laban, at Monte Verità in Ascona, Switzerland, 1914.](/The-Typeface-of-Our-Time/assets/img/09_h._szeemann_am_monte_verita_0.jpg)
 
 !["New forms: Decorative designs for practical use" by Otto Eckmann, 1897 (src: en.wikipedia.org/wiki/File:Die_Jugend.jpg)](/The-Typeface-of-Our-Time/assets/img/placeholder.png)
 
