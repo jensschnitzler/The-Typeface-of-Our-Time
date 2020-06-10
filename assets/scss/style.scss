@@ -269,6 +269,7 @@ h1 {
   letter-spacing: -.01em;
   max-width: 35rem;
   margin: 1rem auto;
+  line-height: 1;
 }
 
 h2 {
@@ -291,7 +292,15 @@ h3 {
   align-items: center;
   h1 {
     font-size: 17vw;
+    font-size: clamp(20px, 17vw, 3vh);
     max-width: none;
+  }
+}
+@media only screen and (min-width: 1200px) {
+  .main-title {
+    h1 {
+      color: red;
+    }
   }
 }
 
