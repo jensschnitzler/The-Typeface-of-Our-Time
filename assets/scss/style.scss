@@ -531,5 +531,5 @@ blockquote, blockquote * {
 
 @media print {
  /* All your print styles go here */
- nav { display: none !important; } 
+ nav,.sub-nav { display: none !important; } 
 }
