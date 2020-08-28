@@ -141,7 +141,7 @@ nav.sub-nav {
     position: sticky;
     z-index: 1;
     display: block;
-    background-color: var(--color-bg);
+    //background-color: var(--color-bg);
     top: 0;
     left: 0;
     border-bottom: 1px solid transparent;
@@ -276,7 +276,8 @@ a,p,h1,h2,h3,h4,h5,h6 {
 
 /* --- Headlines --- */
 
-h1,h2,h3,h4,h5,h6 {
+h1,h2,h3,h4,h5,h6, p.subtitle {
+  font-family: $font-sans;
   display: block;
   text-align: center;
   line-height: 1.15;
@@ -344,7 +345,12 @@ h3 {
     font-size: clamp(20px, 17vw, 25vh);
     max-width: 6em;
     transform-origin: center;
-    transform: scaleY(1.3);
+    transform: scaleX(0.8);
+  }
+  p.subtitle {
+    z-index: 1;
+    transform-origin: center;
+    transform: scaleX(0.8);
   }
 }
 @media only screen and (min-width: 1200px) {
@@ -531,5 +537,5 @@ blockquote, blockquote * {
 
 @media print {
  /* All your print styles go here */
- nav,.sub-nav { display: none !important; } 
+ nav,.sub-nav { display: none !important; }
 }
