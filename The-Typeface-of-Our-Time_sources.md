@@ -1,6 +1,6 @@
 ## Sources
 
-| :--- |:---- |:----|
+| :--- | :--- | :--- | :--- |
 | Aicher, Otl: Typografie; in: Eisele, Naegele: Texte zur Typografie | Zürich, Niggli |
 | Archer, Ben: Eric Gill Got It Wrong; a re-evaluation of Gill Sans | typothe­que.com/ar­ticles/re-evaluation_of_gill_sans | 15.07.2018 |
 | Assheuer, Thomas: Unser inneres Afrika | zeit.de/2006/35/ST-Boehme | 28.03.2018 |
