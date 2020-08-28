@@ -1,6 +1,6 @@
 ## Sources
 
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- |
 | Aicher, Otl: Typografie; in: Eisele, Naegele: Texte zur Typografie | Zürich, Niggli |
 | Archer, Ben: Eric Gill Got It Wrong; a re-evaluation of Gill Sans | typothe­que.com/ar­ticles/re-evaluation_of_gill_sans | 15.07.2018 |
 | Assheuer, Thomas: Unser inneres Afrika | zeit.de/2006/35/ST-Boehme | 28.03.2018 |
@@ -30,7 +30,8 @@
 | Fenton, Kevin: The New Typographer Muttering In Your Ear; in: Bierut, Drenttel, Heller, Holland Looking Closer 2, New York, Allworth Press |
 | Frutiger, Adrian: Der Mensch und seine Zeichen, Wiesbaden, fourier | 2001 |
 | Gerstner, Karl: Kompendium für Alphabeten; in: Eisele, Naegele Texte zur Typografie | Zürich, Niggli |
-| Gill, Eric: An Essay On Typography, Boston, Godine |  Hamilton, Mark The ad that changed advertising. | medium.com/theagency/the-ad-that-changed-advertising-18291a67488c | 14.02.2019 |
+| Gill, Eric: An Essay On Typography, Boston, Godine |  
+| Hamilton, Mark The ad that changed advertising. | medium.com/theagency/the-ad-that-changed-advertising-18291a67488c | 14.02.2019 |
 | Heller, Steven; ­ Cassandre, A. M. The Meanings of Type | eyemagazine.com/feature/article/the-meanings-of-type | 12.06.2018 |
 | Hoeks, Henk; Lentjes, Ewan The Triumph of Typography, Arnhem, ArtEZ Press |
 | Ip, Helen: Twitter twitter.­com/herroherren/status/847651762811027458 | 14.02.2019 |
@@ -74,7 +75,7 @@
 | Tschichold, Jan: Noch eine Schrift; in: Eisele, Naegele Texte zur Typografie, Zürich, Niggli |
 | Type Directors Club Massimo Vignelli, Our Typographic Conscience | tdc.org/news/massimo-vignelli-our-typographic-con­science | 12.06.2018 |
 | Typolexikon Jan Tschichold | typolexikon.de/tschichold-jan | 14.02.2019 |
-| Typotalks Interview mit Philipp Neumeyer typo­talks.com/news/2017/11/13/fragenziehen-6-interview- mit-philipp-neumey­er | 14.02.2019 |
+| Typotalks Interview mit Philipp Neumeyer | typo­talks.com/news/2017/11/13/fragenziehen-6-interview-mit-philipp-neumey­er | 14.02.2019 |
 | UCSB Art The Crystal Goblet | arts.ucsb.edu/faculty­/­reese/­classes/artistsbooks/­Beatrice %20Warde,%20The%20Crystal %20Goblet.pdf | 14.02.2019 |
 | Ulrich, Ferdinand: A brief overview of developments in digital type design | medium.com/@fpeulrich/a-brief-overview-of-deve­lopments-in-digital-type-design-561d9e63a122 | 24.07.2018 |
 | Vignelli, Massimo: Exhibition Opening Invitation, School of Visual Arts, New York |  Voelker, Jean Ulysses; Glaab, Peter Read+Play, Mainz, Designlabor Gutenberg |
@@ -84,7 +85,7 @@
 
 ## Table of Figures
 
-| :--- |:---- |:----|:----|:----|
+| :--- | :--- | :--- | :--- | :--- |
 | unknown | Kapr, Albert/­Fischer, Hans: ­typoart typenkunst, Leipzig 1973 |
 | © Bauer Types | http://­www.ff­mark.com/­img/­history/­Futura.jpg |
 | © Bauer Types | The Monotype Corporation | Gutenberg Museum, Mainz | www.werbe­monitor.at/­medien/­bilder/­Artikel/­aus_der_branche/­futura/­futura3.jpg |

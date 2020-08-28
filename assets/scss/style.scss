@@ -150,7 +150,7 @@ nav.sub-nav {
 
   &:hover {
     height: auto;
-    overflow:visible;
+    overflow: visible;
     overflow-y: auto;
     background-color: rgba(0,0,0,.33);
     .nav-content {
@@ -414,7 +414,7 @@ table {
     display: flex;
     flex-flow: row nowrap;
     border-top: $border;
-    padding: .25em 0;
+    padding: .1em 0;
   }
 
   tr:last-child {
@@ -426,6 +426,7 @@ table {
     flex: 1 1 0;
     word-break: break-all;
     border-left: $border;
+    padding: 0 .05em 0 .1em;
     &:first-child {
       border-left: 0;
     }
