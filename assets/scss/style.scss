@@ -151,7 +151,7 @@ nav.sub-nav {
   &:hover {
     height: auto;
     overflow:visible;
-    overflow-y: scroll;
+    overflow-y: auto;
     .nav-content {
       transform: translateY(0%);
     }
