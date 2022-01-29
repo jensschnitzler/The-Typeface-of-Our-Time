@@ -1,6 +1,6 @@
 ## Index of Schools, Movements, Styles, Personalities and Typefaces
-
-| :--- |:---- |:----|
+| Start | End | Event | Person | Category |
+| --- | --- | --- | --- | --- |
 | 1st–4th century | Roman Empire |
 | 12th–15th century | Gothic |
 | 14th–16th century | Renaissance, Humanism |
